@@ -9,7 +9,7 @@ resp = client.responses.create(
             "type": "mcp",
             "server_label": "local_mcp",
             "server_description": "A local MCP server for math operations",
-            "server_url": "http://127.0.0.1:8000/",
+            "server_url": "https://567ef05776ba.ngrok-free.app/mcp",
             "require_approval": "never",
         },
     ],
