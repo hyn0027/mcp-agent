@@ -1,0 +1,75 @@
+
+Response(
+    id='resp_0748282fde56fa6d0068f0d57c9b2481a1bae3d2c9a250e60c',
+    created_at=1760613756.0,
+    error=None,
+    incomplete_details=None,
+    instructions=None,
+    metadata={},
+    model='gpt-4o-2024-08-06',
+    object='response',
+    output=[
+        McpListTools(
+            id='mcpl_0748282fde56fa6d0068f0d57ca8b081a191882cdb15eaf647',
+            server_label='local_mcp',
+            tools=[
+                McpListToolsTool(
+                    input_schema={
+                        'properties': {
+                            'a': {'title': 'A', 'type': 'number'},
+                            'b': {'title': 'B', 'type': 'number'}
+                        },
+                        'required': ['a', 'b'],
+                        'title': 'addArguments',
+                        'type': 'object'
+                    },
+                    name='add',
+                    annotations={'read_only': False},
+                    description='Add two numbers.'
+                ),
+                McpListToolsTool(
+                    input_schema={
+                        'properties': {
+                            'a': {'title': 'A', 'type': 'number'},
+                            'b': {'title': 'B', 'type': 'number'}
+                        },
+                        'required': ['a', 'b'],
+                        'title': 'mulArguments',
+                        'type': 'object'
+                    },
+                    name='mul',
+                    annotations={'read_only': False},
+                    description='Multiply two numbers.'
+                )
+            ],
+            type='mcp_list_tools',
+            error=None
+        ),
+        ResponseOutputMessage(
+            id='msg_0748282fde56fa6d0068f0d580589081a19702e6c2d2c9e9d3',
+            content=[
+                ResponseOutputText(
+                    annotations=[],
+                    text='I can assist you with booking, modifying, or canceling flight reservations, as well as handling refunds and compensation. If you have any specific requests or questions, feel free to let me know!',
+                    type='output_text',
+                    logprobs=[]
+                )
+            ],
+            role='assistant',
+            status='completed',
+            type='message'
+        )
+    ],
+    parallel_tool_calls=True,
+    temperature=0.0,
+    tool_choice='auto',
+    tools=[
+        Mcp(
+            server_label='local_mcp',
+            type='mcp',
+            allowed_tools=None,
+            authorization=None,
+            connector_id=None,
+            headers=None,
+            require_approval='never',
+            server_description='A local MCP server for math operations', server_url='https://660de9f892f6.ngrok-free.app/<redacted>')], top_p=1.0, background=False, conversation=None, max_output_tokens=None, max_tool_calls=None, previous_response_id=None, prompt=None, prompt_cache_key=None, reasoning=Reasoning(effort=None, generate_summary=None, summary=None), safety_identifier=None, service_tier='default', status='completed', text=ResponseTextConfig(format=ResponseFormatText(type='text'), verbosity='medium'), top_logprobs=0, truncation='disabled', usage=ResponseUsage(input_tokens=1804, input_tokens_details=InputTokensDetails(cached_tokens=0), output_tokens=41, output_tokens_details=OutputTokensDetails(reasoning_tokens=0), total_tokens=1845), user=None, billing={'payer': 'openai'}, store=True)

@@ -1,11 +1,5 @@
-from mcp.server.fastmcp import FastMCP
-
-# Create a new FastMCP instance
-# mcp = FastMCP(
-#     "local-mcp-server",
-#     ssl_keyfile="/Users/yhong3/Documents/Research/Software Security/working_repo/mcp-agent/key.pem",
-#     ssl_certfile="/Users/yhong3/Documents/Research/Software Security/working_repo/mcp-agent/cert.pem",
-# )
+from fastmcp import FastMCP
+from typing import Annotated
 
 
 mcp = FastMCP(
@@ -13,21 +7,20 @@ mcp = FastMCP(
 )
 
 
-@mcp.tool()
-def add(a: float, b: float) -> float:
-    """Add two numbers."""
-    return a + b
-
-
-@mcp.tool()
-def mul(a: float, b: float) -> float:
-    """Multiply two numbers."""
-    return a * b
+@mcp.tool
+def process_image(
+    image_url: Annotated[str, "URL of the image to process"],
+    resize: Annotated[bool, "Whether to resize the image"] = False,
+    width: Annotated[int, "Target width in pixels"] = 800,
+    format: Annotated[str, "Output image format"] = "jpeg",
+) -> dict:
+    """Process an image with optional resizing."""
+    # Implementation...
+    return {}
 
 
 def main():
-    mcp.run(transport="streamable-http")
-    # mcp.run(transport="sse", mount_path="/mcp")
+    mcp.run()
 
 
 if __name__ == "__main__":
