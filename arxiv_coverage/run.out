@@ -1,0 +1,18 @@
+2026-06-28 14:18:09 [INFO] ============================================================
+2026-06-28 14:18:09 [INFO] Starting arxiv-coverage run (workers=1, sleep=3.00s, seed=20250628, sample=True)
+2026-06-28 14:18:09 [INFO] NeurIPS-2025: loaded 5286 accepted papers from cache
+2026-06-28 14:18:09 [INFO] ICML-2025: loaded 3257 accepted papers from cache
+2026-06-28 14:18:09 [INFO] ICLR-2025: loaded 3703 accepted papers from cache
+2026-06-28 14:18:09 [INFO] ACL-2025: loaded 1699 accepted papers from cache
+2026-06-28 14:18:09 [INFO] EMNLP-2025: loaded 1809 accepted papers from cache
+2026-06-28 14:18:09 [INFO] NAACL-2025: loaded 718 accepted papers from cache
+2026-06-28 14:18:09 [INFO] NeurIPS-2025: sampled 100 of 5286 accepted papers
+2026-06-28 14:18:09 [INFO] ICML-2025: sampled 100 of 3257 accepted papers
+2026-06-28 14:18:09 [INFO] ICLR-2025: sampled 100 of 3703 accepted papers
+2026-06-28 14:18:09 [INFO] ACL-2025: sampled 100 of 1699 accepted papers
+2026-06-28 14:18:09 [INFO] EMNLP-2025: sampled 100 of 1809 accepted papers
+2026-06-28 14:18:09 [INFO] NAACL-2025: sampled 100 of 718 accepted papers
+2026-06-28 14:18:09 [INFO] NeurIPS-2025: 0/100 already done, 100 to process
+NeurIPS-2025:   0%|          | 0/100 [00:00<?, ?paper/s]2026-06-28 14:20:15 [WARNING] Received signal 15; finishing in-flight work and shutting down. Press Ctrl+C again to force.
+/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/multiprocessing/resource_tracker.py:475: UserWarning: resource_tracker: There appear to be 1 leaked semaphore objects to clean up at shutdown: {'/mp-qdbotpnf'}
+  warnings.warn(

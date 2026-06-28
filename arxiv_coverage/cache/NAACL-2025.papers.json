@@ -1,0 +1,3592 @@
+[
+  {
+    "id": "2025.naacl-long.1",
+    "title": "Understanding Figurative Meaning through Explainable Visual Entailment",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.2",
+    "title": "Benchmarking Distributional Alignment of Large Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.3",
+    "title": "World Models with Hints of Large Language Models for Goal Achieving",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.4",
+    "title": "CogLM: Tracking Cognitive Development of Large Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.5",
+    "title": "Improving and Assessing the Fidelity of Large Language Models Alignment to Online Communities",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.6",
+    "title": "Improving Retrospective Language Agents via Joint Policy Gradient Optimization",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.7",
+    "title": "CodexGraph: Bridging Large Language Models and Code Repositories via Code Graph Databases",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.8",
+    "title": "Instantly Learning Preference Alignment via In-context DPO",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.9",
+    "title": "ALTER: Augmentation for Large-Table-Based Reasoning",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.10",
+    "title": "What the #?*!: Disentangling Hate Across Target Identities",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.11",
+    "title": "MAD Speech: Measures of Acoustic Diversity of Speech",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.12",
+    "title": "The Russian-focused embedders’ exploration: ruMTEB benchmark and Russian embedding model design",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.13",
+    "title": "PRACTIQ: A Practical Conversational Text-to-SQL dataset with Ambiguous and Unanswerable Queries",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.14",
+    "title": "MIRAGE-Bench: Automatic Multilingual Benchmark Arena for Retrieval-Augmented Generation Systems",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.15",
+    "title": "LLMs Are Biased Towards Output Formats! Systematically Evaluating and Mitigating Output Format Bias of LLMs",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.16",
+    "title": "The Impact of Visual Information in Chinese Characters: Evaluating Large Models’ Ability to Recognize and Utilize Radicals",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.17",
+    "title": "PromptRefine: Enhancing Few-Shot Performance on Low-Resource Indic Languages with Example Selection from related Example Banks",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.18",
+    "title": "Unlocking Decoding-time Controllability: Gradient-Free Multi-Objective Alignment with Contrastive Prompts",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.19",
+    "title": "Fingerspelling within Sign Language Translation",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.20",
+    "title": "MoDS: Moderating a Mixture of Document Speakers to Summarize Debatable Queries in Document Collections",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.21",
+    "title": "Aligning Sentence Simplification with ESL Learner’s Proficiency for Language Acquisition",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.22",
+    "title": "PeerQA: A Scientific Question Answering Dataset from Peer Reviews",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.23",
+    "title": "ALiiCE: Evaluating Positional Fine-grained Citation Generation",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.24",
+    "title": "An LLM-Based Approach for Insight Generation in Data Analysis",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.25",
+    "title": "WebQuality: A Large-scale Multi-modal Web Page Quality Assessment Dataset with Multiple Scoring Dimensions",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.26",
+    "title": "UFO: A UI-Focused Agent for Windows OS Interaction",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.27",
+    "title": "Is your benchmark truly adversarial? AdvScore: Evaluating Human-Grounded Adversarialness",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.28",
+    "title": "Fact-Aware Multimodal Retrieval Augmentation for Accurate Medical Radiology Report Generation",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.29",
+    "title": "On Behalf of the Stakeholders: Trends in NLP Model Interpretability in the Era of LLMs",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.30",
+    "title": "Direct Preference Optimization of Video Large Multimodal Models from Language Model Reward",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.31",
+    "title": "FlexiGPT: Pruning and Extending Large Language Models with Low-Rank Weight Sharing",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.32",
+    "title": "Conformalized Answer Set Prediction for Knowledge Graph Embedding",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.33",
+    "title": "Parameter-free and Accessible Prompt Learning to Enhance Adversarial Robustness for Pre-trained Vision-Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.34",
+    "title": "Fine-grained Fallacy Detection with Human Label Variation",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.35",
+    "title": "Does Liking Yellow Imply Driving a School Bus? Semantic Leakage in Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.36",
+    "title": "SELFGOAL: Your Language Agents Already Know How to Achieve High-level Goals",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.37",
+    "title": "Familiarity: Better Evaluation of Zero-Shot Named Entity Recognition by Quantifying Label Shifts in Synthetic Training Data",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.38",
+    "title": "Learning to Summarize from LLM-generated Feedback",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.39",
+    "title": "Hybrid Graphs for Table-and-Text based Question Answering using LLMs",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.40",
+    "title": "CFinBench: A Comprehensive Chinese Financial Benchmark for Large Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.41",
+    "title": "LLM-Based Explicit Models of Opponents for Multi-Agent Games",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.42",
+    "title": "SeqAR: Jailbreak LLMs with Sequential Auto-Generated Characters",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.43",
+    "title": "JMMMU: A Japanese Massive Multi-discipline Multimodal Understanding Benchmark for Culture-aware Evaluation",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.44",
+    "title": "EASYTOOL: Enhancing LLM-based Agents with Concise Tool Instruction",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.45",
+    "title": "Decoding Hate: Exploring Language Models’ Reactions to Hate Speech",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.46",
+    "title": "Babysit A Language Model From Scratch: Interactive Language Learning by Trials and Demonstrations",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.47",
+    "title": "MoCE: Adaptive Mixture of Contextualization Experts for Byte-based Neural Machine Translation",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.48",
+    "title": "LLM-Human Pipeline for Cultural Grounding of Conversations",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.49",
+    "title": "ACCESS : A Benchmark for Abstract Causal Event Discovery and Reasoning",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.50",
+    "title": "Unmasking Implicit Bias: Evaluating Persona-Prompted LLM Responses in Power-Disparate Social Scenarios",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.51",
+    "title": "GloCOM: A Short Text Neural Topic Model via Global Clustering Context",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.52",
+    "title": "Reversed Attention: On The Gradient Descent Of Attention Layers In GPT",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.53",
+    "title": "Self-Harmonized Chain of Thought",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.54",
+    "title": "AnaScore: Understanding Semantic Parallelism in Proportional Analogies",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.55",
+    "title": "Generating Complex Question Decompositions in the Face of Distribution Shifts",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.56",
+    "title": "Diversify-verify-adapt: Efficient and Robust Retrieval-Augmented Ambiguous Question Answering",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.57",
+    "title": "Unifying AI Tutor Evaluation: An Evaluation Taxonomy for Pedagogical Ability Assessment of LLM-Powered AI Tutors",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.58",
+    "title": "Where is the answer? An empirical study of positional bias for parametric knowledge extraction in language model",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.59",
+    "title": "Evaluating Morphological Compositional Generalization in Large Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.60",
+    "title": "Balancing Forget Quality and Model Utility: A Reverse KL-Divergence Knowledge Distillation Approach for Better Unlearning in LLMs",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.61",
+    "title": "AgentMove: A Large Language Model based Agentic Framework for Zero-shot Next Location Prediction",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.62",
+    "title": "Embedding derived animacy rankings offer insights into the sources of grammatical animacy",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.63",
+    "title": "Generating Long-form Story Using Dynamic Hierarchical Outlining with Memory-Enhancement",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.64",
+    "title": "Little Giants: Synthesizing High-Quality Embedding Data at Scale",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.65",
+    "title": "Can LLMs Convert Graphs to Text-Attributed Graphs?",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.66",
+    "title": "Forest for the Trees: Overarching Prompting Evokes High-Level Reasoning in Large Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.67",
+    "title": "On the Role of Speech Data in Reducing Toxicity Detection Bias",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.68",
+    "title": "ITALIC: An Italian Culture-Aware Natural Language Benchmark",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.69",
+    "title": "RAP: A Metric for Balancing Repetition and Performance in Open-Source Large Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.70",
+    "title": "Improving Data Annotation for Low-Resource Relation Extraction with Logical Rule-Augmented Collaborative Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.71",
+    "title": "CompAct: Compressed Activations for Memory-Efficient LLM Training",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.72",
+    "title": "Large Language Models Are Cross-Lingual Knowledge-Free Reasoners",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.73",
+    "title": "What Did I Do Wrong? Quantifying LLMs’ Sensitivity and Consistency to Prompt Engineering",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.74",
+    "title": "Detect, Disambiguate, and Translate: On-Demand Visual Reasoning for Multimodal Machine Translation with Large Vision-Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.75",
+    "title": "Mitigating Hallucinations in Multi-modal Large Language Models via Image Token Attention-Guided Decoding",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.76",
+    "title": "A Multi-modal Large Language Model with Graph-of-Thought for Effective Recommendation",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.77",
+    "title": "Investigating Human Values in Online Communities",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.78",
+    "title": "Pointwise Mutual Information as a Performance Gauge for Retrieval-Augmented Generation",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.79",
+    "title": "MATO: A Model-Agnostic Training Optimization for Aspect Sentiment Triplet Extraction",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.80",
+    "title": "Dynamic Data Mixing Maximizes Instruction Tuning for Mixture-of-Experts",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.81",
+    "title": "EmoDynamiX: Emotional Support Dialogue Strategy Prediction by Modelling MiXed Emotions and Discourse Dynamics",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.82",
+    "title": "ReasVQA: Advancing VideoQA with Imperfect Reasoning Process",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.83",
+    "title": "Divergent Thoughts toward One Goal: LLM-based Multi-Agent Collaboration System for Electronic Design Automation",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.84",
+    "title": "A Survey of QUD Models for Discourse Processing",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.85",
+    "title": "SafetyQuizzer: Timely and Dynamic Evaluation on the Safety of LLMs",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.86",
+    "title": "Privacy Checklist: Privacy Violation Detection Grounding on Contextual Integrity Theory",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.87",
+    "title": "Investigating the (De)Composition Capabilities of Large Language Models in Natural-to-Formal Language Conversion",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.88",
+    "title": "Stealthy Jailbreak Attacks on Large Language Models via Benign Data Mirroring",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.89",
+    "title": "VividMed: Vision Language Model with Versatile Visual Grounding for Medicine",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.90",
+    "title": "Mixture of Multimodal Adapters for Sentiment Analysis",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.91",
+    "title": "The Impact of Inference Acceleration on Bias of LLMs",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.92",
+    "title": "AfriHate: A Multilingual Collection of Hate Speech and Abusive Language Datasets for African Languages",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.93",
+    "title": "Revealing the Barriers of Language Agents in Planning",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.94",
+    "title": "You Only Read Once (YORO): Learning to Internalize Database Knowledge for Text-to-SQL",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.95",
+    "title": "Option Symbol Matters: Investigating and Mitigating Multiple-Choice Option Symbol Bias of Large Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.96",
+    "title": "DAWN-ICL: Strategic Planning of Problem-solving Trajectories for Zero-Shot In-Context Learning",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.97",
+    "title": "LLaSA: Large Language and Structured Data Assistant",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.98",
+    "title": "Towards Efficient and Multifaceted Computer-assisted Pronunciation Training Leveraging Hierarchical Selective State Space Model and Decoupled Cross-entropy Loss",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.99",
+    "title": "Information-Guided Identification of Training Data Imprint in (Proprietary) Large Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.100",
+    "title": "An Interpretable and Crosslingual Method for Evaluating Second-Language Dialogues",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.101",
+    "title": "From Allies to Adversaries: Manipulating LLM Tool-Calling through Adversarial Injection",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.102",
+    "title": "COVE: COntext and VEracity prediction for out-of-context images",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.103",
+    "title": "Discourse-Driven Evaluation: Unveiling Factual Inconsistency in Long Document Summarization",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.104",
+    "title": "Language Models are Crossword Solvers",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.105",
+    "title": "WHoW: A Cross-domain Approach for Analysing Conversation Moderation",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.106",
+    "title": "Uplifting Lower-Income Data: Strategies for Socioeconomic Perspective Shifts in Large Multi-modal Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.107",
+    "title": "MSc-SQL: Multi-Sample Critiquing Small Language Models For Text-To-SQL Translation",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.108",
+    "title": "Mitigating Heterogeneity among Factor Tensors via Lie Group Manifolds for Tensor Decomposition Based Temporal Knowledge Graph Embedding",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.109",
+    "title": "What Goes Into a LM Acceptability Judgment? Rethinking the Impact of Frequency and Length",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.110",
+    "title": "WaveFM: A High-Fidelity and Efficient Vocoder Based on Flow Matching",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.111",
+    "title": "Analyzing and Evaluating Correlation Measures in NLG Meta-Evaluation",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.112",
+    "title": "Cascading Large Language Models for Salient Event Graph Generation",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.113",
+    "title": "Token-Level Density-Based Uncertainty Quantification Methods for Eliciting Truthfulness of Large Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.114",
+    "title": "How Can We Diagnose and Treat Bias in Large Language Models for Clinical Decision-Making?",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.115",
+    "title": "From Redundancy to Relevance: Information Flow in LVLMs Across Reasoning Tasks",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.116",
+    "title": "Patent-CR: A Dataset for Patent Claim Revision",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.117",
+    "title": "MergeME: Model Merging Techniques for Homogeneous and Heterogeneous MoEs",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.118",
+    "title": "Fine-Tuned LLMs are “Time Capsules” for Tracking Societal Bias Through Books",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.119",
+    "title": "Exploring the Cost-Effectiveness of Perspective Taking in Crowdsourcing Subjective Assessment: A Case Study of Toxicity Detection",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.120",
+    "title": "NormAd: A Framework for Measuring the Cultural Adaptability of Large Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.121",
+    "title": "LiPO: Listwise Preference Optimization through Learning-to-Rank",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.122",
+    "title": "Adaptive Prompting: Ad-hoc Prompt Composition for Social Bias Detection",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.123",
+    "title": "Enhancing Discriminative Representation in Similar Relation Clusters for Few-Shot Continual Relation Extraction",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.124",
+    "title": "SymBa: Symbolic Backward Chaining for Structured Natural Language Reasoning",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.125",
+    "title": "MEDA: Dynamic KV Cache Allocation for Efficient Multimodal Long-Context Inference",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.126",
+    "title": "Language Models Largely Exhibit Human-like Constituent Ordering Preferences",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.127",
+    "title": "SafeQuant: LLM Safety Analysis via Quantized Gradient Inspection",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.128",
+    "title": "Exploring Large Language Models for Effective Rumor Detection on Social Media",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.129",
+    "title": "No Simple Answer to Data Complexity: An Examination of Instance-Level Complexity Metrics for Classification Tasks",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.130",
+    "title": "NLI under the Microscope: What Atomic Hypothesis Decomposition Reveals",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.131",
+    "title": "HISTOIRESMORALES: A French Dataset for Assessing Moral Alignment",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.132",
+    "title": "Leveraging Allophony in Self-Supervised Speech Models for Atypical Pronunciation Assessment",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.133",
+    "title": "SAPIENT: Mastering Multi-turn Conversational Recommendation with Strategic Planning and Monte Carlo Tree Search",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.134",
+    "title": "Reliability of Topic Modeling",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.135",
+    "title": "Style Transfer with Multi-iteration Preference Optimization",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.136",
+    "title": "DTELS: Towards Dynamic Granularity of Timeline Summarization",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.137",
+    "title": "ALERT: An LLM-powered Benchmark for Automatic Evaluation of Recommendation Explanations",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.138",
+    "title": "DETQUS: Decomposition-Enhanced Transformers for QUery-focused Summarization",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.139",
+    "title": "IrokoBench: A New Benchmark for African Languages in the Age of Large Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.140",
+    "title": "The Impact of Domain-Specific Terminology on Machine Translation for Finance in European Languages",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.141",
+    "title": "Benchmarking Language Model Creativity: A Case Study on Code Generation",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.142",
+    "title": "Have LLMs Reopened the Pandora’s Box of AI-Generated Fake News?",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.143",
+    "title": "Probe-Free Low-Rank Activation Intervention",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.144",
+    "title": "FactTrack: Time-Aware World State Tracking in Story Outlines",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.145",
+    "title": "A Bayesian Optimization Approach to Machine Translation Reranking",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.146",
+    "title": "Multi-Conditional Ranking with Large Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.147",
+    "title": "ReGLA: Refining Gated Linear Attention",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.148",
+    "title": "Intrinsic Bias is Predicted by Pretraining Data and Correlates with Downstream Performance in Vision-Language Encoders",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.149",
+    "title": "Benchmarking Failures in Tool-Augmented Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.150",
+    "title": "Entity Decomposition with Filtering: A Zero-Shot Clinical Named Entity Recognition Framework",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.151",
+    "title": "Towards Knowledge Checking in Retrieval-augmented Generation: A Representation Perspective",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.152",
+    "title": "The Power of Many: Multi-Agent Multimodal Models for Cultural Image Captioning",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.153",
+    "title": "Prepending or Cross-Attention for Speech-to-Text? An Empirical Comparison",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.154",
+    "title": "CORRECT: Context- and Reference-Augmented Reasoning and Prompting for Fact-Checking",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.155",
+    "title": "Racing Thoughts: Explaining Contextualization Errors in Large Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.156",
+    "title": "DREAM: Improving Video-Text Retrieval Through Relevance-Based Augmentation Using Large Foundation Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.157",
+    "title": "ToW: Thoughts of Words Improve Reasoning in Large Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.158",
+    "title": "A Probabilistic Framework for LLM Hallucination Detection via Belief Tree Propagation",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.159",
+    "title": "ERAS: Evaluating the Robustness of Chinese NLP Models to Morphological Garden Path Errors",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.160",
+    "title": "Superlatives in Context: Modeling the Implicit Semantics of Superlatives",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.161",
+    "title": "LLMs Are Not Intelligent Thinkers: Introducing Mathematical Topic Tree Benchmark for Comprehensive Evaluation of LLMs",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.162",
+    "title": "Specializing Large Language Models to Simulate Survey Response Distributions for Global Populations",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.163",
+    "title": "Representing Rule-based Chatbots with Transformers",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.164",
+    "title": "Incremental Sentence Processing Mechanisms in Autoregressive Transformer Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.165",
+    "title": "Entangled Relations: Leveraging NLI and Meta-analysis to Enhance Biomedical Relation Extraction",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.166",
+    "title": "Multimodal Needle in a Haystack: Benchmarking Long-Context Capability of Multimodal Large Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.167",
+    "title": "WorldCuisines: A Massive-Scale Benchmark for Multilingual and Multicultural Visual Question Answering on Global Cuisines",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.168",
+    "title": "Extracting and Understanding the Superficial Knowledge in Alignment",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.169",
+    "title": "Smurfs: Multi-Agent System using Context-Efficient DFSDT for Tool Planning",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.170",
+    "title": "From Introspection to Best Practices: Principled Analysis of Demonstrations in Multimodal In-Context Learning",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.171",
+    "title": "Upsample or Upweight? Balanced Training on Heavily Imbalanced Datasets",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.172",
+    "title": "LLM The Genius Paradox: A Linguistic and Math Expert’s Struggle with Simple Word-based Counting Problems",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.173",
+    "title": "PAPILLON: Privacy Preservation from Internet-based and Local Language Model Ensembles",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.174",
+    "title": "When2Call: When (not) to Call Tools",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.175",
+    "title": "Mitigating Hallucinated Translations in Large Language Models with Hallucination-focused Preference Optimization",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.176",
+    "title": "Large Language Models Can Solve Real-World Planning Rigorously with Formal Verification Tools",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.177",
+    "title": "Who Relies More on World Knowledge and Bias for Syntactic Ambiguity Resolution: Humans or LLMs?",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.178",
+    "title": "Beyond Benchmarks: Building a Richer Cross-Document Event Coreference Dataset with Decontextualization",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.179",
+    "title": "Can Unconfident LLM Annotations Be Used for Confident Conclusions?",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.180",
+    "title": "Beyond End-to-End VLMs: Leveraging Intermediate Text Representations for Superior Flowchart Understanding",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.181",
+    "title": "Ihquin tlahtouah in Tetelahtzincocah: An annotated, multi-purpose audio and text corpus of Western Sierra Puebla Nahuatl",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.182",
+    "title": "Benchmarking Large Language Models on Answering and Explaining Challenging Medical Questions",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.183",
+    "title": "Unfamiliar Finetuning Examples Control How Language Models Hallucinate",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.184",
+    "title": "Reasoning Aware Self-Consistency: Leveraging Reasoning Paths for Efficient LLM Sampling",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.185",
+    "title": "MatViX: Multimodal Information Extraction from Visually Rich Articles",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.186",
+    "title": "Towards Rationality in Language and Multimodal Agents: A Survey",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.187",
+    "title": "CluSanT: Differentially Private and Semantically Coherent Text Sanitization",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.188",
+    "title": "TurkingBench: A Challenge Benchmark for Web Agents",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.189",
+    "title": "CodeTree: Agent-guided Tree Search for Code Generation with Large Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.190",
+    "title": "DPL: Diverse Preference Learning Without A Reference Model",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.191",
+    "title": "Verifiable by Design: Aligning Language Models to Quote from Pre-Training Data",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.192",
+    "title": "VoCoT: Unleashing Visually Grounded Multi-Step Reasoning in Large Multi-Modal Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.193",
+    "title": "ACCORD: Closing the Commonsense Measurability Gap",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.194",
+    "title": "CRMArena: Understanding the Capacity of LLM Agents to Perform Professional CRM Tasks in Realistic Environments",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.195",
+    "title": "Mamba-Shedder: Post-Transformer Compression for Efficient Selective Structured State Space Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.196",
+    "title": "CBT-Bench: Evaluating Large Language Models on Assisting Cognitive Behavior Therapy",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.197",
+    "title": "An Efficient Gloss-Free Sign Language Translation Using Spatial Configurations and Motion Dynamics with LLMs",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.198",
+    "title": "Sketch2Code: Evaluating Vision-Language Models for Interactive Web Design Prototyping",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.199",
+    "title": "Design2Code: Benchmarking Multimodal Code Generation for Automated Front-End Engineering",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.200",
+    "title": "Temporal-Aware Soft Prompt Tuning for Automatic Text Dating",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.201",
+    "title": "Sparser Mixture-of-Adapters with Cross-Layer Generalization",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.202",
+    "title": "How to Align Multiple Signed Language Corpora for Better Sign-to-Sign Translations?",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.203",
+    "title": "Communication Makes Perfect: Persuasion Dataset Construction via Multi-LLM Communication",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.204",
+    "title": "Soft Prompting for Unlearning in Large Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.205",
+    "title": "Mutual-pairing Data Augmentation for Fewshot Continual Relation Extraction",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.206",
+    "title": "KMMLU: Measuring Massive Multitask Language Understanding in Korean",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.207",
+    "title": "Protecting Privacy in Multimodal Large Language Models with MLLMU-Bench",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.208",
+    "title": "LLM4DistReconfig: A Fine-tuned Large Language Model for Power Distribution Network Reconfiguration",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.209",
+    "title": "WaterPool: A Language Model Watermark Mitigating Trade-Offs among Imperceptibility, Efficacy and Robustness",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.210",
+    "title": "Tricking Retrievers with Influential Tokens: An Efficient Black-Box Corpus Poisoning Attack",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.211",
+    "title": "The Good, The Bad, and The Greedy: Evaluation of LLMs Should Not Ignore Non-Determinism",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.212",
+    "title": "CVE-Bench: Benchmarking LLM-based Software Engineering Agent’s Ability to Repair Real-World CVE Vulnerabilities",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.213",
+    "title": "PROMPTEVALS: A Dataset of Assertions and Guardrails for Custom Production Large Language Model Pipelines",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.214",
+    "title": "ToolFlow: Boosting LLM Tool-Calling Through Natural and Coherent Dialogue Synthesis",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.215",
+    "title": "Fighting Spurious Correlations in Text Classification via a Causal Learning Perspective",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.216",
+    "title": "Knowledge-Aware Query Expansion with Large Language Models for Textual and Relational Retrieval",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.217",
+    "title": "SVD-LLM V2: Optimizing Singular Value Truncation for Large Language Model Compression",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.218",
+    "title": "AudioBench: A Universal Benchmark for Audio Large Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.219",
+    "title": "Efficient Prompting for Continual Adaptation to Missing Modalities",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.220",
+    "title": "Benchmarking and Building Zero-Shot Hindi Retrieval Model with Hindi-BEIR and NLLB-E5",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.221",
+    "title": "Retrieval, Reasoning, Re-ranking: A Context-Enriched Framework for Knowledge Graph Completion",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.222",
+    "title": "See-Saw Modality Balance: See Gradient, and Sew Impaired Vision-Language Balance to Mitigate Dominant Modality Bias",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.223",
+    "title": "Harnessing and Evaluating the Intrinsic Extrapolation Ability of Large Language Models for Vehicle Trajectory Prediction",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.224",
+    "title": "Stronger Models are Not Always Stronger Teachers for Instruction Tuning",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.225",
+    "title": "Efficient and Effective Prompt Tuning via Prompt Decomposition and Compressed Outer Product",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.226",
+    "title": "Threshold Filtering Packing for Supervised Fine-Tuning: Training Related Samples within Packs",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.227",
+    "title": "Transferable Post-training via Inverse Value Learning",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.228",
+    "title": "FLEX: Expert-level False-Less EXecution Metric for Text-to-SQL Benchmark",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.229",
+    "title": "AID: Adaptive Integration of Detectors for Safe AI with Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.230",
+    "title": "SSMLoRA: Enhancing Low-Rank Adaptation with State Space Model",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.231",
+    "title": "Sharpness-Aware Minimization for Topic Models with High-Quality Document Representations",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.232",
+    "title": "C^2: Scalable Auto-Feedback for LLM-based Chart Generation",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.233",
+    "title": "A Top-down Graph-based Tool for Modeling Classical Semantic Maps: A Case Study of Supplementary Adverbs",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.234",
+    "title": "UniHGKR: Unified Instruction-aware Heterogeneous Knowledge Retrievers",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.235",
+    "title": "Improving Model Evaluation using SMART Filtering of Benchmark Datasets",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.236",
+    "title": "Entropy-Based Decoding for Retrieval-Augmented Large Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.237",
+    "title": "What We Talk About When We Talk About LMs: Implicit Paradigm Shifts and the Ship of Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.238",
+    "title": "Diversity Helps Jailbreak Large Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.239",
+    "title": "Constrained Decoding with Speculative Lookaheads",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.240",
+    "title": "DyPCL: Dynamic Phoneme-level Contrastive Learning for Dysarthric Speech Recognition",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.241",
+    "title": "Revisiting Early Detection of Sexual Predators via Turn-level Optimization",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.242",
+    "title": "StyleTTS-ZS: Efficient High-Quality Zero-Shot Text-to-Speech Synthesis with Distilled Time-Varying Style Diffusion",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.243",
+    "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.244",
+    "title": "ReachAgent: Enhancing Mobile Agent via Page Reaching and Operation",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.245",
+    "title": "Learning to Solve Domain-Specific Calculation Problems with Knowledge-Intensive Programs Generator",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.246",
+    "title": "SLIM: Let LLM Learn More and Forget Less with Soft LoRA and Identity Mixture",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.247",
+    "title": "MMEvalPro: Calibrating Multimodal Benchmarks Towards Trustworthy and Efficient Evaluation",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.248",
+    "title": "MiLoRA: Harnessing Minor Singular Components for Parameter-Efficient LLM Finetuning",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.249",
+    "title": "Analyzing (In)Abilities of SAEs via Formal Languages",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.250",
+    "title": "Multimodal Cognitive Reframing Therapy via Multi-hop Psychotherapeutic Reasoning",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.251",
+    "title": "Explanation based In-Context Demonstrations Retrieval for Multilingual Grammatical Error Correction",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.252",
+    "title": "A Unified Supervised and Unsupervised Dialogue Topic Segmentation Framework Based on Utterance Pair Modeling",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.253",
+    "title": "Evaluating Small Language Models for News Summarization: Implications and Factors Influencing Performance",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.254",
+    "title": "Dynamic Fisher-weighted Model Merging via Bayesian Optimization",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.255",
+    "title": "AI-Assisted Human Evaluation of Machine Translation",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.256",
+    "title": "MLLM-Bench: Evaluating Multimodal LLMs with Per-sample Criteria",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.257",
+    "title": "AgentSense: Benchmarking Social Intelligence of Language Agents through Interactive Scenarios",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.258",
+    "title": "FactCG: Enhancing Fact Checkers with Graph-Based Multi-Hop Data",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.259",
+    "title": "Label Drop for Multi-Aspect Relation Modeling in Universal Information Extraction",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.260",
+    "title": "Test-Time Code-Switching for Cross-lingual Aspect Sentiment Triplet Extraction",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.261",
+    "title": "VisCGEC: Benchmarking the Visual Chinese Grammatical Error Correction",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.262",
+    "title": "Are We Done with MMLU?",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.263",
+    "title": "MeNTi: Bridging Medical Calculator and LLM Agent with Nested Tool Calling",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.264",
+    "title": "Steering Knowledge Selection Behaviours in LLMs via SAE-Based Representation Engineering",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.265",
+    "title": "MoDification: Mixture of Depths Made Easy",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.266",
+    "title": "On the Vulnerability of Text Sanitization",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.267",
+    "title": "Multilingual Needle in a Haystack: Investigating Long-Context Behavior of Multilingual Large Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.268",
+    "title": "Verify-in-the-Graph: Entity Disambiguation Enhancement for Complex Claim Verification with Interactive Graph Representation",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.269",
+    "title": "Exploring the Potential of Large Language Models for Heterophilic Graphs",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.270",
+    "title": "Exploiting Edited Large Language Models as General Scientific Optimizers",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.271",
+    "title": "DIRAS: Efficient LLM Annotation of Document Relevance for Retrieval Augmented Generation",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.272",
+    "title": "Hello Again! LLM-powered Personalized Agent for Long-term Dialogue",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.273",
+    "title": "My LLM might Mimic AAE - But When Should It?",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.274",
+    "title": "High-Dimension Human Value Representation in Large Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.275",
+    "title": "Not all Hallucinations are Good to Throw Away When it Comes to Legal Abstractive Summarization",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.276",
+    "title": "Query-focused Referentiability Learning for Zero-shot Retrieval",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.277",
+    "title": "A Novel Computational Modeling Foundation for Automatic Coherence Assessment",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.278",
+    "title": "Token-based Decision Criteria Are Suboptimal in In-context Learning",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.279",
+    "title": "CSEval: Towards Automated, Multi-Dimensional, and Reference-Free Counterspeech Evaluation using Auto-Calibrated LLMs",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.280",
+    "title": "Multilingual Machine Translation with Open Large Language Models at Practical Scale: An Empirical Study",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.281",
+    "title": "RAG LLMs are Not Safer: A Safety Analysis of Retrieval-Augmented Generation for Large Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.282",
+    "title": "Evaluating Evidence Attribution in Generated Fact Checking Explanations",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.283",
+    "title": "ETHIC: Evaluating Large Language Models on Long-Context Tasks with High Information Coverage",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.284",
+    "title": "Aggregation Artifacts in Subjective Tasks Collapse Large Language Models’ Posteriors",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.285",
+    "title": "Arabic Dataset for LLM Safeguard Evaluation",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.286",
+    "title": "Anticipating Future with Large Language Model for Simultaneous Machine Translation",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.287",
+    "title": "GuideLLM: Exploring LLM-Guided Conversation with Applications in Autobiography Interviewing",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.288",
+    "title": "Fine-Tuning Large Language Models with Sequential Instructions",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.289",
+    "title": "Diverse In-Context Example Selection After Decomposing Programs and Aligned Utterances Improves Semantic Parsing",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.290",
+    "title": "Elevating Legal LLM Responses: Harnessing Trainable Logical Structures and Semantic Knowledge with Legal Reasoning",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.291",
+    "title": "Efficient One-shot Compression via Low-Rank Local Feature Distillation",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.292",
+    "title": "Waste Not, Want Not; Recycled Gumbel Noise Improves Consistency in Natural Language Generation",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.293",
+    "title": "ConQRet: A New Benchmark for Fine-Grained Automatic Evaluation of Retrieval Augmented Computational Argumentation",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.294",
+    "title": "SynthDetoxM: Modern LLMs are Few-Shot Parallel Detoxification Data Annotators",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.295",
+    "title": "BEMEAE: Moving Beyond Exact Span Match for Event Argument Extraction",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.296",
+    "title": "uDistil-Whisper: Label-Free Data Filtering for Knowledge Distillation in Low-Data Regimes",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.297",
+    "title": "Iterative Self-Tuning LLMs for Enhanced Jailbreaking Capabilities",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.298",
+    "title": "VoiceTextBlender: Augmenting Large Language Models with Speech Capabilities via Single-Stage Joint Speech-Text Supervised Fine-Tuning",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.299",
+    "title": "Rethinking Word Similarity: Semantic Similarity through Classification Confusion",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.300",
+    "title": "SUNAR: Semantic Uncertainty based Neighborhood Aware Retrieval for Complex QA",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.301",
+    "title": "Do RAG Systems Cover What Matters? Evaluating and Optimizing Responses with Sub-Question Coverage",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.302",
+    "title": "Stronger Universal and Transferable Attacks by Suppressing Refusals",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.303",
+    "title": "The BiGGen Bench: A Principled Benchmark for Fine-grained Evaluation of Language Models with Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.304",
+    "title": "DreamSync: Aligning Text-to-Image Generation with Image Understanding Feedback",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.305",
+    "title": "Uncovering Bias in Large Vision-Language Models at Scale with Counterfactuals",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.306",
+    "title": "AEGIS2.0: A Diverse AI Safety Dataset and Risks Taxonomy for Alignment of LLM Guardrails",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.307",
+    "title": "UOREX: Towards Uncertainty-Aware Open Relation Extraction",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.308",
+    "title": "Hephaestus: Improving Fundamental Agent Capabilities of Large Language Models through Continual Pre-Training",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.309",
+    "title": "TinyThinker: Distilling Reasoning through Coarse-to-Fine Knowledge Internalization with Self-Reflection",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.310",
+    "title": "VisDoM: Multi-Document QA with Visually Rich Elements Using Multimodal Retrieval-Augmented Generation",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.311",
+    "title": "VTechAGP: An Academic-to-General-Audience Text Paraphrase Dataset and Benchmark Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.312",
+    "title": "Large Language Models Share Representations of Latent Grammatical Concepts Across Typologically Diverse Languages",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.313",
+    "title": "Examining and Adapting Time for Multilingual Classification via Mixture of Temporal Experts",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.314",
+    "title": "FLEURS-ASL: Including American Sign Language in Massively Multilingual Multitask Evaluation",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.315",
+    "title": "EvoAgent: Towards Automatic Multi-Agent Generation via Evolutionary Algorithms",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.316",
+    "title": "EmoCharacter: Evaluating the Emotional Fidelity of Role-Playing Agents in Dialogues",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.317",
+    "title": "Language Models can Categorize System Inputs for Performance Analysis",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.318",
+    "title": "FinEval: A Chinese Financial Domain Knowledge Evaluation Benchmark for Large Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.319",
+    "title": "Rethinking the Role of LLMs for Document-level Relation Extraction: a Refiner with Task Distribution and Probability Fusion",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.320",
+    "title": "Decomposition Dilemmas: Does Claim Decomposition Boost or Burden Fact-Checking Performance?",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.321",
+    "title": "Model Surgery: Modulating LLM’s Behavior Via Simple Parameter Editing",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.322",
+    "title": "Effective Skill Unlearning through Intervention and Abstention",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.323",
+    "title": "CharacterBox: Evaluating the Role-Playing Capabilities of LLMs in Text-Based Virtual Worlds",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.324",
+    "title": "A Cognitive Evaluation Benchmark of Image Reasoning and Description for Large Vision-Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.325",
+    "title": "CoME: An Unlearning-based Approach to Conflict-free Model Editing",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.326",
+    "title": "On The Origin of Cultural Biases in Language Models: From Pre-training Data to Linguistic Phenomena",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.327",
+    "title": "Adapting Sentence-level Automatic Metrics for Document-level Simplification Evaluation",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.328",
+    "title": "Decoding Speculative Decoding",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.329",
+    "title": "Leveraging LLM For Synchronizing Information Across Multilingual Tables",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.330",
+    "title": "ConMeC: A Dataset for Metonymy Resolution with Common Nouns",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.331",
+    "title": "Self-DC: When to Reason and When to Act? Self Divide-and-Conquer for Compositional Unknown Questions",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.332",
+    "title": "TRANSIENTTABLES: Evaluating LLMs’ Reasoning on Temporally Evolving Semi-structured Tables",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.333",
+    "title": "AdvisorQA: Towards Helpful and Harmless Advice-seeking Question Answering with Collective Intelligence",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.334",
+    "title": "tRAG: Term-level Retrieval-Augmented Generation for Domain-Adaptive Retrieval",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.335",
+    "title": "JRE-L: Journalist, Reader, and Editor LLMs in the Loop for Science Journalism for the General Audience",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.336",
+    "title": "Take the essence and discard the dross: A Rethinking on Data Selection for Fine-Tuning Large Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.337",
+    "title": "Graph Neural Network Enhanced Retrieval for Question Answering of Large Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.338",
+    "title": "Pula: Training Large Language Models for Setswana",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.339",
+    "title": "LegalViz: Legal Text Visualization by Text To Diagram Generation",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.340",
+    "title": "Active Few-Shot Learning for Text Classification",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.341",
+    "title": "Enhancing Multimodal Entity Linking with Jaccard Distance-based Conditional Contrastive Learning and Contextual Visual Augmentation",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.342",
+    "title": "ResearchAgent: Iterative Research Idea Generation over Scientific Literature with Large Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.343",
+    "title": "Logit Separability-Driven Samples and Multiple Class-Related Words Selection for Advancing In-Context Learning",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.344",
+    "title": "Identifying Emerging Concepts in Large Corpora",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.345",
+    "title": "CodeSCM: Causal Analysis for Multi-Modal Code Generation",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.346",
+    "title": "From Distributional to Overton Pluralism: Investigating Large Language Model Alignment",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.347",
+    "title": "Advancing MoE Efficiency: A Collaboration-Constrained Routing (\\texttt{C2R}) Strategy for Better Expert Parallelism Design",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.348",
+    "title": "LibEvolutionEval: A Benchmark and Study for Version-Specific Code Generation",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.349",
+    "title": "Evaluating and Mitigating Object Hallucination in Large Vision-Language Models: Can They Still See Removed Objects?",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.350",
+    "title": "Self-Pluralising Culture Alignment for Large Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.351",
+    "title": "K-COMP: Retrieval-Augmented Medical Domain Question Answering With Knowledge-Injected Compressor",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.352",
+    "title": "DrawEduMath: Evaluating Vision Language Models with Expert-Annotated Students’ Hand-Drawn Math Images",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.353",
+    "title": "Knowledge Graph Guided Evaluation of Abstention Techniques",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.354",
+    "title": "Wav2Prompt: End-to-End Speech Prompt Learning and Task-based Fine-tuning for Text-based LLMs",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.355",
+    "title": "Legal Judgment Prediction based on Knowledge-enhanced Multi-Task and Multi-Label Text Classification",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.356",
+    "title": "SPeCtrum: A Grounded Framework for Multidimensional Identity Representation in LLM-Based Agent",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.357",
+    "title": "Beemo: Benchmark of Expert-edited Machine-generated Outputs",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.358",
+    "title": "SANDWiCH: Semantical Analysis of Neighbours for Disambiguating Words in Context ad Hoc",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.359",
+    "title": "Towards Automatic Evaluation for Image Transcreation",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.360",
+    "title": "ImgTrojan: Jailbreaking Vision-Language Models with ONE Image",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.361",
+    "title": "RAG-Star: Enhancing Deliberative Reasoning with Retrieval Augmented Verification and Refinement",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.362",
+    "title": "Mitigating Biases of Large Language Models in Stance Detection with Counterfactual Augmented Calibration",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.363",
+    "title": "Beyond the Next Token: Towards Prompt-Robust Zero-Shot Classification via Efficient Multi-Token Prediction",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.364",
+    "title": "Investigating Hallucinations in Simultaneous Machine Translation: Knowledge Distillation Solution and Components Analysis",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.365",
+    "title": "Markov Chain of Thought for Efficient Mathematical Reasoning",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.366",
+    "title": "Towards Inducing Long-Context Abilities in Multilingual Neural Machine Translation Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.367",
+    "title": "Yeah, Un, Oh: Continuous and Real-time Backchannel Prediction with Fine-tuning of Voice Activity Projection",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.368",
+    "title": "Prompt Compression for Large Language Models: A Survey",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.369",
+    "title": "Goal-Conditioned DPO: Prioritizing Safety in Misaligned Instructions",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.370",
+    "title": "K-Level Reasoning: Establishing Higher Order Beliefs in Large Language Models for Strategic Reasoning",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.371",
+    "title": "SylloBio-NLI: Evaluating Large Language Models on Biomedical Syllogistic Reasoning",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.372",
+    "title": "The State and Fate of Summarization Datasets: A Survey",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.373",
+    "title": "MGM: Global Understanding of Audience Overlap Graphs for Predicting the Factuality and the Bias of News Media",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.374",
+    "title": "A Logical Fallacy-Informed Framework for Argument Generation",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.375",
+    "title": "LLaMA-Berry: Pairwise Optimization for Olympiad-level Mathematical Reasoning via O1-like Monte Carlo Tree Search",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.376",
+    "title": "Generative Prompt Internalization",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.377",
+    "title": "Script-Agnosticism and its Impact on Language Identification for Dravidian Languages",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.378",
+    "title": "NAT: Enhancing Agent Tuning with Negative Samples",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.379",
+    "title": "Hazards in Daily Life? Enabling Robots to Proactively Detect and Resolve Anomalies",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.380",
+    "title": "How to Make the Most of LLMs’ Grammatical Knowledge for Acceptability Judgments",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.381",
+    "title": "Is Your LLM Outdated? A Deep Look at Temporal Generalization",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.382",
+    "title": "Towards a Perspectivist Turn in Argument Quality Assessment",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.383",
+    "title": "A Picture is Worth A Thousand Numbers: Enabling LLMs Reason about Time Series via Visualization",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.384",
+    "title": "PlagBench: Exploring the Duality of Large Language Models in Plagiarism Generation and Detection",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.385",
+    "title": "Commonality and Individuality! Integrating Humor Commonality with Speaker Individuality for Humor Recognition",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.386",
+    "title": "CAST: Corpus-Aware Self-similarity Enhanced Topic modelling",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.387",
+    "title": "A Zero-Shot Open-Vocabulary Pipeline for Dialogue Understanding",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.388",
+    "title": "Navigating the Cultural Kaleidoscope: A Hitchhiker’s Guide to Sensitivity in Large Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.389",
+    "title": "Padding Tone: A Mechanistic Analysis of Padding Tokens in T2I Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.390",
+    "title": "In-Context Learning (and Unlearning) of Length Biases",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.391",
+    "title": "AdTEC: A Unified Benchmark for Evaluating Text Quality in Search Engine Advertising",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.392",
+    "title": "Empowering Retrieval-based Conversational Recommendation with Contrasting User Preferences",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.393",
+    "title": "LRQ: Optimizing Post-Training Quantization for Large Language Models by Learning Low-Rank Weight-Scaling Matrices",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.394",
+    "title": "Towards Robust Knowledge Representations in Multilingual LLMs for Equivalence and Inheritance based Consistent Reasoning",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.395",
+    "title": "LLMs as Meta-Reviewers’ Assistants: A Case Study",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.396",
+    "title": "A Survey of NLP Progress in Sino-Tibetan Low-Resource Languages",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.397",
+    "title": "Enhancing Language Model Hypernetworks with Restart: A Study on Optimization",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.398",
+    "title": "Functional Lexicon in Subword Tokenization",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.399",
+    "title": "Getting More Juice Out of Your Data: Hard Pair Refinement Enhances Visual-Language Models Without Extra Data",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.400",
+    "title": "Evaluating the Prompt Steerability of Large Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.401",
+    "title": "A Data-Driven Method for Analyzing and Quantifying Lyrics-Dance Motion Relationships",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.402",
+    "title": "CROPE: Evaluating In-Context Adaptation of Vision and Language Models to Culture-Specific Concepts",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.403",
+    "title": "PicPersona-TOD : A Dataset for Personalizing Utterance Style in Task-Oriented Dialogue with Image Persona",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.404",
+    "title": "Scaling LLM Inference Efficiently with Optimized Sample Compute Allocation",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.405",
+    "title": "Large Language Models for Persian-English Idiom Translation",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.406",
+    "title": "Follow the Beaten Path: The Role of Route Patterns on Vision-Language Navigation Agents Generalization Abilities",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.407",
+    "title": "Sneaking Syntax into Transformer Language Models with Tree Regularization",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.408",
+    "title": "Meta-Cultural Competence: Climbing the Right Hill of Cultural Awareness",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.409",
+    "title": "Reading between the Lines: Can LLMs Identify Cross-Cultural Communication Gaps?",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.410",
+    "title": "HMT: Hierarchical Memory Transformer for Efficient Long Context Language Processing",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.411",
+    "title": "Faux Polyglot: A Study on Information Disparity in Multilingual Large Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.412",
+    "title": "Teaching Models to Balance Resisting and Accepting Persuasion",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.413",
+    "title": "Making Language Models Robust Against Negation",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.414",
+    "title": "Through the Lens of History: Methods for Analyzing Temporal Variation in Content and Framing of State-run Chinese Newspapers",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.415",
+    "title": "PoisonedParrot: Subtle Data Poisoning Attacks to Elicit Copyright-Infringing Content from Large Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.416",
+    "title": "Towards Operationalizing Right to Data Protection",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.417",
+    "title": "Learning vs Retrieval: The Role of In-Context Examples in Regression with Large Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.418",
+    "title": "GLiREL - Generalist Model for Zero-Shot Relation Extraction",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.419",
+    "title": "ComPO: Community Preferences for Language Model Personalization",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.420",
+    "title": "GroundCocoa: A Benchmark for Evaluating Compositional & Conditional Reasoning in Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.421",
+    "title": "ALPACA AGAINST VICUNA: Using LLMs to Uncover Memorization of LLMs",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.422",
+    "title": "Evaluating Contextualized Representations of (Spanish) Ambiguous Words: A New Lexical Resource and Empirical Analysis",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.423",
+    "title": "Understanding LLMs’ Fluid Intelligence Deficiency: An Analysis of the ARC Task",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.424",
+    "title": "FedSpaLLM: Federated Pruning of Large Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.425",
+    "title": "IHEval: Evaluating Language Models on Following the Instruction Hierarchy",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.426",
+    "title": "Afrispeech-Dialog: A Benchmark Dataset for Spontaneous English Conversations in Healthcare and Beyond",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.427",
+    "title": "THREAD: Thinking Deeper with Recursive Spawning",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.428",
+    "title": "CORG: Generating Answers from Complex, Interrelated Contexts",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.429",
+    "title": "Generating Diverse Hypotheses for Inductive Reasoning",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.430",
+    "title": "On the Analysis and Distillation of Emergent Outlier Properties in Pre-trained Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.431",
+    "title": "Open-World Evaluation for Retrieving Diverse Perspectives",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.432",
+    "title": "Analyzing the Inner Workings of Transformers in Compositional Generalization",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.433",
+    "title": "Substance Beats Style: Why Beginning Students Fail to Code with LLMs",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.434",
+    "title": "Reverse Thinking Makes LLMs Stronger Reasoners",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.435",
+    "title": "Towards Lifelong Dialogue Agents via Timeline-based Memory Management",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.436",
+    "title": "StyleDistance: Stronger Content-Independent Style Embeddings with Synthetic Parallel Examples",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.437",
+    "title": "FiNE: Filtering and Improving Noisy Data Elaborately with Large Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.438",
+    "title": "CAMIEval: Enhancing NLG Evaluation through Multidimensional Comparative Instruction-Following Analysis",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.439",
+    "title": "LongLeader: A Comprehensive Leaderboard for Large Language Models in Long-context Scenarios",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.440",
+    "title": "Language Models Can Infer Action Semantics for Symbolic Planners from Environment Feedback",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.441",
+    "title": "SLM-Mod: Small Language Models Surpass LLMs at Content Moderation",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.442",
+    "title": "On Positional Bias of Faithfulness for Long-form Summarization",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.443",
+    "title": "BPO: Towards Balanced Preference Optimization between Knowledge Breadth and Depth in Alignment",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.444",
+    "title": "UNDIAL: Self-Distillation with Adjusted Logits for Robust Unlearning in Large Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.445",
+    "title": "H-STAR: LLM-driven Hybrid SQL-Text Adaptive Reasoning on Tables",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.446",
+    "title": "Kill two birds with one stone: generalized and robust AI-generated text detection via dynamic perturbations",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.447",
+    "title": "Vision-Language Models Can Self-Improve Reasoning via Reflection",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.448",
+    "title": "Emergence of Episodic Memory in Transformers: Characterizing Changes in Temporal Structure of Attention Scores During Training",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.449",
+    "title": "Knowledge Graph-Guided Retrieval Augmented Generation",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.450",
+    "title": "Amphista: Bi-directional Multi-head Decoding for Accelerating LLM Inference",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.451",
+    "title": "CAVE: Controllable Authorship Verification Explanations",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.452",
+    "title": "Are LLM-Judges Robust to Expressions of Uncertainty? Investigating the effect of Epistemic Markers on LLM-based Evaluation",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.453",
+    "title": "Dynamic Uncertainty Ranking: Enhancing Retrieval-Augmented In-Context Learning for Long-Tail Knowledge in LLMs",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.454",
+    "title": "Seq1F1B: Efficient Sequence-Level Pipeline Parallelism for Large Language Model Training",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.455",
+    "title": "Differentially Private Learning Needs Better Model Initialization and Self-Distillation",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.456",
+    "title": "Is a Peeled Apple Still Red? Evaluating LLMs’ Ability for Conceptual Combination with Property Type",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.457",
+    "title": "CRScore: Grounding Automated Evaluation of Code Review Comments in Code Claims and Smells",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.458",
+    "title": "KS-Lottery: Finding Certified Lottery Tickets for Multilingual Transfer in Large Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.459",
+    "title": "PA-RAG: RAG Alignment via Multi-Perspective Preference Optimization",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.460",
+    "title": "B^4: A Black-Box Scrubbing Attack on LLM Watermarks",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.461",
+    "title": "IMRRF: Integrating Multi-Source Retrieval and Redundancy Filtering for LLM-based Fake News Detection",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.462",
+    "title": "Matina: A Large-Scale 73B Token Persian Text Corpus",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.463",
+    "title": "SMAB: MAB based word Sensitivity Estimation Framework and its Applications in Adversarial Text Generation",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.464",
+    "title": "ManaTTS Persian: a recipe for creating TTS datasets for lower resource languages",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.465",
+    "title": "CultureInstruct: Curating Multi-Cultural Instructions at Scale",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.466",
+    "title": "Lost in Inference: Rediscovering the Role of Natural Language Inference for Large Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.467",
+    "title": "DenseSSM: State Space Models with Dense Hidden Connection for Efficient Large Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.468",
+    "title": "A Mixed-Language Multi-Document News Summarization Dataset and a Graphs-Based Extract-Generate Model",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.469",
+    "title": "Measuring memorization in language models via probabilistic extraction",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.470",
+    "title": "Audio Is the Achilles’ Heel: Red Teaming Audio Large Multimodal Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.471",
+    "title": "EMS-SD: Efficient Multi-sample Speculative Decoding for Accelerating Large Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.472",
+    "title": "Regularized Best-of-N Sampling with Minimum Bayes Risk Objective for Language Model Alignment",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.473",
+    "title": "MAPWise: Evaluating Vision-Language Models for Advanced Map Queries",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.474",
+    "title": "Pay More Attention to Images: Numerous Images-Oriented Multimodal Summarization",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.475",
+    "title": "S^2-MAD: Breaking the Token Barrier to Enhance Multi-Agent Debate Efficiency",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.476",
+    "title": "MASTER: A Multi-Agent System with LLM Specialized MCTS",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.477",
+    "title": "ScreenQA: Large-Scale Question-Answer Pairs Over Mobile App Screenshots",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.478",
+    "title": "Cross-Lingual and Cross-Cultural Variation in Image Descriptions",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.479",
+    "title": "Soft Syntactic Reinforcement for Neural Event Extraction",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.480",
+    "title": "Not All Adapters Matter: Selective Adapter Freezing for Memory-Efficient Fine-Tuning of Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.481",
+    "title": "Bridging the Gap between Expert and Language Models: Concept-guided Chess Commentary Generation and Evaluation",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.482",
+    "title": "TCProF:Time-Complexity Prediction SSL Framework",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.483",
+    "title": "Culture-TRIP: Culturally-Aware Text-to-Image Generation with Iterative Prompt Refinement",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.484",
+    "title": "Behavior-SD: Behaviorally Aware Spoken Dialogue Generation with Large Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.485",
+    "title": "Is Translation All You Need? A Study on Solving Multilingual Tasks with Large Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.486",
+    "title": "AlgoPuzzleVQA: Diagnosing Multimodal Reasoning Challenges of Language Models with Algorithmic Multimodal Puzzles",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.487",
+    "title": "Towards Quantifying Commonsense Reasoning with Mechanistic Insights",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.488",
+    "title": "Beyond Logit Lens: Contextual Embeddings for Robust Hallucination Detection & Grounding in VLMs",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.489",
+    "title": "M2Lingual: Enhancing Multilingual, Multi-Turn Instruction Alignment in Large Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.490",
+    "title": "Multi^3Hate: Multimodal, Multilingual, and Multicultural Hate Speech Detection with Vision–Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.491",
+    "title": "Grounding Fallacies Misrepresenting Scientific Publications in Evidence",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.492",
+    "title": "Has this Fact been Edited? Detecting Knowledge Edits in Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.493",
+    "title": "AdaMergeX: Cross-Lingual Transfer with Large Language Models via Adaptive Adapter Merging",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.494",
+    "title": "Coverage-based Fairness in Multi-document Summarization",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.495",
+    "title": "Grammar Control in Dialogue Response Generation for Language Learning Chatbots",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.496",
+    "title": "Does Mapo Tofu Contain Coffee? Probing LLMs for Food-related Cultural Knowledge",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.497",
+    "title": "Palette of Language Models: A Solver for Controlled Text Generation",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.498",
+    "title": "MAMM-Refine: A Recipe for Improving Faithfulness in Generation with Multi-Agent Collaboration",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.499",
+    "title": "MADial-Bench: Towards Real-world Evaluation of Memory-Augmented Dialogue Generation",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.500",
+    "title": "Assessing the State of the Art in Scene Segmentation",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.501",
+    "title": "DCE-LLM: Dead Code Elimination with Large Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.502",
+    "title": "Instruct-of-Reflection: Enhancing Large Language Models Iterative Reflection Capabilities via Dynamic-Meta Instruction",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.503",
+    "title": "Correcting Negative Bias in Large Language Models through Negative Attention Score Alignment",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.504",
+    "title": "MiCEval: Unveiling Multimodal Chain of Thought’s Quality via Image Description and Reasoning Steps",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.505",
+    "title": "CartesianMoE: Boosting Knowledge Sharing among Experts via Cartesian Product Routing in Mixture-of-Experts",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.506",
+    "title": "Measuring and Benchmarking Large Language Models’ Capabilities to Generate Persuasive Language",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.507",
+    "title": "MILU: A Multi-task Indic Language Understanding Benchmark",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.508",
+    "title": "AutoEval-ToD: Automated Evaluation of Task-oriented Dialog Systems",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.509",
+    "title": "Self-calibration for Language Model Quantization and Pruning",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.510",
+    "title": "Logic-of-Thought: Injecting Logic into Contexts for Full Reasoning in Large Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.511",
+    "title": "IFIR: A Comprehensive Benchmark for Evaluating Instruction-Following in Expert-Domain Information Retrieval",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.512",
+    "title": "QAVA: Query-Agnostic Visual Attack to Large Vision-Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.513",
+    "title": "Evaluating and Improving Graph to Text Generation with Large Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.514",
+    "title": "The Plagiarism Singularity Conjecture",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.515",
+    "title": "Ensembling Large Language Models with Process Reward-Guided Tree Search for Better Complex Reasoning",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.516",
+    "title": "One Unified Model for Diverse Tasks: Emotion Cause Analysis via Self-Promote Cognitive Structure Modeling",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.517",
+    "title": "Soft Language Prompts for Language Transfer",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.518",
+    "title": "PICLe: Pseudo-annotations for In-Context Learning in Low-Resource Named Entity Detection",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.519",
+    "title": "Can Large Language Models Invent Algorithms to Improve Themselves?: Algorithm Discovery for Recursive Self-Improvement through Reinforcement Learning",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.520",
+    "title": "Simulating Classroom Education with LLM-Empowered Agents",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.521",
+    "title": "A Grounded Typology of Word Classes",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.522",
+    "title": "SSH: Sparse Spectrum Adaptation via Discrete Hartley Transformation",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.523",
+    "title": "LLM-guided Plan and Retrieval: A Strategic Alignment for Interpretable User Satisfaction Estimation in Dialogue",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.524",
+    "title": "LCIRC: A Recurrent Compression Approach for Efficient Long-form Context and Query Dependent Modeling in LLMs",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.525",
+    "title": "A Template Is All You Meme",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.526",
+    "title": "LLMs vs Established Text Augmentation Techniques for Classification: When do the Benefits Outweight the Costs?",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.527",
+    "title": "Bridging the Visual Gap: Fine-Tuning Multimodal Models with Knowledge-Adapted Captions",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.528",
+    "title": "Self-Training Meets Consistency: Improving LLMs’ Reasoning with Consistency-Driven Rationale Evaluation",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.529",
+    "title": "Evaluating Defeasible Reasoning in LLMs with DEFREASING",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.530",
+    "title": "Evaluating Input Feature Explanations through a Unified Diagnostic Evaluation Framework",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.531",
+    "title": "From Evidence to Belief: A Bayesian Epistemology Approach to Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.532",
+    "title": "Private Synthetic Text Generation with Diffusion Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.533",
+    "title": "Mitigating Tail Narrowing in LLM Self-Improvement via Socratic-Guided Sampling",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.534",
+    "title": "FactEval: Evaluating the Robustness of Fact Verification Systems in the Era of Large Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.535",
+    "title": "Analyzing Memorization in Large Language Models through the Lens of Model Attribution",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.536",
+    "title": "Track-SQL: Enhancing Generative Language Models with Dual-Extractive Modules for Schema and Context Tracking in Multi-turn Text-to-SQL",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.537",
+    "title": "Prototypical Extreme Multi-label Classification with a Dynamic Margin Loss",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.538",
+    "title": "MCQG-SRefine: Multiple Choice Question Generation and Evaluation with Iterative Self-Critique, Correction, and Comparison Feedback",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.539",
+    "title": "Main Predicate and Their Arguments as Explanation Signals For Intent Classification",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.540",
+    "title": "Handling Missing Entities in Zero-Shot Named Entity Recognition: Integrated Recall and Retrieval Augmentation",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.541",
+    "title": "KMI: A Dataset of Korean Motivational Interviewing Dialogues for Psychotherapy",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.542",
+    "title": "Automatic Input Rewriting Improves Translation with Large Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.543",
+    "title": "HIGGS: Pushing the Limits of Large Language Model Quantization via the Linearity Theorem",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.544",
+    "title": "The LLM Language Network: A Neuroscientific Approach for Identifying Causally Task-Relevant Units",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.545",
+    "title": "MixLLM: Dynamic Routing in Mixed Large Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.546",
+    "title": "Continual Learning in Multilingual Sign Language Translation",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.547",
+    "title": "Few-Shot Natural Language to First-Order Logic Translation via Code Generation",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.548",
+    "title": "How Good Are LLMs for Literary Translation, Really? Literary Translation Evaluation with Humans and LLMs",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.549",
+    "title": "PORT: Preference Optimization on Reasoning Traces",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.550",
+    "title": "Guiding Through Complexity: What Makes Good Supervision for Hard Reasoning Tasks?",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.551",
+    "title": "Fine-Grained Transfer Learning for Harmful Content Detection through Label-Specific Soft Prompt Tuning",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.552",
+    "title": "A Systematic Examination of Preference Learning through the Lens of Instruction-Following",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.553",
+    "title": "Lived Experience Not Found: LLMs Struggle to Align with Experts on Addressing Adverse Drug Reactions from Psychiatric Medication Use",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.554",
+    "title": "Latent Factor Models Meets Instructions: Goal-conditioned Latent Factor Discovery without Task Supervision",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.555",
+    "title": "LLM-Supported Natural Language to Bash Translation",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.556",
+    "title": "REL-A.I.: An Interaction-Centered Approach To Measuring Human-LM Reliance",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.557",
+    "title": "Eliciting Critical Reasoning in Retrieval-Augmented Generation via Contrastive Explanations",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.558",
+    "title": "A Distributional Perspective on Word Learning in Neural Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.559",
+    "title": "Disentangling language change: sparse autoencoders quantify the semantic evolution of indigeneity in French",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.560",
+    "title": "Planetarium: A Rigorous Benchmark for Translating Text to Structured Planning Languages",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.561",
+    "title": "One fish, two fish, but not the whole sea: Alignment reduces language models’ conceptual diversity",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.562",
+    "title": "Using Text-Based Causal Inference to Disentangle Factors Influencing Online Review Ratings",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.563",
+    "title": "Unlearning as multi-task optimization: A normalized gradient difference approach with an adaptive learning rate",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.564",
+    "title": "REFFLY: Melody-Constrained Lyrics Editing Model",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.565",
+    "title": "Exploring Safety-Utility Trade-Offs in Personalized Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.566",
+    "title": "MultiChartQA: Benchmarking Vision-Language Models on Multi-Chart Problems",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.567",
+    "title": "It Is Not Only the Negative that Deserves Attention! Understanding, Generation & Evaluation of (Positive) Moderation",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.568",
+    "title": "Social Norms in Cinema: A Cross-Cultural Analysis of Shame, Pride and Prejudice",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.569",
+    "title": "The Stochastic Parrot on LLM’s Shoulder: A Summative Assessment of Physical Concept Understanding",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.570",
+    "title": "mHumanEval - A Multilingual Benchmark to Evaluate Large Language Models for Code Generation",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.571",
+    "title": "What Do VLMs NOTICE? A Mechanistic Interpretability Pipeline for Gaussian-Noise-free Text-Image Corruption and Evaluation",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.572",
+    "title": "Are explicit belief representations necessary? A comparison between Large Language Models and Bayesian probabilistic models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.573",
+    "title": "Self-Generated Critiques Boost Reward Modeling for Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.574",
+    "title": "Characterizing the Role of Similarity in the Property Inferences of Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.575",
+    "title": "SimRAG: Self-Improving Retrieval-Augmented Generation for Adapting Large Language Models to Specialized Domains",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.576",
+    "title": "Learning to Substitute Words with Model-based Score Ranking",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.577",
+    "title": "Multilingual Reasoning via Self-training",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.578",
+    "title": "xLAM: A Family of Large Action Models to Empower AI Agent Systems",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.579",
+    "title": "ProMQA: Question Answering Dataset for Multimodal Procedural Activity Understanding",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.580",
+    "title": "Ethical Concern Identification in NLP: A Corpus of ACL Anthology Ethics Statements",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.581",
+    "title": "AdaCAD: Adaptively Decoding to Balance Conflicts between Contextual and Parametric Knowledge",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.582",
+    "title": "Are Multimodal LLMs Robust Against Adversarial Perturbations? RoMMath: A Systematic Evaluation on Multimodal Math Reasoning",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.583",
+    "title": "LBC: Language-Based-Classifier for Out-Of-Variable Generalization",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.584",
+    "title": "On the Impact of Fine-Tuning on Chain-of-Thought Reasoning",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.585",
+    "title": "InfoPO: On Mutual Information Maximization for Large Language Model Alignment",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.586",
+    "title": "Is In-Context Learning a Type of Error-Driven Learning? Evidence from the Inverse Frequency Effect in Structural Priming",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.587",
+    "title": "Guiding Medical Vision-Language Models with Diverse Visual Prompts: Framework Design and Comprehensive Exploration of Prompt Variations",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.588",
+    "title": "Analyzing and Improving Coherence of Large Language Models in Question Answering",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.589",
+    "title": "ALinFiK: Learning to Approximate Linearized Future Influence Kernel for Scalable Third-Party LLM Data Valuation",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.590",
+    "title": "E-Gen: Leveraging E-Graphs to Improve Continuous Representations of Symbolic Expressions",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.591",
+    "title": "Robust and Unbounded Length Generalization in Autoregressive Transformer-Based Text-to-Speech",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.592",
+    "title": "PromptOptMe: Error-Aware Prompt Compression for LLM-based MT Evaluation Metrics",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.593",
+    "title": "AutoParLLM: GNN-guided Context Generation for Zero-Shot Code Parallelization using LLMs",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.594",
+    "title": "Causally Modeling the Linguistic and Social Factors that Predict Email Response",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.595",
+    "title": "AI-LieDar : Examine the Trade-off Between Utility and Truthfulness in LLM Agents",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.596",
+    "title": "Beyond the Safety Bundle: Auditing the Helpful and Harmless Dataset",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.597",
+    "title": "FollowIR: Evaluating and Teaching Information Retrieval Models to Follow Instructions",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.598",
+    "title": "Few-shot Personalization of LLMs with Mis-aligned Responses",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.599",
+    "title": "Prompting with Phonemes: Enhancing LLMs’ Multilinguality for Non-Latin Script Languages",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.600",
+    "title": "SHADES: Towards a Multilingual Assessment of Stereotypes in Large Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.601",
+    "title": "Speculative Diffusion Decoding: Accelerating Language Generation through Diffusion",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.602",
+    "title": "Bayelemabaga: Creating Resources for Bambara NLP",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.603",
+    "title": "Single Ground Truth Is Not Enough: Adding Flexibility to Aspect-Based Sentiment Analysis Evaluation",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.604",
+    "title": "DREAM: Disentangling Risks to Enhance Safety Alignment in Multimodal Large Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.605",
+    "title": "In-Context Learning with Long-Context Models: An In-Depth Exploration",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.606",
+    "title": "Preference Consistency Matters: Enhancing Preference Learning in Language Models with Automated Self-Curation of Training Corpora",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.607",
+    "title": "TurtleBench: A Visual Programming Benchmark in Turtle Geometry",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.608",
+    "title": "Automatically Discovering How Misogyny is Framed on Social Media",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.609",
+    "title": "Faithful, Unfaithful or Ambiguous? Multi-Agent Debate with Initial Stance for Summary Evaluation",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.610",
+    "title": "ReIFE: Re-evaluating Instruction-Following Evaluation",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.611",
+    "title": "Language Models Predict Empathy Gaps Between Social In-groups and Out-groups",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.612",
+    "title": "HARP: Hesitation-Aware Reframing in Transformer Inference Pass",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.613",
+    "title": "JAWAHER: A Multidialectal Dataset of Arabic Proverbs for LLM Benchmarking",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.614",
+    "title": "EmojiPrompt: Generative Prompt Obfuscation for Privacy-Preserving Communication with Cloud-based LLMs",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.615",
+    "title": "MICE for CATs: Model-Internal Confidence Estimation for Calibrating Agents with Tools",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.616",
+    "title": "PAT: Parameter-Free Audio-Text Aligner to Boost Zero-Shot Audio Classification",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.617",
+    "title": "Language Model Council: Democratically Benchmarking Foundation Models on Highly Subjective Tasks",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.618",
+    "title": "SCIURus: Shared Circuits for Interpretable Uncertainty Representations in Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.619",
+    "title": "ProSE: Diffusion Priors for Speech Enhancement",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.620",
+    "title": "Mastering the Craft of Data Synthesis for CodeLLMs",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.621",
+    "title": "ParaICL: Towards Parallel In-Context Learning",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.622",
+    "title": "CausalEval: Towards Better Causal Reasoning in Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.623",
+    "title": "Layer-Level Self-Exposure and Patch: Affirmative Token Mitigation for Jailbreak Attack Defense",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.624",
+    "title": "DeCAP: Context-Adaptive Prompt Generation for Debiasing Zero-shot Question Answering in Large Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.625",
+    "title": "Reward-Guided Tree Search for Inference Time Alignment of Large Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.626",
+    "title": "Typographic Attacks in a Multi-Image Setting",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.627",
+    "title": "Tonguescape: Exploring Language Models Understanding of Vowel Articulation",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.628",
+    "title": "CoRAC: Integrating Selective API Document Retrieval with Question Semantic Intent for Code Question Answering",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.629",
+    "title": "Pipeline Analysis for Developing Instruct LLMs in Low-Resource Languages: A Case Study on Basque",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.630",
+    "title": "How to Make LLMs Forget: On Reversing In-Context Knowledge Edits",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.631",
+    "title": "PerCul: A Story-Driven Cultural Evaluation of LLMs in Persian",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.632",
+    "title": "Towards Sustainable NLP: Insights from Benchmarking Inference Energy in Large Language Models",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.633",
+    "title": "CSR-Bench: Benchmarking LLM Agents in Deployment of Computer Science Research Repositories",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.634",
+    "title": "SALAD: Improving Robustness and Generalization through Contrastive Learning with Structure-Aware and LLM-Driven Augmented Data",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.635",
+    "title": "Rationale-Guided Retrieval Augmented Generation for Medical Question Answering",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.636",
+    "title": "Prototype Conditioned Generative Replay for Continual Learning in NLP",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-long.637",
+    "title": "KODIS: A Multicultural Dispute Resolution Dialogue Corpus",
+    "venue": "long"
+  },
+  {
+    "id": "2025.naacl-short.1",
+    "title": "Complete Chess Games Enable LLM Become A Chess Master",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.2",
+    "title": "Predicting the Target Word of Game-playing Conversations using a Low-Rank Dialect Adapter for Decoder Models",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.3",
+    "title": "ChaI-TeA: A Benchmark for Evaluating Autocompletion of Interactions with LLM-based Chatbots",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.4",
+    "title": "Cross-Lingual Transfer Learning for Speech Translation",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.5",
+    "title": "Reverse Question Answering: Can an LLM Write a Question so Hard (or Bad) that it Can’t Answer?",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.6",
+    "title": "Personalized Help for Optimizing Low-Skilled Users’ Strategy",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.7",
+    "title": "Local Prompt Optimization",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.8",
+    "title": "Cross-lingual Transfer of Reward Models in Multilingual Alignment",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.9",
+    "title": "Inference-Time Selective Debiasing to Enhance Fairness in Text Classification Models",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.10",
+    "title": "Automatic Evaluation of Healthcare LLMs Beyond Question-Answering",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.11",
+    "title": "STRUX: An LLM for Decision-Making with Structured Explanations",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.12",
+    "title": "Improving Vietnamese-English Cross-Lingual Retrieval for Legal and General Domains",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.13",
+    "title": "Computational Discovery of Chiasmus in Ancient Religious Text",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.14",
+    "title": "Characterizing the Effects of Translation on Intertextuality using Multilingual Embedding Spaces",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.15",
+    "title": "LLM2: Let Large Language Models Harness System 2 Reasoning",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.16",
+    "title": "Context-Efficient Retrieval with Factual Decomposition",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.17",
+    "title": "Sports and Women’s Sports: Gender Bias in Text Generation with Olympic Data",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.18",
+    "title": "Alligators All Around: Mitigating Lexical Confusion in Low-resource Machine Translation",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.19",
+    "title": "PROM: Pivoted and Regulated Optimization for Multilingual Instruction Learning",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.20",
+    "title": "Concept-Reversed Winograd Schema Challenge: Evaluating and Improving Robust Reasoning in Large Language Models via Abstraction",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.21",
+    "title": "Defense against Prompt Injection Attacks via Mixture of Encodings",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.22",
+    "title": "Watching the AI Watchdogs: A Fairness and Robustness Analysis of AI Safety Moderation Classifiers",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.23",
+    "title": "CoRAG: Collaborative Retrieval-Augmented Generation",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.24",
+    "title": "Is It Navajo? Accurate Language Detection for Endangered Athabaskan Languages",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.25",
+    "title": "Don’t Touch My Diacritics",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.26",
+    "title": "Pretrained Image-Text Models are Secretly Video Captioners",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.27",
+    "title": "Reverse Modeling in Large Language Models",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.28",
+    "title": "Preserving Multilingual Quality While Tuning Query Encoder on English Only",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.29",
+    "title": "Using Contextually Aligned Online Reviews to Measure LLMs’ Performance Disparities Across Language Varieties",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.30",
+    "title": "Towards Federated Low-Rank Adaptation of Language Models with Rank Heterogeneity",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.31",
+    "title": "Related Knowledge Perturbation Matters: Rethinking Multiple Pieces of Knowledge Editing in Same-Subject",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.32",
+    "title": "STEP: Staged Parameter-Efficient Pre-training for Large Language Models",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.33",
+    "title": "Language Models Encode Numbers Using Digit Representations in Base 10",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.34",
+    "title": "A Systematic Study of Cross-Layer KV Sharing for Efficient LLM Inference",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.35",
+    "title": "AMPS: ASR with Multimodal Paraphrase Supervision",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.36",
+    "title": "Taxi1500: A Dataset for Multilingual Text Classification in 1500 Languages",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.37",
+    "title": "GameTox: A Comprehensive Dataset and Analysis for Enhanced Toxicity Detection in Online Gaming Communities",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.38",
+    "title": "FaithBench: A Diverse Hallucination Benchmark for Summarization by Modern LLMs",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.39",
+    "title": "Debate-Feedback: A Multi-Agent Framework for Efficient Legal Judgment Prediction",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.40",
+    "title": "Great Memory, Shallow Reasoning: Limits of kNN-LMs",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.41",
+    "title": "Repetition Neurons: How Do Language Models Produce Repetitions?",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.42",
+    "title": "STAR: Spectral Truncation and Rescale for Model Merging",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.43",
+    "title": "Task-driven Layerwise Additive Activation Intervention",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.44",
+    "title": "Scaling Multi-Document Event Summarization: Evaluating Compression vs. Full-Text Approaches",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.45",
+    "title": "Black-Box Visual Prompt Engineering for Mitigating Object Hallucination in Large Vision Language Models",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.46",
+    "title": "A Layered Debating Multi-Agent System for Similar Disease Diagnosis",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.47",
+    "title": "The Geometry of Numerical Reasoning: Language Models Compare Numeric Properties in Linear Subspaces",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.48",
+    "title": "AlignFreeze: Navigating the Impact of Realignment on the Layers of Multilingual Models Across Diverse Languages",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.49",
+    "title": "FLIQA-AD: a Fusion Model with Large Language Model for Better Diagnose and MMSE Prediction of Alzheimer’s Disease",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.50",
+    "title": "Transform Retrieval for Textual Entailment in RAG",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.51",
+    "title": "How do Multimodal Foundation Models Encode Text and Speech? An Analysis of Cross-Lingual and Cross-Modal Representations",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.52",
+    "title": "Explore the Reasoning Capability of LLMs in the Chess Testbed",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.53",
+    "title": "Auto-Cypher: Improving LLMs on Cypher generation via LLM-supervised generation-verification framework",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.54",
+    "title": "Leveraging Moment Injection for Enhanced Semi-supervised Natural Language Inference with Large Language Models",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.55",
+    "title": "A Fair Comparison without Translationese: English vs. Target-language Instructions for Multilingual LLMs",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.56",
+    "title": "Evaluating Multimodal Generative AI with Korean Educational Standards",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.57",
+    "title": "ScratchEval: Are GPT-4o Smarter than My Child? Evaluating Large Multimodal Models with Visual Programming Challenges",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.58",
+    "title": "Interpret and Control Dense Retrieval with Sparse Latent Features",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.59",
+    "title": "DART: An AIGT Detector using AMR of Rephrased Text",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.60",
+    "title": "Scaling Graph-Based Dependency Parsing with Arc Vectorization and Attention-Based Refinement",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.61",
+    "title": "Language Models “Grok” to Copy",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.62",
+    "title": "Evaluating LLMs for Quotation Attribution in Literary Texts: A Case Study of LLaMa3",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.63",
+    "title": "Beyond Literal Token Overlap: Token Alignability for Multilinguality",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.64",
+    "title": "IdentifyMe: A Challenging Long-Context Mention Resolution Benchmark for LLMs",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.65",
+    "title": "kNN Retrieval for Simple and Effective Zero-Shot Multi-speaker Text-to-Speech",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.66",
+    "title": "CORD: Balancing COnsistency and Rank Distillation for Robust Retrieval-Augmented Generation",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.67",
+    "title": "GraphLSS: Integrating Lexical, Structural, and Semantic Features for Long Document Extractive Summarization",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.68",
+    "title": "Step-by-Step Fact Verification System for Medical Claims with Explainable Reasoning",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.69",
+    "title": "Developing multilingual speech synthesis system for Ojibwe, Mi’kmaq, and Maliseet",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.70",
+    "title": "Bottom-Up Synthesis of Knowledge-Grounded Task-Oriented Dialogues with Iteratively Self-Refined Prompts",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.71",
+    "title": "Sociodemographic Prompting is Not Yet an Effective Approach for Simulating Subjective Judgments with LLMs",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.72",
+    "title": "Identifying Power Relations in Conversations using Multi-Agent Social Reasoning",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.73",
+    "title": "Examining Spanish Counseling with MIDAS: a Motivational Interviewing Dataset in Spanish",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.74",
+    "title": "Self-Debiasing Large Language Models: Zero-Shot Recognition and Reduction of Stereotypes",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.75",
+    "title": "EqualizeIR: Mitigating Linguistic Biases in Retrieval Models",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.76",
+    "title": "Do Audio-Language Models Understand Linguistic Variations?",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.77",
+    "title": "Giving the Old a Fresh Spin: Quality Estimation-Assisted Constrained Decoding for Automatic Post-Editing",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.78",
+    "title": "RuleR: Improving LLM Controllability by Rule-based Data Recycling",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.79",
+    "title": "MixRevDetect: Towards Detecting AI-Generated Content in Hybrid Peer Reviews.",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.80",
+    "title": "DiscoGraMS: Enhancing Movie Screen-Play Summarization using Movie Character-Aware Discourse Graph",
+    "venue": "short"
+  },
+  {
+    "id": "2025.naacl-short.81",
+    "title": "Capturing Human Cognitive Styles with Language: Towards an Experimental Evaluation Paradigm",
+    "venue": "short"
+  }
+]
