@@ -1,0 +1,44 @@
+{
+  "NeurIPS-2025": {
+    "population": 5286,
+    "sampled": 100,
+    "processed": 100,
+    "found": 71,
+    "coverage": 0.71
+  },
+  "ICML-2025": {
+    "population": 3257,
+    "sampled": 100,
+    "processed": 100,
+    "found": 77,
+    "coverage": 0.77
+  },
+  "ICLR-2025": {
+    "population": 3703,
+    "sampled": 100,
+    "processed": 100,
+    "found": 78,
+    "coverage": 0.78
+  },
+  "ACL-2025": {
+    "population": 1699,
+    "sampled": 100,
+    "processed": 100,
+    "found": 74,
+    "coverage": 0.74
+  },
+  "EMNLP-2025": {
+    "population": 1809,
+    "sampled": 100,
+    "processed": 100,
+    "found": 71,
+    "coverage": 0.71
+  },
+  "NAACL-2025": {
+    "population": 718,
+    "sampled": 100,
+    "processed": 100,
+    "found": 74,
+    "coverage": 0.74
+  }
+}

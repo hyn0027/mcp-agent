@@ -1,0 +1,410 @@
+{
+  "pyIXyl4qFx": {
+    "arxiv_id": "2407.04516v3",
+    "arxiv_title": "G-Adaptivity: optimised graph-based mesh relocation for finite element methods",
+    "similarity": 1.0
+  },
+  "9bzgpYtQZn": {
+    "arxiv_id": "2505.17994v1",
+    "arxiv_title": "Segment Anyword: Mask Prompt Inversion for Open-Set Grounded Segmentation",
+    "similarity": 1.0
+  },
+  "0epuNvt5Dj": {
+    "arxiv_id": "2505.03804v1",
+    "arxiv_title": "MoEQuant: Enhancing Quantization for Mixture-of-Experts Large Language Models via Expert-Balanced Sampling and Affinity Guidance",
+    "similarity": 1.0
+  },
+  "DYeVXcPsN6": {
+    "arxiv_id": "2503.05574v2",
+    "arxiv_title": "BARK: A Fully Bayesian Tree Kernel for Black-box Optimization",
+    "similarity": 1.0
+  },
+  "b0jYs6JOZu": {
+    "arxiv_id": "2502.05368v2",
+    "arxiv_title": "Otter: Generating Tests from Issues to Validate SWE Patches",
+    "similarity": 1.0
+  },
+  "pu2aw2zwMx": {
+    "arxiv_id": "2509.07983v2",
+    "arxiv_title": "Steering Protein Language Models",
+    "similarity": 1.0
+  },
+  "BGDSSSJWot": null,
+  "ftR9OuiUJA": {
+    "arxiv_id": "2504.05253v2",
+    "arxiv_title": "Contour Integration Underlies Human-Like Vision",
+    "similarity": 1.0
+  },
+  "EkoFXfSauv": {
+    "arxiv_id": "2506.00592v1",
+    "arxiv_title": "Mitigating Plasticity Loss in Continual Reinforcement Learning by Reducing Churn",
+    "similarity": 1.0
+  },
+  "zpuKPuSYru": null,
+  "dpbvg1mFBq": {
+    "arxiv_id": "2502.00848v3",
+    "arxiv_title": "RealRAG: Retrieval-augmented Realistic Image Generation via Self-reflective Contrastive Learning",
+    "similarity": 1.0
+  },
+  "SqhhqMbqV3": null,
+  "b3bJR1quJ3": {
+    "arxiv_id": "2505.24406v1",
+    "arxiv_title": "IRBridge: Solving Image Restoration Bridge with Pre-trained Generative Diffusion Models",
+    "similarity": 1.0
+  },
+  "F1ff8zcjPp": {
+    "arxiv_id": "2411.04291v2",
+    "arxiv_title": "Layer-wise Alignment: Examining Safety Alignment Across Image Encoder Layers in Vision Language Models",
+    "similarity": 1.0
+  },
+  "2uheUFcFsM": {
+    "arxiv_id": "2412.06329v3",
+    "arxiv_title": "Normalizing Flows are Capable Generative Models",
+    "similarity": 1.0
+  },
+  "hEaiFYEx3a": null,
+  "Y0yXuQtPn8": {
+    "arxiv_id": "2501.01144v5",
+    "arxiv_title": "BlockDialect: Block-wise Fine-grained Mixed Format Quantization for Energy-Efficient LLM Inference",
+    "similarity": 1.0
+  },
+  "DYUZ55CqGw": {
+    "arxiv_id": "2502.15523v2",
+    "arxiv_title": "Contract Design Under Approximate Best Responses",
+    "similarity": 1.0
+  },
+  "UCJSF6Vt0C": {
+    "arxiv_id": "2502.01362v2",
+    "arxiv_title": "Inverse Bridge Matching Distillation",
+    "similarity": 1.0
+  },
+  "pNZ3pioKRN": {
+    "arxiv_id": "2502.10724v2",
+    "arxiv_title": "Semantics-aware Test-time Adaptation for 3D Human Pose Estimation",
+    "similarity": 1.0
+  },
+  "o9zDYV4Ism": null,
+  "JN8O01IZYR": {
+    "arxiv_id": "2502.06761v3",
+    "arxiv_title": "When, Where and Why to Average Weights?",
+    "similarity": 1.0
+  },
+  "Q4tpr9bnXU": {
+    "arxiv_id": "2502.12973v1",
+    "arxiv_title": "Optimizing Social Network Interventions via Hypergradient-Based Recommender System Design",
+    "similarity": 1.0
+  },
+  "Xpm298DHxn": {
+    "arxiv_id": "2410.13794v2",
+    "arxiv_title": "Arbitrarily-Conditioned Multi-Functional Diffusion for Multi-Physics Emulation",
+    "similarity": 1.0
+  },
+  "r4XsTcuiqc": {
+    "arxiv_id": "2506.03470v1",
+    "arxiv_title": "Models of Heavy-Tailed Mechanistic Universality",
+    "similarity": 1.0
+  },
+  "gy3l3r2JP9": {
+    "arxiv_id": "2506.06021v2",
+    "arxiv_title": "Unisoma: A Unified Transformer-based Solver for Multi-Solid Systems",
+    "similarity": 1.0
+  },
+  "sgHza4bz3n": null,
+  "kqj2Cn3Sxr": null,
+  "1w0Zp99dnX": {
+    "arxiv_id": "2306.11908v4",
+    "arxiv_title": "Generalized Random Forests using Fixed-Point Trees",
+    "similarity": 1.0
+  },
+  "K4N9UvsuNB": null,
+  "W7phL2sNif": null,
+  "zcx7jqUZg5": {
+    "arxiv_id": "2405.17424v2",
+    "arxiv_title": "LARM: Large Auto-Regressive Model for Long-Horizon Embodied Intelligence",
+    "similarity": 1.0
+  },
+  "jSoNlHD9qA": {
+    "arxiv_id": "2501.15955v3",
+    "arxiv_title": "Rethinking the Bias of Foundation Model under Long-tailed Distribution",
+    "similarity": 1.0
+  },
+  "r1ryQoI9iZ": {
+    "arxiv_id": "2405.17527v5",
+    "arxiv_title": "Unisolver: PDE-Conditional Transformers Towards Universal Neural PDE Solvers",
+    "similarity": 1.0
+  },
+  "yI24Wy5YaN": {
+    "arxiv_id": "2412.16318v2",
+    "arxiv_title": "Principal-Agent Bandit Games with Self-Interested and Exploratory Learning Agents",
+    "similarity": 1.0
+  },
+  "8u5bzM2XfI": {
+    "arxiv_id": "2502.19255v3",
+    "arxiv_title": "Can RLHF be More Efficient with Imperfect Reward Models? A Policy Coverage Perspective",
+    "similarity": 1.0
+  },
+  "om0CcjvEQh": {
+    "arxiv_id": "2505.03793v3",
+    "arxiv_title": "LENSLLM: Unveiling Fine-Tuning Dynamics for LLM Selection",
+    "similarity": 1.0
+  },
+  "4vLFFkFBwi": null,
+  "stgw28KnaX": {
+    "arxiv_id": "2507.01696v1",
+    "arxiv_title": "Dynamic Similarity Graph Construction with Kernel Density Estimation",
+    "similarity": 1.0
+  },
+  "Vk1rNMl0J1": {
+    "arxiv_id": "2505.07796v2",
+    "arxiv_title": "Learning Dynamics in Continual Pre-Training for Large Language Models",
+    "similarity": 1.0
+  },
+  "8ino4CdB6w": {
+    "arxiv_id": "2501.12668v3",
+    "arxiv_title": "NBDI: A Simple and Effective Termination Condition for Skill Extraction from Task-Agnostic Demonstrations",
+    "similarity": 1.0
+  },
+  "VpBBw1bL47": {
+    "arxiv_id": "2505.21920v2",
+    "arxiv_title": "InfoSAM: Fine-Tuning the Segment Anything Model from An Information-Theoretic Perspective",
+    "similarity": 1.0
+  },
+  "pLQtovjXiw": {
+    "arxiv_id": "2412.15118v2",
+    "arxiv_title": "Reasoning Through Execution: Unifying Process and Outcome Rewards for Code Generation",
+    "similarity": 1.0
+  },
+  "b836TGkRSw": {
+    "arxiv_id": "2501.18965v2",
+    "arxiv_title": "The Surprising Agreement Between Convex Optimization Theory and Learning-Rate Scheduling for Large Model Training",
+    "similarity": 1.0
+  },
+  "fi6p2dBDNd": {
+    "arxiv_id": "2505.05926v3",
+    "arxiv_title": "Autoencoder-Based Hybrid Replay for Class-Incremental Learning",
+    "similarity": 1.0
+  },
+  "zZjLv6F0Ks": {
+    "arxiv_id": "2502.05374v4",
+    "arxiv_title": "Towards LLM Unlearning Resilient to Relearning Attacks: A Sharpness-Aware Minimization Perspective and Beyond",
+    "similarity": 1.0
+  },
+  "EmLiyZGvrR": {
+    "arxiv_id": "2502.00334v4",
+    "arxiv_title": "UGPhysics: A Comprehensive Benchmark for Undergraduate Physics Reasoning with Large Language Models",
+    "similarity": 1.0
+  },
+  "kwHvs1UdTM": {
+    "arxiv_id": "2505.18909v1",
+    "arxiv_title": "On the Role of Label Noise in the Feature Learning Process",
+    "similarity": 1.0
+  },
+  "eRdXrPJFLM": {
+    "arxiv_id": "2405.20415v3",
+    "arxiv_title": "Differentially Private Boxplots",
+    "similarity": 1.0
+  },
+  "70voOlSPos": null,
+  "v0HLf7b1rH": null,
+  "S09B5wNa6J": null,
+  "sw2pUzbTf1": {
+    "arxiv_id": "2506.05636v1",
+    "arxiv_title": "Bayesian Inference for Correlated Human Experts and Classifiers",
+    "similarity": 1.0
+  },
+  "Y8lfuSoqQz": {
+    "arxiv_id": "2410.01495v3",
+    "arxiv_title": "OV-MER: Towards Open-Vocabulary Multimodal Emotion Recognition",
+    "similarity": 1.0
+  },
+  "AUkBFMtyUs": null,
+  "EBNgREMoVD": {
+    "arxiv_id": "2503.03025v3",
+    "arxiv_title": "Hierarchical Refinement: Optimal Transport to Infinity and Beyond",
+    "similarity": 1.0
+  },
+  "EIK6xxIoCB": {
+    "arxiv_id": "2410.10855v4",
+    "arxiv_title": "Core Knowledge Deficits in Multi-Modal Language Models",
+    "similarity": 1.0
+  },
+  "9hiq7LaV4G": {
+    "arxiv_id": "2410.08751v3",
+    "arxiv_title": "Zero-Shot Offline Imitation Learning via Optimal Transport",
+    "similarity": 1.0
+  },
+  "UTvdB2WPSp": {
+    "arxiv_id": "2405.13806v2",
+    "arxiv_title": "A General Graph Spectral Wavelet Convolution via Chebyshev Order Decomposition",
+    "similarity": 1.0
+  },
+  "qjd3ZUiHRT": {
+    "arxiv_id": "2410.15332v3",
+    "arxiv_title": "EPIC: Efficient Position-Independent Caching for Serving Large Language Models",
+    "similarity": 1.0
+  },
+  "FeZimuj6SG": {
+    "arxiv_id": "2602.00869v1",
+    "arxiv_title": "Improving Flow Matching by Aligning Flow Divergence",
+    "similarity": 1.0
+  },
+  "4tYckHNVXV": {
+    "arxiv_id": "2502.02362v6",
+    "arxiv_title": "Premise-Augmented Reasoning Chains Improve Error Identification in Math reasoning with LLMs",
+    "similarity": 1.0
+  },
+  "KVt0TeQ5Ne": {
+    "arxiv_id": "2409.10588v8",
+    "arxiv_title": "ADIOS: Antibody Development via Opponent Shaping",
+    "similarity": 1.0
+  },
+  "jk3TjZAHem": {
+    "arxiv_id": "2506.12091v2",
+    "arxiv_title": "Continuously Updating Digital Twins using Large Language Models",
+    "similarity": 1.0
+  },
+  "ojF1rXmUdy": {
+    "arxiv_id": "2410.11097v2",
+    "arxiv_title": "DMOSpeech: Direct Metric Optimization via Distilled Diffusion Model in Zero-Shot Speech Synthesis",
+    "similarity": 1.0
+  },
+  "C0xvseVIPU": null,
+  "fE3kgW7kMp": {
+    "arxiv_id": "2505.05190v2",
+    "arxiv_title": "Revealing Weaknesses in Text Watermarking Through Self-Information Rewrite Attacks",
+    "similarity": 1.0
+  },
+  "b0qRSUcQP7": {
+    "arxiv_id": "2503.03122v4",
+    "arxiv_title": "The Devil Is in the Details: Tackling Unimodal Spurious Correlations for Generalizable Multimodal Reward Models",
+    "similarity": 1.0
+  },
+  "Gp7NfP7Erm": null,
+  "Oty1LQrnFc": {
+    "arxiv_id": "2506.07804v1",
+    "arxiv_title": "Enhancing Adversarial Robustness with Conformal Prediction: A Framework for Guaranteed Model Reliability",
+    "similarity": 1.0
+  },
+  "zDwipF6h06": {
+    "arxiv_id": "2502.04420v5",
+    "arxiv_title": "KVTuner: Sensitivity-Aware Layer-Wise Mixed-Precision KV Cache Quantization for Efficient and Nearly Lossless LLM Inference",
+    "similarity": 1.0
+  },
+  "sfdFOs68Ia": {
+    "arxiv_id": "2410.06151v4",
+    "arxiv_title": "Diversifying Policy Behaviors with Extrinsic Behavioral Curiosity",
+    "similarity": 1.0
+  },
+  "F7BOaYmWl7": {
+    "arxiv_id": "2505.18956v2",
+    "arxiv_title": "How Do Images Align and Complement LiDAR? Towards a Harmonized Multi-modal 3D Panoptic Segmentation",
+    "similarity": 1.0
+  },
+  "DJcEoC9JpQ": {
+    "arxiv_id": "2506.07785v1",
+    "arxiv_title": "Re-ranking Reasoning Context with Tree Search Makes Large Vision-Language Models Stronger",
+    "similarity": 1.0
+  },
+  "U0mI6M7lvI": null,
+  "tStRKJKZEI": null,
+  "OaC01wTE44": {
+    "arxiv_id": "2505.11131v2",
+    "arxiv_title": "One Image is Worth a Thousand Words: A Usability Preservable Text-Image Collaborative Erasing Framework",
+    "similarity": 1.0
+  },
+  "nC8XliUxeg": {
+    "arxiv_id": "2411.10958v7",
+    "arxiv_title": "SageAttention2: Efficient Attention with Thorough Outlier Smoothing and Per-thread INT4 Quantization",
+    "similarity": 1.0
+  },
+  "VmXgkCmLFD": null,
+  "Hq2RniQAET": {
+    "arxiv_id": "2502.10843v2",
+    "arxiv_title": "LEAPS: A discrete neural sampler via locally equivariant networks",
+    "similarity": 1.0
+  },
+  "KCDoaDlzUB": {
+    "arxiv_id": "2505.16471v2",
+    "arxiv_title": "Graph-Supported Dynamic Algorithm Configuration for Multi-Objective Combinatorial Optimization",
+    "similarity": 1.0
+  },
+  "StaRAs9n49": {
+    "arxiv_id": "2406.13725v3",
+    "arxiv_title": "Tree-Sliced Wasserstein Distance: A Geometric Perspective",
+    "similarity": 1.0
+  },
+  "6Ofb0cGXb5": {
+    "arxiv_id": "2407.11867v3",
+    "arxiv_title": "Targeted Unlearning with Single Layer Unlearning Gradient",
+    "similarity": 1.0
+  },
+  "saBXnGIDSj": {
+    "arxiv_id": "2506.07861v1",
+    "arxiv_title": "Fairness Overfitting in Machine Learning: An Information-Theoretic Perspective",
+    "similarity": 1.0
+  },
+  "NME3HKUHLX": {
+    "arxiv_id": "2501.18858v2",
+    "arxiv_title": "BRiTE: Bootstrapping Reinforced Thinking Process to Enhance Language Model Reasoning",
+    "similarity": 1.0
+  },
+  "IF9VXY4YRl": null,
+  "JPkJAyutW0": null,
+  "1jutKQ5R8T": {
+    "arxiv_id": "2502.18679v3",
+    "arxiv_title": "Discriminative Finetuning of Generative Large Language Models without Reward Models and Human Preference Data",
+    "similarity": 1.0
+  },
+  "iuD649wPAw": {
+    "arxiv_id": "2506.05967v1",
+    "arxiv_title": "Preference Learning for AI Alignment: a Causal Perspective",
+    "similarity": 1.0
+  },
+  "d8xnwqslqq": {
+    "arxiv_id": "2505.07303v1",
+    "arxiv_title": "Online Episodic Convex Reinforcement Learning",
+    "similarity": 1.0
+  },
+  "iBpkzB5LEr": {
+    "arxiv_id": "2505.24067v1",
+    "arxiv_title": "Primal-Dual Neural Algorithmic Reasoning",
+    "similarity": 1.0
+  },
+  "HdS6tZwwa7": null,
+  "NhkNX8jYld": {
+    "arxiv_id": "2505.07027v2",
+    "arxiv_title": "LLM-Augmented Chemical Synthesis and Design Decision Programs",
+    "similarity": 1.0
+  },
+  "7fQohcFrxG": {
+    "arxiv_id": "2505.05335v2",
+    "arxiv_title": "FLAM: Frame-Wise Language-Audio Modeling",
+    "similarity": 1.0
+  },
+  "33YrT1j0O0": {
+    "arxiv_id": "2411.01679v2",
+    "arxiv_title": "Autoformulation of Mathematical Optimization Models Using LLMs",
+    "similarity": 1.0
+  },
+  "QRms4lx0Fp": null,
+  "y3d4Bs2r7r": {
+    "arxiv_id": "2405.08719v2",
+    "arxiv_title": "Addressing Misspecification in Simulation-based Inference through Data-driven Calibration",
+    "similarity": 1.0
+  },
+  "ci1S6wmXfO": {
+    "arxiv_id": "2502.02732v3",
+    "arxiv_title": "Peri-LN: Revisiting Normalization Layer in the Transformer Architecture",
+    "similarity": 1.0
+  },
+  "0rDn6BDNiF": {
+    "arxiv_id": "2410.02735v2",
+    "arxiv_title": "OOD-Chameleon: Is Algorithm Selection for OOD Generalization Learnable?",
+    "similarity": 1.0
+  },
+  "rc65N9xIrY": {
+    "arxiv_id": "2503.07067v2",
+    "arxiv_title": "DistiLLM-2: A Contrastive Approach Boosts the Distillation of LLMs",
+    "similarity": 1.0
+  }
+}

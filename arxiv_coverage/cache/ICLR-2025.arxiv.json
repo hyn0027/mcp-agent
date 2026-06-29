@@ -1,0 +1,414 @@
+{
+  "XXzOzJRyOZ": {
+    "arxiv_id": "2505.16977v1",
+    "arxiv_title": "Incorporating Visual Correspondence into Diffusion Model for Virtual Try-On",
+    "similarity": 1.0
+  },
+  "pHe4P1IVnb": {
+    "arxiv_id": "2406.03199v4",
+    "arxiv_title": "Bayesian WeakS-to-Strong from Text Classification to Generation",
+    "similarity": 1.0
+  },
+  "gx1wHnf5Vp": {
+    "arxiv_id": "2502.19261v2",
+    "arxiv_title": "Drop-Upcycling: Training Sparse Mixture of Experts with Partial Re-initialization",
+    "similarity": 1.0
+  },
+  "AcVpLS86RT": {
+    "arxiv_id": "2409.20558v1",
+    "arxiv_title": "Uni$^2$Det: Unified and Universal Framework for Prompt-Guided Multi-dataset 3D Detection",
+    "similarity": 1.0
+  },
+  "qZmn2hkuzw": {
+    "arxiv_id": "2408.17355v4",
+    "arxiv_title": "Bidirectional Decoding: Improving Action Chunking via Guided Test-Time Sampling",
+    "similarity": 1.0
+  },
+  "l4fMj4Vnly": {
+    "arxiv_id": "2502.04476v1",
+    "arxiv_title": "ADIFF: Explaining audio difference using natural language",
+    "similarity": 1.0
+  },
+  "mMhZS7qt0U": {
+    "arxiv_id": "2408.09730v1",
+    "arxiv_title": "Fragment and Geometry Aware Tokenization of Molecules for Structure-Based Drug Design Using Language Models",
+    "similarity": 1.0
+  },
+  "AuAj4vRPkv": null,
+  "qmsX2R19p9": null,
+  "Y1XkzMJpPd": {
+    "arxiv_id": "2405.15568v3",
+    "arxiv_title": "OMNI-EPIC: Open-endedness via Models of human Notions of Interestingness with Environments Programmed in Code",
+    "similarity": 1.0
+  },
+  "f92M45YRfh": {
+    "arxiv_id": "2502.03498v3",
+    "arxiv_title": "Controllable Satellite-to-Street-View Synthesis with Precise Pose Alignment and Zero-Shot Environmental Control",
+    "similarity": 1.0
+  },
+  "st7XqFgbAH": {
+    "arxiv_id": "2410.05434v1",
+    "arxiv_title": "Better than Your Teacher: LLM Agents that learn from Privileged AI Feedback",
+    "similarity": 1.0
+  },
+  "pISLZG7ktL": {
+    "arxiv_id": "2410.18647v3",
+    "arxiv_title": "Data Scaling Laws in Imitation Learning for Robotic Manipulation",
+    "similarity": 1.0
+  },
+  "ig2wk7kK9J": {
+    "arxiv_id": "2306.00148v1",
+    "arxiv_title": "SafeDiffuser: Safe Planning with Diffusion Probabilistic Models",
+    "similarity": 1.0
+  },
+  "4R71pdPBZp": {
+    "arxiv_id": "2410.16946v1",
+    "arxiv_title": "Self-Evolving Multi-Agent Collaboration Networks for Software Development",
+    "similarity": 1.0
+  },
+  "bjcsVLoHYs": {
+    "arxiv_id": "2411.00816v3",
+    "arxiv_title": "CycleResearcher: Improving Automated Research via Automated Review",
+    "similarity": 1.0
+  },
+  "LPRxGZ7Oax": null,
+  "8g4XgC8HPF": {
+    "arxiv_id": "2410.13111v1",
+    "arxiv_title": "Controllable Generation via Locally Constrained Resampling",
+    "similarity": 1.0
+  },
+  "ja4rpheN2n": {
+    "arxiv_id": "2410.13178v3",
+    "arxiv_title": "GeSubNet: Gene Interaction Inference for Disease Subtype Network Generation",
+    "similarity": 1.0
+  },
+  "9tKC0YM8sX": {
+    "arxiv_id": "2501.16944v2",
+    "arxiv_title": "Exact Computation of Any-Order Shapley Interactions for Graph Neural Networks",
+    "similarity": 1.0
+  },
+  "ZYDEJEvCbv": {
+    "arxiv_id": "2410.14895v2",
+    "arxiv_title": "Truncated Consistency Models",
+    "similarity": 1.0
+  },
+  "7zwIEbSTDy": null,
+  "4hPwLg7zD3": {
+    "arxiv_id": "2410.22269v2",
+    "arxiv_title": "Fourier Head: Helping Large Language Models Learn Complex Probability Distributions",
+    "similarity": 1.0
+  },
+  "nfKfAzkiez": {
+    "arxiv_id": "2411.00053v3",
+    "arxiv_title": "ACC-Collab: An Actor-Critic Approach to Multi-Agent LLM Collaboration",
+    "similarity": 1.0
+  },
+  "7TZYM6Hm9p": null,
+  "h0Ak8A5yqw": {
+    "arxiv_id": "2410.13708v2",
+    "arxiv_title": "On the Role of Attention Heads in Large Language Model Safety",
+    "similarity": 1.0
+  },
+  "Cy5IKvYbR3": {
+    "arxiv_id": "2502.19980v1",
+    "arxiv_title": "Can Textual Gradient Work in Federated Learning?",
+    "similarity": 1.0
+  },
+  "5ZEbpBYGwH": null,
+  "rvhu4V7yrX": {
+    "arxiv_id": "2306.04169v3",
+    "arxiv_title": "Efficient Alternating Minimization with Applications to Weighted Low Rank Approximation",
+    "similarity": 1.0
+  },
+  "faDMOmnsjx": {
+    "arxiv_id": "2405.14131v3",
+    "arxiv_title": "Statistical Advantages of Perturbing Cosine Router in Mixture of Experts",
+    "similarity": 1.0
+  },
+  "DI4gW8viB6": null,
+  "FiyS0ecSm0": {
+    "arxiv_id": "2502.13834v3",
+    "arxiv_title": "Proving Olympiad Inequalities by Synergizing LLMs and Symbolic Reasoning",
+    "similarity": 1.0
+  },
+  "irPcM6X5FV": {
+    "arxiv_id": "2504.10902v1",
+    "arxiv_title": "Leveraging Submodule Linearity Enhances Task Arithmetic Performance in LLMs",
+    "similarity": 1.0
+  },
+  "elTJBP7Fbv": null,
+  "1qgZXeMTTU": {
+    "arxiv_id": "2503.07227v1",
+    "arxiv_title": "Coreset Spectral Clustering",
+    "similarity": 1.0
+  },
+  "BEpaPHDl9r": {
+    "arxiv_id": "2410.22069v4",
+    "arxiv_title": "Flavors of Margin: Implicit Bias of Steepest Descent in Homogeneous Neural Networks",
+    "similarity": 1.0
+  },
+  "dEypApI1MZ": {
+    "arxiv_id": "2409.17858v2",
+    "arxiv_title": "How Feature Learning Can Improve Neural Scaling Laws",
+    "similarity": 1.0
+  },
+  "TUKt7ag0qq": {
+    "arxiv_id": "2410.08355v3",
+    "arxiv_title": "Metalic: Meta-Learning In-Context with Protein Language Models",
+    "similarity": 1.0
+  },
+  "DDNFTaVQdU": {
+    "arxiv_id": "2307.07735v3",
+    "arxiv_title": "Faster Algorithms for Structured Linear and Kernel Support Vector Machines",
+    "similarity": 1.0
+  },
+  "scozdyKzET": {
+    "arxiv_id": "2602.22938v1",
+    "arxiv_title": "pMoE: Prompting Diverse Experts Together Wins More in Visual Adaptation",
+    "similarity": 1.0
+  },
+  "67sSPPAZiG": null,
+  "wfLuiDjQ0u": {
+    "arxiv_id": "2409.15700v1",
+    "arxiv_title": "Making Text Embedders Few-Shot Learners",
+    "similarity": 1.0
+  },
+  "f65RuQgVlp": {
+    "arxiv_id": "2405.18925v4",
+    "arxiv_title": "Federated Continual Learning Goes Online: Uncertainty-Aware Memory Management for Vision Tasks and Beyond",
+    "similarity": 1.0
+  },
+  "CUABD2qIB4": {
+    "arxiv_id": "2406.04508v2",
+    "arxiv_title": "OCCAM: Towards Cost-Efficient and Accuracy-Aware Classification Inference",
+    "similarity": 1.0
+  },
+  "uIGnuyDSB9": null,
+  "jpSLXoRKnH": {
+    "arxiv_id": "2410.01769v2",
+    "arxiv_title": "Quantifying Generalization Complexity for Large Language Models",
+    "similarity": 1.0
+  },
+  "9HK2rHNAhd": {
+    "arxiv_id": "2404.04793v2",
+    "arxiv_title": "SqueezeAttention: 2D Management of KV-Cache in LLM Inference via Layer-wise Optimal Budget",
+    "similarity": 1.0
+  },
+  "dTkqaCKLPp": {
+    "arxiv_id": "2502.13674v1",
+    "arxiv_title": "SCOPE: A Self-supervised Framework for Improving Faithfulness in Conditional Text Generation",
+    "similarity": 1.0
+  },
+  "2G021ZqUEZ": {
+    "arxiv_id": "2410.11843v5",
+    "arxiv_title": "From Commands to Prompts: LLM-based Semantic File System for AIOS",
+    "similarity": 1.0
+  },
+  "BlSIKSPhfz": {
+    "arxiv_id": "2410.22625v1",
+    "arxiv_title": "Non-Equilibrium Dynamics of Hybrid Continuous-Discrete Ground-State Sampling",
+    "similarity": 1.0
+  },
+  "bIlnpVM4bc": {
+    "arxiv_id": "2406.07522v3",
+    "arxiv_title": "Samba: Simple Hybrid State Space Models for Efficient Unlimited Context Language Modeling",
+    "similarity": 1.0
+  },
+  "7EhS3YBxjY": {
+    "arxiv_id": "2407.01509v5",
+    "arxiv_title": "MIA-Bench: Towards Better Instruction Following Evaluation of Multimodal LLMs",
+    "similarity": 1.0
+  },
+  "dNT3abOsLo": {
+    "arxiv_id": "2410.17270v2",
+    "arxiv_title": "MOFFlow: Flow Matching for Structure Prediction of Metal-Organic Frameworks",
+    "similarity": 1.0
+  },
+  "n3TkrH7fEr": null,
+  "gYWqxXE5RJ": {
+    "arxiv_id": "2411.05172v3",
+    "arxiv_title": "ImpScore: A Learnable Metric For Quantifying The Implicitness Level of Sentence",
+    "similarity": 0.9936305732484076
+  },
+  "BL4WBIfyrz": {
+    "arxiv_id": "2410.17883v2",
+    "arxiv_title": "Lightweight Neural App Control",
+    "similarity": 1.0
+  },
+  "6lB5qtdYAg": {
+    "arxiv_id": "2312.14091v3",
+    "arxiv_title": "HD-Painter: High-Resolution and Prompt-Faithful Text-Guided Image Inpainting with Diffusion Models",
+    "similarity": 1.0
+  },
+  "INow59Vurm": null,
+  "2z1HT5lw5M": {
+    "arxiv_id": "2411.19324v1",
+    "arxiv_title": "Trajectory Attention for Fine-grained Video Motion Control",
+    "similarity": 1.0
+  },
+  "lk2Qk5xjeu": {
+    "arxiv_id": "2409.02772v2",
+    "arxiv_title": "Unifying Causal Representation Learning with the Invariance Principle",
+    "similarity": 1.0
+  },
+  "029hDSVoXK": null,
+  "xCkgX4Xfu0": {
+    "arxiv_id": "2408.05804v1",
+    "arxiv_title": "A Single Goal is All You Need: Skills and Exploration Emerge from Contrastive RL without Rewards, Demonstrations, or Subgoals",
+    "similarity": 1.0
+  },
+  "d4njmzM7jf": {
+    "arxiv_id": "2410.03755v2",
+    "arxiv_title": "Denoising with a Joint-Embedding Predictive Architecture",
+    "similarity": 1.0
+  },
+  "8rvqpiTTFv": {
+    "arxiv_id": "2503.02225v1",
+    "arxiv_title": "Sharpness-Aware Minimization: General Analysis and Improved Rates",
+    "similarity": 1.0
+  },
+  "oP7arLOWix": {
+    "arxiv_id": "2405.16828v4",
+    "arxiv_title": "Kernel-based Optimally Weighted Conformal Time-Series Prediction",
+    "similarity": 1.0
+  },
+  "YbURbViE7l": null,
+  "meKEKDhdnx": {
+    "arxiv_id": "2407.00023v2",
+    "arxiv_title": "Preble: Efficient Distributed Prompt Scheduling for LLM Serving",
+    "similarity": 1.0
+  },
+  "2Q8gTck8Uq": {
+    "arxiv_id": "2410.07870v3",
+    "arxiv_title": "Gradient correlation is a key ingredient to accelerate SGD with momentum",
+    "similarity": 1.0
+  },
+  "P7O1Vt1BdU": {
+    "arxiv_id": "2410.12176v2",
+    "arxiv_title": "Expected Sliced Transport Plans",
+    "similarity": 1.0
+  },
+  "TljGdvzFq2": {
+    "arxiv_id": "2409.19951v2",
+    "arxiv_title": "Law of the Weakest Link: Cross Capabilities of Large Language Models",
+    "similarity": 1.0
+  },
+  "YUYJsHOf3c": {
+    "arxiv_id": "2410.02108v2",
+    "arxiv_title": "ReGenesis: LLMs can Grow into Reasoning Generalists via Self-Improvement",
+    "similarity": 1.0
+  },
+  "nrRkAAAufl": null,
+  "9bMZ29SPVx": {
+    "arxiv_id": "2410.11215v2",
+    "arxiv_title": "A CLIP-Powered Framework for Robust and Generalizable Data Selection",
+    "similarity": 1.0
+  },
+  "OL44KtasKc": {
+    "arxiv_id": "2410.02367v9",
+    "arxiv_title": "SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration",
+    "similarity": 1.0
+  },
+  "c1RhJVTPwT": null,
+  "yaQbTAD2JJ": {
+    "arxiv_id": "2405.03685v1",
+    "arxiv_title": "Language-Image Models with 3D Understanding",
+    "similarity": 1.0
+  },
+  "MtDd7rWok1": null,
+  "RQPSPGpBOP": {
+    "arxiv_id": "2410.09181v1",
+    "arxiv_title": "Can a large language model be a gaslighter?",
+    "similarity": 1.0
+  },
+  "MZDdTzN6Cy": {
+    "arxiv_id": "2503.07674v1",
+    "arxiv_title": "TVNet: A Novel Time Series Analysis Method Based on Dynamic Convolution and 3D-Variation",
+    "similarity": 1.0
+  },
+  "dHYwfV2KeP": {
+    "arxiv_id": "2501.05757v3",
+    "arxiv_title": "Locality-aware Gaussian Compression for Fast and High-quality Rendering",
+    "similarity": 1.0
+  },
+  "sUvBTEYXGt": {
+    "arxiv_id": "2410.04974v3",
+    "arxiv_title": "6DGS: Enhanced Direction-Aware Gaussian Splatting for Volumetric Rendering",
+    "similarity": 1.0
+  },
+  "fpvgSDKXGY": {
+    "arxiv_id": "2410.07815v1",
+    "arxiv_title": "Simple ReFlow: Improved Techniques for Fast Flow Models",
+    "similarity": 1.0
+  },
+  "bEqI61iBue": null,
+  "bcynT7s2du": {
+    "arxiv_id": "2412.06033v1",
+    "arxiv_title": "Can Generative AI Solve Your In-Context Learning Problem? A Martingale Perspective",
+    "similarity": 1.0
+  },
+  "wkbx7BRAsM": {
+    "arxiv_id": "2407.07356v2",
+    "arxiv_title": "Video In-context Learning: Autoregressive Transformers are Zero-Shot Video Imitators",
+    "similarity": 1.0
+  },
+  "HE6pJoNnFp": {
+    "arxiv_id": "2405.16178v1",
+    "arxiv_title": "Accelerating Inference of Retrieval-Augmented Generation via Sparse Context Selection",
+    "similarity": 1.0
+  },
+  "WwpYSOkkCt": {
+    "arxiv_id": "2410.20672v3",
+    "arxiv_title": "Relaxed Recursive Transformers: Effective Parameter Sharing with Layer-wise LoRA",
+    "similarity": 1.0
+  },
+  "tfyHbvFZ0K": {
+    "arxiv_id": "2405.14117v2",
+    "arxiv_title": "Knowledge Localization: Mission Not Accomplished? Enter Query Localization!",
+    "similarity": 1.0
+  },
+  "J8YWCBPgx7": {
+    "arxiv_id": "2410.04844v4",
+    "arxiv_title": "PostEdit: Posterior Sampling for Efficient Zero-Shot Image Editing",
+    "similarity": 1.0
+  },
+  "H4iVLvRusn": null,
+  "k3y0oyK7sn": null,
+  "JWtrk7mprJ": {
+    "arxiv_id": "2411.00161v2",
+    "arxiv_title": "Residual Deep Gaussian Processes on Manifolds",
+    "similarity": 1.0
+  },
+  "uaMSBJDnRv": {
+    "arxiv_id": "2410.08847v4",
+    "arxiv_title": "Unintentional Unalignment: Likelihood Displacement in Direct Preference Optimization",
+    "similarity": 1.0
+  },
+  "QC2qE1tcmd": {
+    "arxiv_id": "2506.06582v1",
+    "arxiv_title": "Demystifying Topological Message-Passing with Relational Structures: A Case Study on Oversquashing in Simplicial Message-Passing",
+    "similarity": 1.0
+  },
+  "xI71dsS3o4": null,
+  "tU074jg2vS": {
+    "arxiv_id": "2501.10322v2",
+    "arxiv_title": "Hierarchical Autoregressive Transformers: Combining Byte- and Word-Level Processing for Robust, Adaptable Language Models",
+    "similarity": 1.0
+  },
+  "m73tETvFkX": {
+    "arxiv_id": "2503.10081v1",
+    "arxiv_title": "AdvPaint: Protecting Images from Inpainting Manipulation via Adversarial Attention Disruption",
+    "similarity": 1.0
+  },
+  "syC2764fPc": {
+    "arxiv_id": "2501.03747v3",
+    "arxiv_title": "Context-Alignment: Activating and Enhancing LLM Capabilities in Time Series",
+    "similarity": 0.993288590604027
+  },
+  "e0rQRMUhs7": null,
+  "Cpr6Wv2tfr": {
+    "arxiv_id": "2410.04083v2",
+    "arxiv_title": "OPTAMI: Global Superlinear Convergence of High-order Methods",
+    "similarity": 1.0
+  }
+}

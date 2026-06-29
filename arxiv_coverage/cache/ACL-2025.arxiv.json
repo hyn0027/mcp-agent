@@ -1,0 +1,398 @@
+{
+  "2025.acl-long.148": {
+    "arxiv_id": "2504.10198v2",
+    "arxiv_title": "DioR: Adaptive Cognitive Detection and Contextual Retrieval Optimization for Dynamic Retrieval-Augmented Generation",
+    "similarity": 1.0
+  },
+  "2025.acl-long.817": {
+    "arxiv_id": "2504.15509v1",
+    "arxiv_title": "SimulS2S-LLM: Unlocking Simultaneous Inference of Speech LLMs for Speech-to-Speech Translation",
+    "similarity": 1.0
+  },
+  "2025.acl-long.614": {
+    "arxiv_id": "2409.18584v3",
+    "arxiv_title": "ChildMandarin: A Comprehensive Mandarin Speech Dataset for Young Children Aged 3-5",
+    "similarity": 1.0
+  },
+  "2025.acl-long.1538": {
+    "arxiv_id": "2506.00773v2",
+    "arxiv_title": "Dynamic Chunking and Selection for Reading Comprehension of Ultra-Long Context in Large Language Models",
+    "similarity": 1.0
+  },
+  "2025.acl-long.668": {
+    "arxiv_id": "2502.20129v3",
+    "arxiv_title": "Finite State Automata Inside Transformers with Chain-of-Thought: A Mechanistic Study on State Tracking",
+    "similarity": 1.0
+  },
+  "2025.acl-long.1011": {
+    "arxiv_id": "2403.13106v2",
+    "arxiv_title": "Using Shapley interactions to understand how models use structure",
+    "similarity": 1.0
+  },
+  "2025.acl-long.1119": {
+    "arxiv_id": "2502.13775v2",
+    "arxiv_title": "VITAL: A New Dataset for Benchmarking Pluralistic Alignment in Healthcare",
+    "similarity": 1.0
+  },
+  "2025.acl-long.976": {
+    "arxiv_id": "2412.01617v2",
+    "arxiv_title": "If Eleanor Rigby Had Met ChatGPT: A Study on Loneliness in a Post-LLM World",
+    "similarity": 1.0
+  },
+  "2025.acl-long.909": null,
+  "2025.acl-long.643": {
+    "arxiv_id": "2503.21263v1",
+    "arxiv_title": "Cultivating Game Sense for Yourself: Making VLMs Gaming Experts",
+    "similarity": 0.9682539682539683
+  },
+  "2025.acl-short.5": null,
+  "2025.acl-long.1584": null,
+  "2025.acl-long.671": {
+    "arxiv_id": "2409.06211v2",
+    "arxiv_title": "STUN: Structured-Then-Unstructured Pruning for Scalable MoE Pruning",
+    "similarity": 1.0
+  },
+  "2025.acl-long.212": {
+    "arxiv_id": "2507.17849v1",
+    "arxiv_title": "Dynamic and Generalizable Process Reward Modeling",
+    "similarity": 1.0
+  },
+  "2025.acl-long.1383": {
+    "arxiv_id": "2502.04644v2",
+    "arxiv_title": "Agentic Reasoning: A Streamlined Framework for Enhancing LLM Reasoning with Agentic Tools",
+    "similarity": 1.0
+  },
+  "2025.acl-long.1071": null,
+  "2025.acl-long.1093": {
+    "arxiv_id": "2505.24593v2",
+    "arxiv_title": "Decoding Knowledge Attribution in Mixture-of-Experts: A Framework of Basic-Refinement Collaboration and Efficiency Analysis",
+    "similarity": 1.0
+  },
+  "2025.acl-long.843": {
+    "arxiv_id": "2502.12616v2",
+    "arxiv_title": "Improving Chain-of-Thought Reasoning via Quasi-Symbolic Abstractions",
+    "similarity": 1.0
+  },
+  "2025.acl-long.466": {
+    "arxiv_id": "2410.08102v3",
+    "arxiv_title": "Efficient Pretraining Data Selection for Language Models via Multi-Actor Collaboration",
+    "similarity": 1.0
+  },
+  "2025.acl-long.1301": {
+    "arxiv_id": "2505.24223v2",
+    "arxiv_title": "Automated Structured Radiology Report Generation",
+    "similarity": 1.0
+  },
+  "2025.acl-long.1359": {
+    "arxiv_id": "2505.06186v3",
+    "arxiv_title": "Query-driven Document-level Scientific Evidence Extraction from Biomedical Studies",
+    "similarity": 1.0
+  },
+  "2025.acl-short.12": {
+    "arxiv_id": "2506.01319v1",
+    "arxiv_title": "Learning Sparsity for Effective and Efficient Music Performance Question Answering",
+    "similarity": 1.0
+  },
+  "2025.acl-long.734": {
+    "arxiv_id": "2505.14297v1",
+    "arxiv_title": "Cross-Lingual Optimization for Language Transfer in Large Language Models",
+    "similarity": 1.0
+  },
+  "2025.acl-long.583": {
+    "arxiv_id": "2505.11436v2",
+    "arxiv_title": "GODBench: A Benchmark for Multimodal Large Language Models in Video Comment Art",
+    "similarity": 1.0
+  },
+  "2025.acl-long.1174": {
+    "arxiv_id": "2504.13816v3",
+    "arxiv_title": "Analyzing LLMs' Knowledge Boundary Cognition Across Languages Through the Lens of Internal Representations",
+    "similarity": 1.0
+  },
+  "2025.acl-long.339": {
+    "arxiv_id": "2503.11314v2",
+    "arxiv_title": "Unlocking General Long Chain-of-Thought Reasoning Capabilities of Large Language Models via Representation Engineering",
+    "similarity": 1.0
+  },
+  "2025.acl-long.721": {
+    "arxiv_id": "2507.02503v1",
+    "arxiv_title": "Continual Gradient Low-Rank Projection Fine-Tuning for LLMs",
+    "similarity": 1.0
+  },
+  "2025.acl-long.938": {
+    "arxiv_id": "2505.14629v1",
+    "arxiv_title": "KERL: Knowledge-Enhanced Personalized Recipe Recommendation using Large Language Models",
+    "similarity": 1.0
+  },
+  "2025.acl-long.41": {
+    "arxiv_id": "2508.09515v1",
+    "arxiv_title": "LACA: Improving Cross-lingual Aspect-Based Sentiment Analysis with LLM Data Augmentation",
+    "similarity": 1.0
+  },
+  "2025.acl-long.4": {
+    "arxiv_id": "2505.16667v1",
+    "arxiv_title": "ELABORATION: A Comprehensive Benchmark on Human-LLM Competitive Programming",
+    "similarity": 1.0
+  },
+  "2025.acl-long.1239": null,
+  "2025.acl-long.161": {
+    "arxiv_id": "2503.12370v2",
+    "arxiv_title": "Understanding Common Ground Misalignment in Goal-Oriented Dialog: A Case-Study with Ubuntu Chat Logs",
+    "similarity": 1.0
+  },
+  "2025.acl-long.104": {
+    "arxiv_id": "2502.20897v1",
+    "arxiv_title": "Beyond Demographics: Fine-tuning Large Language Models to Predict Individuals' Subjective Text Perceptions",
+    "similarity": 1.0
+  },
+  "2025.acl-long.626": {
+    "arxiv_id": "2404.18466v1",
+    "arxiv_title": "HFT: Half Fine-Tuning for Large Language Models",
+    "similarity": 1.0
+  },
+  "2025.acl-long.649": {
+    "arxiv_id": "2505.12763v1",
+    "arxiv_title": "Rethinking Reward Model Evaluation Through the Lens of Reward Overoptimization",
+    "similarity": 1.0
+  },
+  "2025.acl-long.477": null,
+  "2025.acl-long.573": null,
+  "2025.acl-long.354": {
+    "arxiv_id": "2502.11116v2",
+    "arxiv_title": "Gumbel Reranking: Differentiable End-to-End Reranker Optimization",
+    "similarity": 1.0
+  },
+  "2025.acl-short.70": {
+    "arxiv_id": "2410.13460v2",
+    "arxiv_title": "From Citations to Criticality: Predicting Legal Decision Influence in the Multilingual Swiss Jurisprudence",
+    "similarity": 1.0
+  },
+  "2025.acl-long.166": {
+    "arxiv_id": "2505.21816v1",
+    "arxiv_title": "Revisiting Common Assumptions about Arabic Dialects in NLP",
+    "similarity": 1.0
+  },
+  "2025.acl-long.777": {
+    "arxiv_id": "2503.01751v2",
+    "arxiv_title": "SAKE: Steering Activations for Knowledge Editing",
+    "similarity": 1.0
+  },
+  "2025.acl-long.793": {
+    "arxiv_id": "2502.12685v3",
+    "arxiv_title": "Theoretical Guarantees for Minimum Bayes Risk Decoding",
+    "similarity": 1.0
+  },
+  "2025.acl-long.1536": {
+    "arxiv_id": "2411.08745v4",
+    "arxiv_title": "Separating Tongue from Thought: Activation Patching Reveals Language-Agnostic Concept Representations in Transformers",
+    "similarity": 1.0
+  },
+  "2025.acl-long.877": {
+    "arxiv_id": "2502.18511v1",
+    "arxiv_title": "ELBA-Bench: An Efficient Learning Backdoor Attacks Benchmark for Large Language Models",
+    "similarity": 1.0
+  },
+  "2025.acl-long.1040": {
+    "arxiv_id": "2505.14173v1",
+    "arxiv_title": "THOR-MoE: Hierarchical Task-Guided and Context-Responsive Routing for Neural Machine Translation",
+    "similarity": 1.0
+  },
+  "2025.acl-long.306": {
+    "arxiv_id": "2505.16491v2",
+    "arxiv_title": "LLaMAs Have Feelings Too: Unveiling Sentiment and Emotion Representations in LLaMA Models Through Probing",
+    "similarity": 1.0
+  },
+  "2025.acl-long.1218": {
+    "arxiv_id": "2502.17710v1",
+    "arxiv_title": "Mind the Gesture: Evaluating AI Sensitivity to Culturally Offensive Non-Verbal Gestures",
+    "similarity": 1.0
+  },
+  "2025.acl-long.1084": {
+    "arxiv_id": "2502.11671v2",
+    "arxiv_title": "Diversity-oriented Data Augmentation with Large Language Models",
+    "similarity": 1.0
+  },
+  "2025.acl-short.91": null,
+  "2025.acl-long.735": {
+    "arxiv_id": "2406.17507v3",
+    "arxiv_title": "CART: A Generative Cross-Modal Retrieval Framework with Coarse-To-Fine Semantic Modeling",
+    "similarity": 1.0
+  },
+  "2025.acl-long.974": {
+    "arxiv_id": "2504.04635v1",
+    "arxiv_title": "Steering off Course: Reliability Challenges in Steering Language Models",
+    "similarity": 1.0
+  },
+  "2025.acl-short.40": null,
+  "2025.acl-long.704": {
+    "arxiv_id": "2410.20682v3",
+    "arxiv_title": "SHARE: Shared Memory-Aware Open-Domain Long-Term Dialogue Dataset Constructed from Movie Script",
+    "similarity": 1.0
+  },
+  "2025.acl-long.926": null,
+  "2025.acl-long.398": {
+    "arxiv_id": "2502.13246v2",
+    "arxiv_title": "When People are Floods: Analyzing Dehumanizing Metaphors in Immigration Discourse with Large Language Models",
+    "similarity": 1.0
+  },
+  "2025.acl-long.1351": null,
+  "2025.acl-long.225": null,
+  "2025.acl-long.70": {
+    "arxiv_id": "2411.08534v3",
+    "arxiv_title": "Neural Topic Modeling with Large Language Models in the Loop",
+    "similarity": 1.0
+  },
+  "2025.acl-long.356": {
+    "arxiv_id": "2503.03303v2",
+    "arxiv_title": "SEOE: A Scalable and Reliable Semantic Evaluation Framework for Open Domain Event Detection",
+    "similarity": 1.0
+  },
+  "2025.acl-short.2": {
+    "arxiv_id": "2501.01652v3",
+    "arxiv_title": "MIRAGE: Exploring How Large Language Models Perform in Complex Social Interactive Environments",
+    "similarity": 1.0
+  },
+  "2025.acl-long.889": null,
+  "2025.acl-long.831": null,
+  "2025.acl-long.1135": {
+    "arxiv_id": "2505.12212v3",
+    "arxiv_title": "Data Whisperer: Efficient Data Selection for Task-Specific LLM Fine-Tuning via Few-Shot In-Context Learning",
+    "similarity": 1.0
+  },
+  "2025.acl-long.597": {
+    "arxiv_id": "2505.19628v2",
+    "arxiv_title": "HomeBench: Evaluating LLMs in Smart Homes with Valid and Invalid Instructions Across Single and Multiple Devices",
+    "similarity": 1.0
+  },
+  "2025.acl-long.1472": {
+    "arxiv_id": "2507.19741v2",
+    "arxiv_title": "Basic Reading Distillation",
+    "similarity": 1.0
+  },
+  "2025.acl-long.107": {
+    "arxiv_id": "2410.24024v2",
+    "arxiv_title": "AndroidLab: Training and Systematic Benchmarking of Android Autonomous Agents",
+    "similarity": 1.0
+  },
+  "2025.acl-long.1462": {
+    "arxiv_id": "2502.13928v2",
+    "arxiv_title": "Symmetrical Visual Contrastive Optimization: Aligning Vision-Language Models with Minimal Contrastive Images",
+    "similarity": 1.0
+  },
+  "2025.acl-long.596": null,
+  "2025.acl-long.1105": null,
+  "2025.acl-long.281": {
+    "arxiv_id": "2505.23029v2",
+    "arxiv_title": "Uncovering Visual-Semantic Psycholinguistic Properties from the Distributional Structure of Text Embedding Space",
+    "similarity": 1.0
+  },
+  "2025.acl-long.440": {
+    "arxiv_id": "2501.00982v2",
+    "arxiv_title": "Are LLMs effective psychological assessors? Leveraging adaptive RAG for interpretable mental health screening through psychometric practice",
+    "similarity": 1.0
+  },
+  "2025.acl-long.1249": {
+    "arxiv_id": "2502.16487v3",
+    "arxiv_title": "All That Glitters is Not Novel: Plagiarism in AI Generated Research",
+    "similarity": 1.0
+  },
+  "2025.acl-long.1363": null,
+  "2025.acl-long.1334": {
+    "arxiv_id": "2412.04300v3",
+    "arxiv_title": "T2I-FactualBench: Benchmarking the Factuality of Text-to-Image Models with Knowledge-Intensive Concepts",
+    "similarity": 1.0
+  },
+  "2025.acl-long.1053": {
+    "arxiv_id": "2504.09130v1",
+    "arxiv_title": "VisuoThink: Empowering LVLM Reasoning with Multimodal Tree Search",
+    "similarity": 1.0
+  },
+  "2025.acl-long.860": {
+    "arxiv_id": "2503.16048v2",
+    "arxiv_title": "Meta-Learning Neural Mechanisms rather than Bayesian Priors",
+    "similarity": 1.0
+  },
+  "2025.acl-long.488": {
+    "arxiv_id": "2505.19997v2",
+    "arxiv_title": "Embracing Imperfection: Simulating Students with Diverse Cognitive Levels Using LLM-based Agents",
+    "similarity": 1.0
+  },
+  "2025.acl-long.631": {
+    "arxiv_id": "2505.10938v1",
+    "arxiv_title": "Accurate KV Cache Quantization with Outlier Tokens Tracing",
+    "similarity": 1.0
+  },
+  "2025.acl-long.490": {
+    "arxiv_id": "2412.14860v2",
+    "arxiv_title": "Think&Cite: Improving Attributed Text Generation with Self-Guided Tree Search and Progress Reward Modeling",
+    "similarity": 1.0
+  },
+  "2025.acl-long.1360": null,
+  "2025.acl-long.301": {
+    "arxiv_id": "2503.04800v3",
+    "arxiv_title": "HoH: A Dynamic Benchmark for Evaluating the Impact of Outdated Information on Retrieval-Augmented Generation",
+    "similarity": 1.0
+  },
+  "2025.acl-long.842": {
+    "arxiv_id": "2508.06570v2",
+    "arxiv_title": "ImpliHateVid: A Benchmark Dataset and Two-stage Contrastive Learning Framework for Implicit Hate Speech Detection in Videos",
+    "similarity": 1.0
+  },
+  "2025.acl-long.907": null,
+  "2025.acl-long.347": null,
+  "2025.acl-long.1172": {
+    "arxiv_id": "2507.11882v1",
+    "arxiv_title": "Marco-Bench-MIF: On Multilingual Instruction-Following Capability of Large Language Models",
+    "similarity": 0.9590643274853801
+  },
+  "2025.acl-long.1063": null,
+  "2025.acl-long.1493": {
+    "arxiv_id": "2510.25817v1",
+    "arxiv_title": "A Survey on Efficient Large Language Model Training: From Data-centric Perspectives",
+    "similarity": 1.0
+  },
+  "2025.acl-long.569": null,
+  "2025.acl-long.693": null,
+  "2025.acl-short.18": {
+    "arxiv_id": "2505.24778v3",
+    "arxiv_title": "Revisiting Epistemic Markers in Confidence Estimation: Can Markers Accurately Reflect Large Language Models' Uncertainty?",
+    "similarity": 1.0
+  },
+  "2025.acl-long.1292": {
+    "arxiv_id": "2502.12611v2",
+    "arxiv_title": "Who Writes What: Unveiling the Impact of Author Roles on AI-generated Text Detection",
+    "similarity": 1.0
+  },
+  "2025.acl-long.491": null,
+  "2025.acl-long.1271": null,
+  "2025.acl-long.772": {
+    "arxiv_id": "2507.00828v1",
+    "arxiv_title": "ProxAnn: Use-Oriented Evaluations of Topic Models and Document Clustering",
+    "similarity": 1.0
+  },
+  "2025.acl-long.1147": {
+    "arxiv_id": "2505.10561v1",
+    "arxiv_title": "T2A-Feedback: Improving Basic Capabilities of Text-to-Audio Generation via Fine-grained AI Feedback",
+    "similarity": 1.0
+  },
+  "2025.acl-long.714": null,
+  "2025.acl-long.213": {
+    "arxiv_id": "2507.01702v1",
+    "arxiv_title": "AdamMeme: Adaptively Probe the Reasoning Capacity of Multimodal Large Language Models on Harmfulness",
+    "similarity": 1.0
+  },
+  "2025.acl-long.1425": {
+    "arxiv_id": "2407.16724v3",
+    "arxiv_title": "Structure-aware Domain Knowledge Injection for Large Language Models",
+    "similarity": 1.0
+  },
+  "2025.acl-long.167": {
+    "arxiv_id": "2402.04068v4",
+    "arxiv_title": "Retrieve to Explain: Evidence-driven Predictions for Explainable Drug Target Identification",
+    "similarity": 1.0
+  },
+  "2025.acl-long.901": {
+    "arxiv_id": "2412.13670v2",
+    "arxiv_title": "AntiLeakBench: Preventing Data Contamination by Automatically Constructing Benchmarks with Updated Real-World Knowledge",
+    "similarity": 1.0
+  }
+}

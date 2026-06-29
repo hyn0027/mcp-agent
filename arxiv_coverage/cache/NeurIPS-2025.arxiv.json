@@ -1,0 +1,386 @@
+{
+  "padrqCRyCP": null,
+  "CDQ0MI4rLw": {
+    "arxiv_id": "2510.27128v1",
+    "arxiv_title": "ZEBRA: Towards Zero-Shot Cross-Subject Generalization for Universal Brain Visual Decoding",
+    "similarity": 1.0
+  },
+  "s3LMqrwwHJ": null,
+  "yBWRrqPwyN": {
+    "arxiv_id": "2503.16872v2",
+    "arxiv_title": "Lie Detector: Unified Backdoor Detection via Cross-Examination Framework",
+    "similarity": 1.0
+  },
+  "QWQB1ReBkJ": {
+    "arxiv_id": "2506.03131v1",
+    "arxiv_title": "Native-Resolution Image Synthesis",
+    "similarity": 1.0
+  },
+  "MhOhzdjK0e": {
+    "arxiv_id": "2505.15602v3",
+    "arxiv_title": "Deep Learning for Continuous-Time Stochastic Control with Jumps",
+    "similarity": 1.0
+  },
+  "TLlFnoPUdB": {
+    "arxiv_id": "2510.22577v1",
+    "arxiv_title": "From Pixels to Views: Learning Angular-Aware and Physics-Consistent Representations for Light Field Microscopy",
+    "similarity": 1.0
+  },
+  "7ieS4EYKnB": null,
+  "59n2g6RqjT": {
+    "arxiv_id": "2510.21148v1",
+    "arxiv_title": "How to Auto-optimize Prompts for Domain Tasks? Adaptive Prompting and Reasoning through Evolutionary Domain Knowledge Adaptation",
+    "similarity": 1.0
+  },
+  "y60FhgO07j": {
+    "arxiv_id": "2506.07235v1",
+    "arxiv_title": "Multi-Step Visual Reasoning with Visual Tokens Scaling and Verification",
+    "similarity": 1.0
+  },
+  "6j9xJ9pBjm": {
+    "arxiv_id": "2505.19234v2",
+    "arxiv_title": "GUARDIAN: Safeguarding LLM Multi-Agent Collaborations with Temporal Graph Modeling",
+    "similarity": 1.0
+  },
+  "iDcPkDrlaW": {
+    "arxiv_id": "2510.18363v1",
+    "arxiv_title": "Towards Unsupervised Open-Set Graph Domain Adaptation via Dual Reprogramming",
+    "similarity": 1.0
+  },
+  "OmtKcee8NA": null,
+  "ETgPUJfQE1": {
+    "arxiv_id": "2510.11354v1",
+    "arxiv_title": "Understanding the Generalization of Stochastic Gradient Adam in Learning Neural Networks",
+    "similarity": 1.0
+  },
+  "2exr4mlbx1": {
+    "arxiv_id": "2509.16087v1",
+    "arxiv_title": "See&Trek: Training-Free Spatial Prompting for Multimodal Large Language Model",
+    "similarity": 1.0
+  },
+  "nJq5z21eUk": {
+    "arxiv_id": "2510.15976v1",
+    "arxiv_title": "Learning to Watermark: A Selective Watermarking Framework for Large Language Models via Multi-Objective Optimization",
+    "similarity": 1.0
+  },
+  "icoV59tH6D": {
+    "arxiv_id": "2506.03179v1",
+    "arxiv_title": "Vid-SME: Membership Inference Attacks against Large Video Understanding Models",
+    "similarity": 1.0
+  },
+  "F11iEhKoYp": null,
+  "JV6ZOUb7BD": {
+    "arxiv_id": "2506.06472v1",
+    "arxiv_title": "Cost-Efficient LLM Training with Lifetime-Aware Tensor Offloading via GPUDirect Storage",
+    "similarity": 1.0
+  },
+  "2tqcROH3iO": {
+    "arxiv_id": "2510.00303v1",
+    "arxiv_title": "Looking Beyond the Known: Towards a Data Discovery Guided Open-World Object Detection",
+    "similarity": 1.0
+  },
+  "QVheAhJefR": null,
+  "TxedB8hI5O": {
+    "arxiv_id": "2507.07966v4",
+    "arxiv_title": "Scaling RL to Long Videos",
+    "similarity": 1.0
+  },
+  "9T6Pu6iWL6": {
+    "arxiv_id": "2503.04162v5",
+    "arxiv_title": "Semantic Retrieval Augmented Contrastive Learning for Sequential Recommendation",
+    "similarity": 1.0
+  },
+  "g2f0UoasGs": {
+    "arxiv_id": "2505.17203v2",
+    "arxiv_title": "Transfer Faster, Price Smarter: Minimax Dynamic Pricing under Cross-Market Preference Shift",
+    "similarity": 1.0
+  },
+  "1V3Toke6XP": {
+    "arxiv_id": "2505.15456v2",
+    "arxiv_title": "Teaching Language Models to Evolve with Users: Dynamic Profile Modeling for Personalized Alignment",
+    "similarity": 1.0
+  },
+  "71e1UmCMQ9": {
+    "arxiv_id": "2412.14326v3",
+    "arxiv_title": "Covariances for Free: Exploiting Mean Distributions for Training-free Federated Learning",
+    "similarity": 1.0
+  },
+  "uHGG3s0XyZ": {
+    "arxiv_id": "2505.13061v4",
+    "arxiv_title": "3D Visual Illusion Depth Estimation",
+    "similarity": 1.0
+  },
+  "yNVDkAjGjw": {
+    "arxiv_id": "2509.17847v2",
+    "arxiv_title": "Semantic and Visual Crop-Guided Diffusion Models for Heterogeneous Tissue Synthesis in Histopathology",
+    "similarity": 1.0
+  },
+  "roKj4IwaVT": {
+    "arxiv_id": "2504.06261v4",
+    "arxiv_title": "Hogwild! Inference: Parallel LLM Generation via Concurrent Attention",
+    "similarity": 1.0
+  },
+  "aWWRPyGMie": null,
+  "n1XlwRmF7v": {
+    "arxiv_id": "2510.22643v1",
+    "arxiv_title": "Enhancing Graph Classification Robustness with Singular Pooling",
+    "similarity": 1.0
+  },
+  "JMtVNZ8Np7": null,
+  "UjSBOwKZ02": null,
+  "dqBkZ9rmSF": {
+    "arxiv_id": "2509.26063v1",
+    "arxiv_title": "Fading to Grow: Growing Preference Ratios via Preference Fading Discrete Diffusion for Recommendation",
+    "similarity": 1.0
+  },
+  "YngHXbJM8g": {
+    "arxiv_id": "2510.19710v1",
+    "arxiv_title": "SEMPO: Lightweight Foundation Models for Time Series Forecasting",
+    "similarity": 1.0
+  },
+  "A7WfzMiffv": {
+    "arxiv_id": "2310.13862v2",
+    "arxiv_title": "Competitive Advantage Attacks to Decentralized Federated Learning",
+    "similarity": 1.0
+  },
+  "aoVCFtox89": null,
+  "KQLCim1NhT": {
+    "arxiv_id": "2506.05216v2",
+    "arxiv_title": "A Unified Framework for Provably Efficient Algorithms to Estimate Shapley Values",
+    "similarity": 1.0
+  },
+  "dtsYpcJr1R": null,
+  "kGlrPZuHPq": null,
+  "aBUG2Phwdt": null,
+  "qXSFkP0ELS": {
+    "arxiv_id": "2502.12018v4",
+    "arxiv_title": "Atom of Thoughts for Markov LLM Test-Time Scaling",
+    "similarity": 1.0
+  },
+  "dkXDyM66ce": null,
+  "R5EBtNE2Y9": null,
+  "yKUwkihcsi": {
+    "arxiv_id": "2504.21561v5",
+    "arxiv_title": "Iterative Tool Usage Exploration for Multimodal Agents via Step-wise Preference Tuning",
+    "similarity": 1.0
+  },
+  "AOj3idcleS": {
+    "arxiv_id": "2412.12772v3",
+    "arxiv_title": "Optimize the Unseen -- Fast NeRF Cleanup with Free Space Prior",
+    "similarity": 1.0
+  },
+  "sLfMvrkn6T": {
+    "arxiv_id": "2510.00461v2",
+    "arxiv_title": "TimeEmb: A Lightweight Static-Dynamic Disentanglement Framework for Time Series Forecasting",
+    "similarity": 1.0
+  },
+  "2uKVyGq5zK": {
+    "arxiv_id": "2506.00925v1",
+    "arxiv_title": "ProtInvTree: Deliberate Protein Inverse Folding with Reward-guided Tree Search",
+    "similarity": 1.0
+  },
+  "XmV7KRABBl": {
+    "arxiv_id": "2509.15857v2",
+    "arxiv_title": "EvoBrain: Dynamic Multi-Channel EEG Graph Modeling for Time-Evolving Brain Networks",
+    "similarity": 1.0
+  },
+  "w1Y7RZC3QT": {
+    "arxiv_id": "2509.20461v1",
+    "arxiv_title": "Document Summarization with Conformal Importance Guarantees",
+    "similarity": 1.0
+  },
+  "2sG4ebgqBd": {
+    "arxiv_id": "2509.21689v1",
+    "arxiv_title": "SpecMER: Fast Protein Generation with K-mer Guided Speculative Decoding",
+    "similarity": 1.0
+  },
+  "LrnZDU9g7N": {
+    "arxiv_id": "2502.06684v4",
+    "arxiv_title": "EquiTabPFN: A Target-Permutation Equivariant Prior Fitted Networks",
+    "similarity": 0.992248062015504
+  },
+  "tejdm1EMXK": null,
+  "rJiu7nvLxA": {
+    "arxiv_id": "2510.07316v2",
+    "arxiv_title": "Pixel-Perfect Depth with Semantics-Prompted Diffusion Transformers",
+    "similarity": 1.0
+  },
+  "zhCv5uZ8bh": null,
+  "sT1U2enBh0": {
+    "arxiv_id": "2412.07057v3",
+    "arxiv_title": "Interactive and Hybrid Imitation Learning: Provably Beating Behavior Cloning",
+    "similarity": 1.0
+  },
+  "nTfhNThKX2": {
+    "arxiv_id": "2506.04721v3",
+    "arxiv_title": "SPARTA ALIGNMENT: Collectively Aligning Multiple Language Models through Combat",
+    "similarity": 1.0
+  },
+  "lg2rP98oTf": null,
+  "igtjRQfght": {
+    "arxiv_id": "2501.01895v3",
+    "arxiv_title": "EnerVerse: Envisioning Embodied Future Space for Robotics Manipulation",
+    "similarity": 1.0
+  },
+  "1GCWcrZTX8": null,
+  "Km8P3gtJzO": {
+    "arxiv_id": "2511.19390v1",
+    "arxiv_title": "Predicting partially observable dynamical systems via diffusion models with a multiscale inference scheme",
+    "similarity": 1.0
+  },
+  "fV46JjrrOm": {
+    "arxiv_id": "2510.23607v2",
+    "arxiv_title": "Concerto: Joint 2D-3D Self-Supervised Learning Emerges Spatial Representations",
+    "similarity": 1.0
+  },
+  "avRktRfQ8c": {
+    "arxiv_id": "2505.17010v2",
+    "arxiv_title": "Understanding Prompt Tuning and In-Context Learning via Meta-Learning",
+    "similarity": 1.0
+  },
+  "cANLnJb1FX": {
+    "arxiv_id": "2510.20780v1",
+    "arxiv_title": "Are Large Reasoning Models Good Translation Evaluators? Analysis and Performance Boost",
+    "similarity": 1.0
+  },
+  "Cfd5S9108a": {
+    "arxiv_id": "2510.19163v1",
+    "arxiv_title": "Natural Gradient VI: Guarantees for Non-Conjugate Models",
+    "similarity": 1.0
+  },
+  "BtPg90UEbw": {
+    "arxiv_id": "2502.08736v4",
+    "arxiv_title": "Recurrent Memory for Online Interdomain Gaussian Processes",
+    "similarity": 1.0
+  },
+  "NFxA2Von7y": {
+    "arxiv_id": "2505.19602v1",
+    "arxiv_title": "Memory-Efficient Visual Autoregressive Modeling with Scale-Aware KV Cache Compression",
+    "similarity": 1.0
+  },
+  "7cirmREfbc": null,
+  "7VMg7Jb7AL": {
+    "arxiv_id": "2506.15564v3",
+    "arxiv_title": "Show-o2: Improved Native Unified Multimodal Models",
+    "similarity": 1.0
+  },
+  "me2vIZfgQf": null,
+  "7LulWI9QJy": null,
+  "k1nSnc6rhr": {
+    "arxiv_id": "2501.16226v4",
+    "arxiv_title": "The Effect of Optimal Self-Distillation in Noisy Gaussian Mixture Model",
+    "similarity": 1.0
+  },
+  "3QjESmXftM": {
+    "arxiv_id": "2502.11806v3",
+    "arxiv_title": "Exploring the Translation Mechanism of Large Language Models",
+    "similarity": 1.0
+  },
+  "xpVkYQofw9": {
+    "arxiv_id": "2404.15617v4",
+    "arxiv_title": "A Differential and Pointwise Control Approach to Reinforcement Learning",
+    "similarity": 1.0
+  },
+  "tMBPJureSx": {
+    "arxiv_id": "2510.22123v1",
+    "arxiv_title": "Learning 3D Anisotropic Noise Distributions Improves Molecular Force Field Modeling",
+    "similarity": 0.9367088607594937
+  },
+  "ph1V6n7BSv": {
+    "arxiv_id": "2502.00466v2",
+    "arxiv_title": "EDELINE: Enhancing Memory in Diffusion-based World Models via Linear-Time Sequence Modeling",
+    "similarity": 1.0
+  },
+  "nG45z7lJ7D": null,
+  "DZnBoIAy4V": null,
+  "gwBqVheRiD": {
+    "arxiv_id": "2502.07783v5",
+    "arxiv_title": "Curvature Tuning: Provable Training-free Model Steering From a Single Parameter",
+    "similarity": 1.0
+  },
+  "3FBByWp6GL": {
+    "arxiv_id": "2306.08586v3",
+    "arxiv_title": "Learning to Specialize: Joint Gating-Expert Training for Adaptive MoEs in Decentralized Settings",
+    "similarity": 1.0
+  },
+  "bh56ijtRb9": null,
+  "zL4ifL17bU": {
+    "arxiv_id": "2505.22025v1",
+    "arxiv_title": "Learnable Burst-Encodable Time-of-Flight Imaging for High-Fidelity Long-Distance Depth Sensing",
+    "similarity": 1.0
+  },
+  "Pn8UB4PmbF": {
+    "arxiv_id": "2505.17468v2",
+    "arxiv_title": "Efficient Adaptive Experimentation with Noncompliance",
+    "similarity": 1.0
+  },
+  "LtIk57nS8v": {
+    "arxiv_id": "2506.00745v1",
+    "arxiv_title": "Controlling the Spread of Epidemics on Networks with Differential Privacy",
+    "similarity": 1.0
+  },
+  "AuBSUgFVgq": {
+    "arxiv_id": "2506.04088v1",
+    "arxiv_title": "Multimodal Tabular Reasoning with Privileged Structured Information",
+    "similarity": 1.0
+  },
+  "OROkRBW6cu": null,
+  "77Kw7b7EYb": {
+    "arxiv_id": "2510.10864v1",
+    "arxiv_title": "HeroFilter: Adaptive Spectral Graph Filter for Varying Heterophilic Relations",
+    "similarity": 1.0
+  },
+  "8MHTtHZRFL": {
+    "arxiv_id": "2509.13866v3",
+    "arxiv_title": "Masked Diffusion Models as Energy Minimization",
+    "similarity": 1.0
+  },
+  "Ms6IXbfzzX": {
+    "arxiv_id": "2602.05230v1",
+    "arxiv_title": "ZeroS: Zero-Sum Linear Attention for Efficient Transformers",
+    "similarity": 1.0
+  },
+  "GrDEV4InKZ": {
+    "arxiv_id": "2508.18312v3",
+    "arxiv_title": "What Matters in Data for DPO?",
+    "similarity": 1.0
+  },
+  "UJSaY7p53L": {
+    "arxiv_id": "2506.01215v2",
+    "arxiv_title": "Compress, Gather, and Recompute: REFORMing Long-Context Processing in Transformers",
+    "similarity": 1.0
+  },
+  "Zb3QO7HLIj": null,
+  "wH3F1ZoK70": {
+    "arxiv_id": "2510.15194v1",
+    "arxiv_title": "Salient Concept-Aware Generative Data Augmentation",
+    "similarity": 1.0
+  },
+  "aXAkNlbnGa": {
+    "arxiv_id": "2505.13413v2",
+    "arxiv_title": "Joint Velocity-Growth Flow Matching for Single-Cell Dynamics Modeling",
+    "similarity": 1.0
+  },
+  "QSK8VqiijI": null,
+  "w22e5MrS4X": {
+    "arxiv_id": "2506.02336v2",
+    "arxiv_title": "Large Stepsizes Accelerate Gradient Descent for Regularized Logistic Regression",
+    "similarity": 1.0
+  },
+  "cSomL3lHTa": {
+    "arxiv_id": "2410.05127v4",
+    "arxiv_title": "Last Iterate Convergence in Monotone Mean Field Games",
+    "similarity": 1.0
+  },
+  "cIYguQc97T": {
+    "arxiv_id": "2506.06305v2",
+    "arxiv_title": "Template-Guided 3D Molecular Pose Generation via Flow Matching and Differentiable Optimization",
+    "similarity": 1.0
+  },
+  "RyYDCQ2ilV": null,
+  "MLprqOvAAK": {
+    "arxiv_id": "2509.22023v2",
+    "arxiv_title": "Teaching Transformers to Solve Combinatorial Problems through Efficient Trial & Error",
+    "similarity": 1.0
+  }
+}

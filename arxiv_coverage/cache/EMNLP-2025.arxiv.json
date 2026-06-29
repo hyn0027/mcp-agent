@@ -1,0 +1,386 @@
+{
+  "2025.emnlp-main.624": {
+    "arxiv_id": "2509.09459v1",
+    "arxiv_title": "Boosting Data Utilization for Multilingual Dense Retrieval",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.298": null,
+  "2025.emnlp-main.312": {
+    "arxiv_id": "2505.19684v2",
+    "arxiv_title": "VisCRA: A Visual Chain Reasoning Attack for Jailbreaking Multimodal Large Language Models",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.598": {
+    "arxiv_id": "2510.00280v1",
+    "arxiv_title": "ReEvalMed: Rethinking Medical Report Evaluation by Aligning Metrics with Real-World Clinical Judgment",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.252": {
+    "arxiv_id": "2411.08302v2",
+    "arxiv_title": "RED: Unleashing Token-Level Rewards from Holistic Feedback via Reward Redistribution",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.1616": {
+    "arxiv_id": "2510.20700v1",
+    "arxiv_title": "Structure-Conditional Minimum Bayes Risk Decoding",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.634": {
+    "arxiv_id": "2410.03810v3",
+    "arxiv_title": "Exploring the Limitations of Mamba in COPY and CoT Reasoning",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.1127": {
+    "arxiv_id": "2503.03225v2",
+    "arxiv_title": "Targeted Distillation for Sentiment Analysis",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.1804": null,
+  "2025.emnlp-main.243": {
+    "arxiv_id": "2505.15444v1",
+    "arxiv_title": "Single LLM, Multiple Roles: A Unified Retrieval-Augmented Generation Framework Using Role-Specific Token Optimization",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.85": null,
+  "2025.emnlp-main.226": {
+    "arxiv_id": "2505.23242v1",
+    "arxiv_title": "ChartMind: A Comprehensive Benchmark for Complex Real-world Multimodal Chart Question Answering",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.501": null,
+  "2025.emnlp-main.956": {
+    "arxiv_id": "2505.16429v2",
+    "arxiv_title": "Beyond Static Testbeds: An Interaction-Centric Agent Simulation Platform for Dynamic Recommender Systems",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.1215": {
+    "arxiv_id": "2502.13061v4",
+    "arxiv_title": "Robust Adaptation of Large Multimodal Models for Retrieval Augmented Hateful Meme Detection",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.1222": null,
+  "2025.emnlp-main.1427": null,
+  "2025.emnlp-main.1766": {
+    "arxiv_id": "2509.16531v1",
+    "arxiv_title": "Leveraging Multilingual Training for Authorship Representation: Enhancing Generalization across Languages and Domains",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.1314": {
+    "arxiv_id": "2505.22945v2",
+    "arxiv_title": "OWL: Probing Cross-Lingual Recall of Memorized Texts via World Literature",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.140": {
+    "arxiv_id": "2506.10209v1",
+    "arxiv_title": "TTT-Bench: A Benchmark for Evaluating Reasoning Ability with Simple and Novel Tic-Tac-Toe-style Games",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.446": {
+    "arxiv_id": "2407.03779v2",
+    "arxiv_title": "Sheaf Discovery with Joint Computation Graph Pruning and Flexible Granularity",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.50": {
+    "arxiv_id": "2501.09751v5",
+    "arxiv_title": "OmniThink: Expanding Knowledge Boundaries in Machine Writing through Thinking",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.1520": null,
+  "2025.emnlp-main.1641": {
+    "arxiv_id": "2507.21084v1",
+    "arxiv_title": "Reviving Your MNEME: Predicting The Side Effects of LLM Unlearning and Fine-Tuning via Sparse Model Diffing",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.1637": {
+    "arxiv_id": "2509.14464v1",
+    "arxiv_title": "Not What the Doctor Ordered: Surveying LLM-based De-identification and Quantifying Clinical Information Loss",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.1587": {
+    "arxiv_id": "2503.20302v2",
+    "arxiv_title": "A Multilingual, Culture-First Approach to Addressing Misgendering in LLM Applications",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.613": null,
+  "2025.emnlp-main.1439": {
+    "arxiv_id": "2502.19721v3",
+    "arxiv_title": "Unsupervised Concept Vector Extraction for Bias Control in LLMs",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.1339": {
+    "arxiv_id": "2412.17029v1",
+    "arxiv_title": "GraphAgent: Agentic Graph Language Assistant",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.106": {
+    "arxiv_id": "2503.15484v2",
+    "arxiv_title": "Value Profiles for Encoding Human Variation",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.659": {
+    "arxiv_id": "2508.15305v2",
+    "arxiv_title": "Coarse-to-Fine Grounded Memory for LLM Agent Planning",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.861": {
+    "arxiv_id": "2503.22048v4",
+    "arxiv_title": "ThinkEdit: Interpretable Weight Editing to Mitigate Overly Short Thinking in Reasoning Models",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.687": null,
+  "2025.emnlp-main.1389": {
+    "arxiv_id": "2507.17147v1",
+    "arxiv_title": "CogDual: Enhancing Dual Cognition of LLMs via Reinforcement Learning with Implicit Rule-Based Rewards",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.1197": {
+    "arxiv_id": "2510.26157v1",
+    "arxiv_title": "Bridging the Gap Between Molecule and Textual Descriptions via Substructure-aware Alignment",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.1756": null,
+  "2025.emnlp-main.273": {
+    "arxiv_id": "2502.14420v2",
+    "arxiv_title": "ChatVLA: Unified Multimodal Understanding and Robot Control with Vision-Language-Action Model",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.712": {
+    "arxiv_id": "2502.11689v2",
+    "arxiv_title": "Improve LLM-as-a-Judge Ability as a General Ability",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.540": {
+    "arxiv_id": "2412.17727v2",
+    "arxiv_title": "Knowledge Editing through Chain-of-Thought",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.364": null,
+  "2025.emnlp-main.1361": null,
+  "2025.emnlp-main.438": {
+    "arxiv_id": "2509.25818v1",
+    "arxiv_title": "VELA: An LLM-Hybrid-as-a-Judge Approach for Evaluating Long Image Captions",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.1565": {
+    "arxiv_id": "2509.09650v1",
+    "arxiv_title": "All for One: LLMs Solve Mental Math at the Last Token With Information Transferred From Other Tokens",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.1125": null,
+  "2025.emnlp-main.983": {
+    "arxiv_id": "2410.10901v2",
+    "arxiv_title": "3DS: Medical Domain Adaptation of LLMs via Decomposed Difficulty-based Data Selection",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.848": {
+    "arxiv_id": "2510.21059v2",
+    "arxiv_title": "Dynamic Retriever for In-Context Knowledge Editing via Policy Optimization",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.702": {
+    "arxiv_id": "2508.14723v3",
+    "arxiv_title": "Transplant Then Regenerate: A New Paradigm for Text Data Augmentation",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.507": null,
+  "2025.emnlp-main.329": {
+    "arxiv_id": "2505.22148v1",
+    "arxiv_title": "What Makes a Good Reasoning Chain? Uncovering Structural Patterns in Long Chain-of-Thought Reasoning",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.347": {
+    "arxiv_id": "2502.00075v1",
+    "arxiv_title": "BTS: Harmonizing Specialized Experts into a Generalist LLM",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.412": {
+    "arxiv_id": "2412.16686v2",
+    "arxiv_title": "NILE: Internal Consistency Alignment in Large Language Models",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.1108": {
+    "arxiv_id": "2509.08255v1",
+    "arxiv_title": "Mitigating Catastrophic Forgetting in Large Language Models with Forgetting-aware Pruning",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.1805": {
+    "arxiv_id": "2502.17086v4",
+    "arxiv_title": "Mind the Blind Spots: A Focus-Level Evaluation Framework for LLM Reviews",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.1626": null,
+  "2025.emnlp-main.1494": {
+    "arxiv_id": "2412.12318v3",
+    "arxiv_title": "Graph-Guided Textual Explanation Generation Framework",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.851": {
+    "arxiv_id": "2509.09448v3",
+    "arxiv_title": "TORSO: Template-Oriented Reasoning Towards General Tasks",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.1444": {
+    "arxiv_id": "2502.11918v1",
+    "arxiv_title": "VLP: Vision-Language Preference Learning for Embodied Manipulation",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.51": {
+    "arxiv_id": "2503.18596v4",
+    "arxiv_title": "LinkAlign: Scalable Schema Linking for Real-World Large-Scale Multi-Database Text-to-SQL",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.654": null,
+  "2025.emnlp-main.1146": {
+    "arxiv_id": "2508.17953v1",
+    "arxiv_title": "Understanding Subword Compositionality of Large Language Models",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.1391": null,
+  "2025.emnlp-main.845": {
+    "arxiv_id": "2504.07229v1",
+    "arxiv_title": "Visual-Aware Speech Recognition for Noisy Scenarios",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.1319": null,
+  "2025.emnlp-main.199": {
+    "arxiv_id": "2508.17162v1",
+    "arxiv_title": "Quantifying Language Disparities in Multilingual Large Language Models",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.178": null,
+  "2025.emnlp-main.423": {
+    "arxiv_id": "2509.16666v1",
+    "arxiv_title": "Robust Native Language Identification through Agentic Decomposition",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.1602": null,
+  "2025.emnlp-main.1133": null,
+  "2025.emnlp-main.1564": {
+    "arxiv_id": "2505.19345v2",
+    "arxiv_title": "PatentScore: Multi-dimensional Evaluation of LLM-Generated Patent Claims",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.462": null,
+  "2025.emnlp-main.1572": {
+    "arxiv_id": "2509.14738v1",
+    "arxiv_title": "UnifiedVisual: A Framework for Constructing Unified Vision-Language Datasets",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.879": {
+    "arxiv_id": "2412.18934v2",
+    "arxiv_title": "Dovetail: A CPU/GPU Heterogeneous Speculative Decoding for LLM inference",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.1080": {
+    "arxiv_id": "2509.14651v1",
+    "arxiv_title": "MUSE: MCTS-Driven Red Teaming Framework for Enhanced Multi-Turn Dialogue Safety in Large Language Models",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.1678": null,
+  "2025.emnlp-main.1372": null,
+  "2025.emnlp-main.79": {
+    "arxiv_id": "2503.10497v2",
+    "arxiv_title": "MMLU-ProX: A Multilingual Benchmark for Advanced Large Language Model Evaluation",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.100": {
+    "arxiv_id": "2502.19820v3",
+    "arxiv_title": "Foot-In-The-Door: A Multi-turn Jailbreak for LLMs",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.1622": {
+    "arxiv_id": "2507.19969v1",
+    "arxiv_title": "Text2Vis: A Challenging and Diverse Benchmark for Generating Multimodal Visualizations from Text",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.1590": {
+    "arxiv_id": "2505.14157v2",
+    "arxiv_title": "Prior Prompt Engineering for Reinforcement Fine-Tuning",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.173": {
+    "arxiv_id": "2412.15922v4",
+    "arxiv_title": "RiTTA: Modeling Event Relations in Text-to-Audio Generation",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.594": {
+    "arxiv_id": "2504.09689v3",
+    "arxiv_title": "EmoAgent: Assessing and Safeguarding Human-AI Interaction for Mental Health Safety",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.1000": {
+    "arxiv_id": "2506.09627v2",
+    "arxiv_title": "Benchmarking Debiasing Methods for LLM-based Parameter Estimates",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.1039": {
+    "arxiv_id": "2502.17394v3",
+    "arxiv_title": "SNaRe: Domain-aware Data Generation for Low-Resource Event Detection",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.925": {
+    "arxiv_id": "2505.20645v2",
+    "arxiv_title": "STEER-BENCH: A Benchmark for Evaluating the Steerability of Large Language Models",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.1097": {
+    "arxiv_id": "2505.20666v1",
+    "arxiv_title": "Continuous-Time Attention: PDE-Guided Mechanisms for Long-Sequence Transformers",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.1712": {
+    "arxiv_id": "2506.16678v2",
+    "arxiv_title": "Mechanisms vs. Outcomes: Probing for Syntax Fails to Explain Performance on Targeted Syntactic Evaluations",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.739": {
+    "arxiv_id": "2506.01646v2",
+    "arxiv_title": "ESGenius: Benchmarking LLMs on Environmental, Social, and Governance (ESG) and Sustainability Knowledge",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.1153": {
+    "arxiv_id": "2505.16631v2",
+    "arxiv_title": "MiLQ: Benchmarking IR Models for Bilingual Web Search with Mixed Language Queries",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.990": null,
+  "2025.emnlp-main.90": {
+    "arxiv_id": "2502.12065v3",
+    "arxiv_title": "Autoformalization in the Wild: Assessing LLMs on Real-World Mathematical Definitions",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.395": null,
+  "2025.emnlp-main.1705": {
+    "arxiv_id": "2511.00536v1",
+    "arxiv_title": "Word Salad Chopper: Reasoning Models Waste A Ton Of Decoding Budget On Useless Repetitions, Self-Knowingly",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.910": {
+    "arxiv_id": "2502.11163v3",
+    "arxiv_title": "AI Sees Your Location, But With A Bias Toward The Wealthy World",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.720": null,
+  "2025.emnlp-main.1303": {
+    "arxiv_id": "2505.19598v2",
+    "arxiv_title": "Evaluating Robustness of Large Audio Language Models to Audio Injection: An Empirical Study",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.1569": {
+    "arxiv_id": "2505.05684v4",
+    "arxiv_title": "Meta-Semantics Augmented Few-Shot Relational Learning",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.766": null,
+  "2025.emnlp-main.294": {
+    "arxiv_id": "2509.02499v3",
+    "arxiv_title": "MoSEs: Uncertainty-Aware AI-Generated Text Detection via Mixture of Stylistics Experts with Conditional Thresholds",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.354": {
+    "arxiv_id": "2509.20750v1",
+    "arxiv_title": "Confidence-guided Refinement Reasoning for Zero-shot Question Answering",
+    "similarity": 1.0
+  },
+  "2025.emnlp-main.1074": null
+}

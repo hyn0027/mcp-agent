@@ -1,0 +1,398 @@
+{
+  "2025.naacl-long.392": {
+    "arxiv_id": "2503.22005v1",
+    "arxiv_title": "Empowering Retrieval-based Conversational Recommendation with Contrasting User Preferences",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.404": null,
+  "2025.naacl-long.613": {
+    "arxiv_id": "2503.00231v1",
+    "arxiv_title": "Jawaher: A Multidialectal Dataset of Arabic Proverbs for LLM Benchmarking",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.578": {
+    "arxiv_id": "2409.03215v1",
+    "arxiv_title": "xLAM: A Family of Large Action Models to Empower AI Agent Systems",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.68": null,
+  "2025.naacl-long.549": {
+    "arxiv_id": "2406.16061v2",
+    "arxiv_title": "PORT: Preference Optimization on Reasoning Traces",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.328": {
+    "arxiv_id": "2402.01528v4",
+    "arxiv_title": "Decoding Speculative Decoding",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.177": {
+    "arxiv_id": "2503.10838v2",
+    "arxiv_title": "Who Relies More on World Knowledge and Bias for Syntactic Ambiguity Resolution: Humans or LLMs?",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.210": {
+    "arxiv_id": "2503.21315v1",
+    "arxiv_title": "Tricking Retrievers with Influential Tokens: An Efficient Black-Box Corpus Poisoning Attack",
+    "similarity": 1.0
+  },
+  "2025.naacl-short.57": {
+    "arxiv_id": "2411.18932v1",
+    "arxiv_title": "ScratchEval: Are GPT-4o Smarter than My Child? Evaluating Large Multimodal Models with Visual Programming Challenges",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.369": null,
+  "2025.naacl-long.555": {
+    "arxiv_id": "2502.06858v1",
+    "arxiv_title": "LLM-Supported Natural Language to Bash Translation",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.524": {
+    "arxiv_id": "2502.06139v2",
+    "arxiv_title": "LCIRC: A Recurrent Compression Approach for Efficient Long-form Context and Query Dependent Modeling in LLMs",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.203": null,
+  "2025.naacl-long.276": null,
+  "2025.naacl-long.270": {
+    "arxiv_id": "2503.09620v2",
+    "arxiv_title": "Exploiting Edited Large Language Models as General Scientific Optimizers",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.473": {
+    "arxiv_id": "2409.00255v1",
+    "arxiv_title": "MAPWise: Evaluating Vision-Language Models for Advanced Map Queries",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.180": {
+    "arxiv_id": "2412.16420v1",
+    "arxiv_title": "Beyond End-to-End VLMs: Leveraging Intermediate Text Representations for Superior Flowchart Understanding",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.36": {
+    "arxiv_id": "2406.04784v1",
+    "arxiv_title": "SelfGoal: Your Language Agents Already Know How to Achieve High-level Goals",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.112": {
+    "arxiv_id": "2406.18449v2",
+    "arxiv_title": "Cascading Large Language Models for Salient Event Graph Generation",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.352": {
+    "arxiv_id": "2501.14877v1",
+    "arxiv_title": "DrawEduMath: Evaluating Vision Language Models with Expert-Annotated Students' Hand-Drawn Math Images",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.319": null,
+  "2025.naacl-long.509": {
+    "arxiv_id": "2410.17170v2",
+    "arxiv_title": "Self-calibration for Language Model Quantization and Pruning",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.585": {
+    "arxiv_id": "2505.08507v1",
+    "arxiv_title": "InfoPO: On Mutual Information Maximization for Large Language Model Alignment",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.362": {
+    "arxiv_id": "2402.14296v4",
+    "arxiv_title": "Mitigating Biases of Large Language Models in Stance Detection with Counterfactual Augmented Calibration",
+    "similarity": 1.0
+  },
+  "2025.naacl-short.59": {
+    "arxiv_id": "2412.11517v2",
+    "arxiv_title": "DART: An AIGT Detector using AMR of Rephrased Text",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.552": {
+    "arxiv_id": "2412.15282v1",
+    "arxiv_title": "A Systematic Examination of Preference Learning through the Lens of Instruction-Following",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.574": {
+    "arxiv_id": "2410.22590v2",
+    "arxiv_title": "Characterizing the Role of Similarity in the Property Inferences of Language Models",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.230": {
+    "arxiv_id": "2502.04958v1",
+    "arxiv_title": "SSMLoRA: Enhancing Low-Rank Adaptation with State Space Model",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.508": null,
+  "2025.naacl-short.62": {
+    "arxiv_id": "2406.11380v3",
+    "arxiv_title": "Evaluating LLMs for Quotation Attribution in Literary Texts: A Case Study of LLaMa3",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.261": null,
+  "2025.naacl-short.29": {
+    "arxiv_id": "2502.07058v3",
+    "arxiv_title": "Using Contextually Aligned Online Reviews to Measure LLMs' Performance Disparities Across Language Varieties",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.418": {
+    "arxiv_id": "2501.03172v1",
+    "arxiv_title": "GLiREL -- Generalist Model for Zero-Shot Relation Extraction",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.225": {
+    "arxiv_id": "2502.12200v1",
+    "arxiv_title": "Efficient and Effective Prompt Tuning via Prompt Decomposition and Compressed Outer Product",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.88": {
+    "arxiv_id": "2410.21083v2",
+    "arxiv_title": "Stealthy Jailbreak Attacks on Large Language Models via Benign Data Mirroring",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.401": null,
+  "2025.naacl-long.316": null,
+  "2025.naacl-long.329": {
+    "arxiv_id": "2504.02559v2",
+    "arxiv_title": "Leveraging LLM For Synchronizing Information Across Multilingual Tables",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.389": {
+    "arxiv_id": "2501.06751v2",
+    "arxiv_title": "Padding Tone: A Mechanistic Analysis of Padding Tokens in T2I Models",
+    "similarity": 1.0
+  },
+  "2025.naacl-short.42": {
+    "arxiv_id": "2502.10339v1",
+    "arxiv_title": "STAR: Spectral Truncation and Rescale for Model Merging",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.249": {
+    "arxiv_id": "2410.11767v4",
+    "arxiv_title": "Analyzing (In)Abilities of SAEs via Formal Languages",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.587": null,
+  "2025.naacl-long.289": {
+    "arxiv_id": "2504.03541v1",
+    "arxiv_title": "Diverse In-Context Example Selection After Decomposing Programs and Aligned Utterances Improves Semantic Parsing",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.527": {
+    "arxiv_id": "2411.09018v4",
+    "arxiv_title": "Bridging the Visual Gap: Fine-Tuning Multimodal Models with Knowledge-Adapted Captions",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.470": {
+    "arxiv_id": "2410.23861v1",
+    "arxiv_title": "Audio Is the Achilles' Heel: Red Teaming Audio Large Multimodal Models",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.510": {
+    "arxiv_id": "2409.17539v2",
+    "arxiv_title": "Logic-of-Thought: Injecting Logic into Contexts for Full Reasoning in Large Language Models",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.242": {
+    "arxiv_id": "2409.10058v1",
+    "arxiv_title": "StyleTTS-ZS: Efficient High-Quality Zero-Shot Text-to-Speech Synthesis with Distilled Time-Varying Style Diffusion",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.96": {
+    "arxiv_id": "2410.20215v2",
+    "arxiv_title": "DAWN-ICL: Strategic Planning of Problem-solving Trajectories for Zero-Shot In-Context Learning",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.591": {
+    "arxiv_id": "2410.22179v2",
+    "arxiv_title": "Robust and Unbounded Length Generalization in Autoregressive Transformer-Based Text-to-Speech",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.599": {
+    "arxiv_id": "2411.02398v3",
+    "arxiv_title": "Prompting with Phonemes: Enhancing LLMs' Multilinguality for Non-Latin Script Languages",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.5": {
+    "arxiv_id": "2408.09366v2",
+    "arxiv_title": "Improving and Assessing the Fidelity of Large Language Models Alignment to Online Communities",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.347": null,
+  "2025.naacl-long.240": {
+    "arxiv_id": "2501.19010v2",
+    "arxiv_title": "DyPCL: Dynamic Phoneme-level Contrastive Learning for Dysarthric Speech Recognition",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.237": {
+    "arxiv_id": "2407.01929v3",
+    "arxiv_title": "What We Talk About When We Talk About LMs: Implicit Paradigm Shifts and the Ship of Language Models",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.498": {
+    "arxiv_id": "2503.15272v1",
+    "arxiv_title": "MAMM-Refine: A Recipe for Improving Faithfulness in Generation with Multi-Agent Collaboration",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.317": null,
+  "2025.naacl-long.286": {
+    "arxiv_id": "2410.22499v2",
+    "arxiv_title": "Anticipating Future with Large Language Model for Simultaneous Machine Translation",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.453": {
+    "arxiv_id": "2410.23605v2",
+    "arxiv_title": "Dynamic Uncertainty Ranking: Enhancing Retrieval-Augmented In-Context Learning for Long-Tail Knowledge in LLMs",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.128": null,
+  "2025.naacl-long.111": {
+    "arxiv_id": "2410.16834v2",
+    "arxiv_title": "Analyzing and Evaluating Correlation Measures in NLG Meta-Evaluation",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.417": {
+    "arxiv_id": "2409.04318v2",
+    "arxiv_title": "Learning vs Retrieval: The Role of In-Context Examples in Regression with Large Language Models",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.202": null,
+  "2025.naacl-long.538": {
+    "arxiv_id": "2410.13191v4",
+    "arxiv_title": "MCQG-SRefine: Multiple Choice Question Generation and Evaluation with Iterative Self-Critique, Correction, and Comparison Feedback",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.559": null,
+  "2025.naacl-long.62": null,
+  "2025.naacl-long.601": {
+    "arxiv_id": "2408.05636v4",
+    "arxiv_title": "Speculative Diffusion Decoding: Accelerating Language Generation through Diffusion",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.215": {
+    "arxiv_id": "2411.01045v3",
+    "arxiv_title": "Fighting Spurious Correlations in Text Classification via a Causal Learning Perspective",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.608": null,
+  "2025.naacl-long.382": {
+    "arxiv_id": "2502.14501v1",
+    "arxiv_title": "Towards a Perspectivist Turn in Argument Quality Assessment",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.236": {
+    "arxiv_id": "2406.17519v2",
+    "arxiv_title": "Entropy-Based Decoding for Retrieval-Augmented Large Language Models",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.420": {
+    "arxiv_id": "2404.04237v2",
+    "arxiv_title": "GroundCocoa: A Benchmark for Evaluating Compositional & Conditional Reasoning in Language Models",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.39": {
+    "arxiv_id": "2501.17767v1",
+    "arxiv_title": "Hybrid Graphs for Table-and-Text based Question Answering using LLMs",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.67": {
+    "arxiv_id": "2411.08135v2",
+    "arxiv_title": "On the Role of Speech Data in Reducing Toxicity Detection Bias",
+    "similarity": 1.0
+  },
+  "2025.naacl-short.21": {
+    "arxiv_id": "2504.07467v1",
+    "arxiv_title": "Defense against Prompt Injection Attacks via Mixture of Encodings",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.334": null,
+  "2025.naacl-long.90": null,
+  "2025.naacl-long.201": null,
+  "2025.naacl-long.469": {
+    "arxiv_id": "2410.19482v3",
+    "arxiv_title": "Measuring memorization in language models via probabilistic extraction",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.481": {
+    "arxiv_id": "2410.20811v2",
+    "arxiv_title": "Bridging the Gap between Expert and Language Models: Concept-guided Chess Commentary Generation and Evaluation",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.14": {
+    "arxiv_id": "2410.13716v2",
+    "arxiv_title": "MIRAGE-Bench: Automatic Multilingual Benchmark Arena for Retrieval-Augmented Generation Systems",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.380": {
+    "arxiv_id": "2408.09639v2",
+    "arxiv_title": "How to Make the Most of LLMs' Grammatical Knowledge for Acceptability Judgments",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.502": {
+    "arxiv_id": "2503.00902v1",
+    "arxiv_title": "Instruct-of-Reflection: Enhancing Large Language Models Iterative Reflection Capabilities via Dynamic-Meta Instruction",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.348": {
+    "arxiv_id": "2412.04478v1",
+    "arxiv_title": "LibEvolutionEval: A Benchmark and Study for Version-Specific Code Generation",
+    "similarity": 1.0
+  },
+  "2025.naacl-short.54": null,
+  "2025.naacl-long.617": {
+    "arxiv_id": "2406.08598v4",
+    "arxiv_title": "Language Model Council: Democratically Benchmarking Foundation Models on Highly Subjective Tasks",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.512": {
+    "arxiv_id": "2504.11038v1",
+    "arxiv_title": "QAVA: Query-Agnostic Visual Attack to Large Vision-Language Models",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.590": {
+    "arxiv_id": "2501.14951v2",
+    "arxiv_title": "E-Gen: Leveraging E-Graphs to Improve Continuous Representations of Symbolic Expressions",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.436": {
+    "arxiv_id": "2410.12757v2",
+    "arxiv_title": "StyleDistance: Stronger Content-Independent Style Embeddings with Synthetic Parallel Examples",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.427": {
+    "arxiv_id": "2405.17402v2",
+    "arxiv_title": "THREAD: Thinking Deeper with Recursive Spawning",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.451": {
+    "arxiv_id": "2406.16672v3",
+    "arxiv_title": "CAVE: Controllable Authorship Verification Explanations",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.33": null,
+  "2025.naacl-long.537": {
+    "arxiv_id": "2410.20401v1",
+    "arxiv_title": "Prototypical Extreme Multi-label Classification with a Dynamic Margin Loss",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.231": null,
+  "2025.naacl-long.457": {
+    "arxiv_id": "2409.19801v2",
+    "arxiv_title": "CRScore: Grounding Automated Evaluation of Code Review Comments in Code Claims and Smells",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.486": null,
+  "2025.naacl-long.260": {
+    "arxiv_id": "2501.14144v1",
+    "arxiv_title": "Test-Time Code-Switching for Cross-lingual Aspect Sentiment Triplet Extraction",
+    "similarity": 1.0
+  },
+  "2025.naacl-long.54": null,
+  "2025.naacl-short.28": {
+    "arxiv_id": "2407.00923v4",
+    "arxiv_title": "Preserving Multilingual Quality While Tuning Query Encoder on English Only",
+    "similarity": 1.0
+  },
+  "2025.naacl-short.26": {
+    "arxiv_id": "2502.13363v1",
+    "arxiv_title": "Pretrained Image-Text Models are Secretly Video Captioners",
+    "similarity": 1.0
+  }
+}
