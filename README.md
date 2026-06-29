@@ -1,4 +1,4 @@
-# Symbolic Guardrails for Domain-Specific Agents: Stronger Safety and Security Guarantees Without Sacrificing Utility
+# Don't Make Models Guess Security and Safety: Symbolic Guardrails for Domain-Specific AI Agents
 
 <p align="center">
   <a href="https://arxiv.org/abs/2604.15579" style="text-decoration: none; border-bottom: none;">
@@ -14,12 +14,12 @@
   </a>
 </p>
 
-> This repo contains code and artifact for paper "Symbolic Guardrails for Domain-Specific Agents: Stronger Safety and Security Guarantees Without Sacrificing Utility"
+> This repo contains code and artifact for paper "Don't Make Models Guess Security and Safety: Symbolic Guardrails for Domain-Specific AI Agents"
 
-For materials related to Section 3, please refer to folder paper_search.
+For materials related to Study 1, please refer to folder paper_search.
 
-For materials related to Section 4, please refer to folder policy_analysis.
+For materials related to Study 2, please refer to folder policy_analysis.
 
-For materials related to Section 5, please refer to folder experiments.
+For materials related to Study 3, please refer to folder experiments.
 
 Please find README.md within each folder.

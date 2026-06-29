@@ -1,4 +1,4 @@
-# 5 Benchmarking Agents with Symbolic Guardrails: They Do Not Undermine Utility
+# Study 3: Benchmarking Security, Safety, and Utility of Agents with Symbolic Guardrails
 
 ## Artifacts
 
@@ -23,7 +23,6 @@ Due to internal terminology inconsistency, `golden` in this repo refers to `base
 Before execution, please navigate to the corresponding yaml configuration to substitute the local path to the actual path in your environment. Please ensure you have a valid $OPENAI_API_KEY as environment variable.
 
 ### tau2-airline
-
 
 command:
 
