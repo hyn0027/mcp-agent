@@ -1,12 +1,12 @@
 DATASET:
   NAME: "tau2"
   DOMAIN: "airline"
-  DOMAIN_PATH: "/Users/yhong3/Documents/Research/Software Security/working_repo/mcp-agent/experiments/data/tau2/domains/"
-  USER_SIMULATION_PATH: "/Users/yhong3/Documents/Research/Software Security/working_repo/mcp-agent/experiments/data/tau2/user_simulator/"
-  AIRLINE_DB_PATH: "/Users/yhong3/Documents/Research/Software Security/working_repo/mcp-agent/experiments/data/tau2/domains/airline/db.json"
+  DOMAIN_PATH: "<ANONYMOUS_PROJECT_PATH>/experiments/data/tau2/domains/"
+  USER_SIMULATION_PATH: "<ANONYMOUS_PROJECT_PATH>/experiments/data/tau2/user_simulator/"
+  AIRLINE_DB_PATH: "<ANONYMOUS_PROJECT_PATH>/experiments/data/tau2/domains/airline/db.json"
 
 SETTINGS:
-  LOG_PATH: "/Users/yhong3/Documents/Research/Software Security/working_repo/mcp-agent/experiments/logs/mcp-server/"
+  LOG_PATH: "<ANONYMOUS_PROJECT_PATH>/experiments/logs/mcp-server/"
 
 SAFEGUARD:
   API_CHECK: false

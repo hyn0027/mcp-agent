@@ -15,17 +15,13 @@
         "error_calling_log": [
           {
             "message": "Gift card balance is not enough",
-            "error_types": [
-              "implemented"
-            ],
+            "error_types": ["implemented"],
             "caller_function": "_payment_for_update",
             "caller_line_no": 174
           },
           {
             "message": "Gift card balance is not enough",
-            "error_types": [
-              "implemented"
-            ],
+            "error_types": ["implemented"],
             "caller_function": "_payment_for_update",
             "caller_line_no": 174
           }
@@ -71,7 +67,7 @@
       "TEMPERATURE": 1.0,
       "MCP_SERVER_COMMAND": "start-mcp-server",
       "MCP_SERVER_COMMAND_TEST_ARGS": "--config configs/tau2/test_config.yml",
-      "SAVE_STATE_BASE_PATH": "/Users/yhong3/Documents/Research/Software Security/working_repo/mcp-agent/experiments/data/tau2/domains/airline/tmp/",
+      "SAVE_STATE_BASE_PATH": "<ANONYMOUS_PROJECT_PATH>/experiments/data/tau2/domains/airline/tmp/",
       "SAVE_STATE_EXTENTION": "json",
       "MCP_SERVER_COMMAND_GOLDEN_ARGS": "--config configs/tau2/golden_config.yml",
       "TEST_WITH_GOLDEN": true,
@@ -79,7 +75,7 @@
       "MAX_TOOL_CALL_FAILS": 10,
       "AGENT_INITIAL_MESSAGE": true,
       "INITIAL_CONVERSTION": "Hi! How can I help you today?",
-      "DOMAIN_POLICY_FILE": "/Users/yhong3/Documents/Research/Software Security/working_repo/mcp-agent/experiments/data/tau2/domains/airline/policy.md",
+      "DOMAIN_POLICY_FILE": "<ANONYMOUS_PROJECT_PATH>/experiments/data/tau2/domains/airline/policy.md",
       "SYSTEM_PROMPT_TEMPLATE": "<instructions>\n{agent_instruction}\n</instructions>\n<policy>\n{domain_policy}\n</policy>\n",
       "AGENT_INSTRUCTION": "You are a customer service agent that helps the user according to the <policy> provided below.\nIn each turn you can either:\n- Send a message to the user.\n- Make a tool call.\nYou cannot do both at the same time.\n\nTry to be helpful and always follow the policy.\n"
     },
@@ -87,20 +83,20 @@
       "MODEL": "gpt-5",
       "TEMPERATURE": 1.0,
       "SYSTEM_PROMPT_TEMPLATE": "{global_user_sim_guidelines}\n\n<scenario>\n{instructions}\n</scenario>\n",
-      "SIMULATION_GUIDELINE_PATH": "/Users/yhong3/Documents/Research/Software Security/working_repo/mcp-agent/experiments/data/tau2/user_simulator/simulation_guidelines.md"
+      "SIMULATION_GUIDELINE_PATH": "<ANONYMOUS_PROJECT_PATH>/experiments/data/tau2/user_simulator/simulation_guidelines.md"
     },
     "EVAL": {
       "MODEL": "gpt-5",
       "TEMPERATURE": 1.0,
-      "SAVE_PATH": "/Users/yhong3/Documents/Research/Software Security/working_repo/mcp-agent/experiments/data/tau2/domains/airline/eval_results_golden.json"
+      "SAVE_PATH": "<ANONYMOUS_PROJECT_PATH>/experiments/data/tau2/domains/airline/eval_results_golden.json"
     },
     "SIMULATION": {
-      "TASK_FILE": "/Users/yhong3/Documents/Research/Software Security/working_repo/mcp-agent/experiments/data/tau2/domains/airline/tasks.json",
+      "TASK_FILE": "<ANONYMOUS_PROJECT_PATH>/experiments/data/tau2/domains/airline/tasks.json",
       "MAX_STEPS": 100,
       "MAX_WORKERS": 30
     },
     "SETTINGS": {
-      "LOG_PATH": "/Users/yhong3/Documents/Research/Software Security/working_repo/mcp-agent/experiments/logs/"
+      "LOG_PATH": "<ANONYMOUS_PROJECT_PATH>/experiments/logs/"
     },
     "SAFEGUARD": {
       "USER_CONFIRMATION": false,
@@ -815,9 +811,7 @@
                 }
               ],
               "membership": "gold",
-              "reservations": [
-                "G72NSF"
-              ]
+              "reservations": ["G72NSF"]
             },
             "require_confirmation_but_disabled": false
           },
@@ -1399,13 +1393,7 @@
                 }
               ],
               "membership": "regular",
-              "reservations": [
-                "NM1VX1",
-                "KC18K6",
-                "S61CZX",
-                "H8Q05L",
-                "WUNA5K"
-              ]
+              "reservations": ["NM1VX1", "KC18K6", "S61CZX", "H8Q05L", "WUNA5K"]
             },
             "require_confirmation_but_disabled": false
           },
@@ -1870,11 +1858,7 @@
                 }
               ],
               "membership": "regular",
-              "reservations": [
-                "Z7GOZK",
-                "K67C4W",
-                "THY2DG"
-              ]
+              "reservations": ["Z7GOZK", "K67C4W", "THY2DG"]
             },
             "require_confirmation_but_disabled": false
           },
@@ -2311,13 +2295,7 @@
                 }
               ],
               "membership": "silver",
-              "reservations": [
-                "MZDDS4",
-                "60RX9E",
-                "S5IK51",
-                "OUEA45",
-                "Q69X3R"
-              ]
+              "reservations": ["MZDDS4", "60RX9E", "S5IK51", "OUEA45", "Q69X3R"]
             },
             "require_confirmation_but_disabled": false
           },
@@ -2899,10 +2877,7 @@
                 }
               ],
               "membership": "gold",
-              "reservations": [
-                "3FRNFB",
-                "Q4L9HS"
-              ]
+              "reservations": ["3FRNFB", "Q4L9HS"]
             },
             "require_confirmation_but_disabled": false
           },
@@ -3469,12 +3444,7 @@
                 }
               ],
               "membership": "regular",
-              "reservations": [
-                "DB1Y70",
-                "MUGYUB",
-                "3JA7XV",
-                "CYPIDV"
-              ]
+              "reservations": ["DB1Y70", "MUGYUB", "3JA7XV", "CYPIDV"]
             },
             "require_confirmation_but_disabled": false
           },
@@ -3986,11 +3956,7 @@
                 }
               ],
               "membership": "gold",
-              "reservations": [
-                "NO6JO3",
-                "AIXC49",
-                "HKEG34"
-              ]
+              "reservations": ["NO6JO3", "AIXC49", "HKEG34"]
             },
             "require_confirmation_but_disabled": false
           },
@@ -5253,10 +5219,7 @@
                 }
               ],
               "membership": "gold",
-              "reservations": [
-                "M05KNL",
-                "UHDAHF"
-              ]
+              "reservations": ["M05KNL", "UHDAHF"]
             },
             "require_confirmation_but_disabled": false
           },
@@ -6140,11 +6103,7 @@
                 }
               ],
               "membership": "silver",
-              "reservations": [
-                "UUN48W",
-                "1N99U6",
-                "1R63WQ"
-              ]
+              "reservations": ["UUN48W", "1N99U6", "1R63WQ"]
             },
             "require_confirmation_but_disabled": false
           },
@@ -6287,10 +6246,7 @@
               "error_calling_log": [
                 {
                   "message": "The provided payment amount -207 does not match the computed total price -414 for the update.",
-                  "error_types": [
-                    "api_check",
-                    "api_redesign"
-                  ],
+                  "error_types": ["api_check", "api_redesign"],
                   "caller_function": "update_reservation_flights",
                   "caller_line_no": 1609
                 }
@@ -6577,13 +6533,7 @@
                 }
               ],
               "membership": "regular",
-              "reservations": [
-                "NM1VX1",
-                "KC18K6",
-                "S61CZX",
-                "H8Q05L",
-                "WUNA5K"
-              ]
+              "reservations": ["NM1VX1", "KC18K6", "S61CZX", "H8Q05L", "WUNA5K"]
             },
             "require_confirmation_but_disabled": false
           },
@@ -7433,11 +7383,7 @@
                 }
               ],
               "membership": "gold",
-              "reservations": [
-                "AAVMM8",
-                "MQHHT6",
-                "GV1N64"
-              ]
+              "reservations": ["AAVMM8", "MQHHT6", "GV1N64"]
             },
             "require_confirmation_but_disabled": false
           },
@@ -10053,10 +9999,7 @@
                 }
               ],
               "membership": "gold",
-              "reservations": [
-                "M05KNL",
-                "UHDAHF"
-              ]
+              "reservations": ["M05KNL", "UHDAHF"]
             },
             "require_confirmation_but_disabled": false
           },
@@ -12166,10 +12109,7 @@
                 }
               ],
               "membership": "gold",
-              "reservations": [
-                "SDZQKO",
-                "4OG6T3"
-              ]
+              "reservations": ["SDZQKO", "4OG6T3"]
             },
             "require_confirmation_but_disabled": false
           },
@@ -12607,12 +12547,7 @@
                 }
               ],
               "membership": "silver",
-              "reservations": [
-                "M20IZO",
-                "N6F783",
-                "IFOYYZ",
-                "NQNU5R"
-              ]
+              "reservations": ["M20IZO", "N6F783", "IFOYYZ", "NQNU5R"]
             },
             "require_confirmation_but_disabled": false
           },
@@ -13383,12 +13318,7 @@
                 }
               ],
               "membership": "gold",
-              "reservations": [
-                "UM3OG5",
-                "5RJ7UH",
-                "FQ8APE",
-                "QKRY03"
-              ]
+              "reservations": ["UM3OG5", "5RJ7UH", "FQ8APE", "QKRY03"]
             },
             "require_confirmation_but_disabled": false
           },
@@ -13754,10 +13684,7 @@
               "error_calling_log": [
                 {
                   "message": "Total baggages 3 does not equal to free allowance 2 (computed by 2 (baggage num per person) * 1 (passenger count)) + non-free baggages 0",
-                  "error_types": [
-                    "api_check",
-                    "api_redesign"
-                  ],
+                  "error_types": ["api_check", "api_redesign"],
                   "caller_function": "update_reservation_baggages",
                   "caller_line_no": 1110
                 }
@@ -14922,11 +14849,7 @@
                 }
               ],
               "membership": "regular",
-              "reservations": [
-                "DF89BM",
-                "COVE6R",
-                "IIHXDG"
-              ]
+              "reservations": ["DF89BM", "COVE6R", "IIHXDG"]
             },
             "require_confirmation_but_disabled": false
           },
@@ -15742,10 +15665,7 @@
                 }
               ],
               "membership": "gold",
-              "reservations": [
-                "SDZQKO",
-                "4OG6T3"
-              ]
+              "reservations": ["SDZQKO", "4OG6T3"]
             },
             "require_confirmation_but_disabled": false
           },
@@ -16426,12 +16346,7 @@
                 }
               ],
               "membership": "silver",
-              "reservations": [
-                "6NSXQU",
-                "J3SAZF",
-                "PEP4E0",
-                "NABCQ2"
-              ]
+              "reservations": ["6NSXQU", "J3SAZF", "PEP4E0", "NABCQ2"]
             },
             "require_confirmation_but_disabled": false
           },
@@ -16663,12 +16578,7 @@
                 }
               ],
               "membership": "silver",
-              "reservations": [
-                "OWZ4XL",
-                "F3IQK1",
-                "8WMF4C",
-                "L2H5FP"
-              ]
+              "reservations": ["OWZ4XL", "F3IQK1", "8WMF4C", "L2H5FP"]
             },
             "require_confirmation_but_disabled": false
           },
@@ -17306,12 +17216,7 @@
                 }
               ],
               "membership": "gold",
-              "reservations": [
-                "UM3OG5",
-                "5RJ7UH",
-                "FQ8APE",
-                "QKRY03"
-              ]
+              "reservations": ["UM3OG5", "5RJ7UH", "FQ8APE", "QKRY03"]
             },
             "require_confirmation_but_disabled": false
           },
@@ -17717,10 +17622,7 @@
               "error_calling_log": [
                 {
                   "message": "Total baggages 3 does not equal to free allowance 2 (computed by 2 (baggage num per person) * 1 (passenger count)) + non-free baggages 0",
-                  "error_types": [
-                    "api_check",
-                    "api_redesign"
-                  ],
+                  "error_types": ["api_check", "api_redesign"],
                   "caller_function": "update_reservation_baggages",
                   "caller_line_no": 1110
                 }
@@ -18988,9 +18890,7 @@
                 }
               ],
               "membership": "regular",
-              "reservations": [
-                "K1NW8N"
-              ]
+              "reservations": ["K1NW8N"]
             },
             "require_confirmation_but_disabled": false
           },
@@ -21280,12 +21180,7 @@
                 }
               ],
               "membership": "silver",
-              "reservations": [
-                "M20IZO",
-                "N6F783",
-                "IFOYYZ",
-                "NQNU5R"
-              ]
+              "reservations": ["M20IZO", "N6F783", "IFOYYZ", "NQNU5R"]
             },
             "require_confirmation_but_disabled": false
           },
@@ -22041,12 +21936,7 @@
                 }
               ],
               "membership": "gold",
-              "reservations": [
-                "HXDUBJ",
-                "DXG8T6",
-                "46BBSE",
-                "P9VXUO"
-              ]
+              "reservations": ["HXDUBJ", "DXG8T6", "46BBSE", "P9VXUO"]
             },
             "require_confirmation_but_disabled": false
           },
@@ -23764,12 +23654,7 @@
                 }
               ],
               "membership": "silver",
-              "reservations": [
-                "M20IZO",
-                "N6F783",
-                "IFOYYZ",
-                "NQNU5R"
-              ]
+              "reservations": ["M20IZO", "N6F783", "IFOYYZ", "NQNU5R"]
             },
             "require_confirmation_but_disabled": false
           },
@@ -27904,10 +27789,7 @@
               "error_calling_log": [
                 {
                   "message": "Reservation is not eligible for cancellation based on the airline's cancellation policy. The policy states that cancellations are only allowed if made within 24 hours of booking, if the flight is cancelled by the airline, if the booking is in business class, or if the cancellation reason is covered by the insurance policy and the reservation has insurance. Reservation booking time: 2024-05-01T05:17:41, current time: 2024-05-15T15:00:00, time delta hours: 345.71, cabin: basic_economy, flight statuses: ['available', 'available'], insurance: no, meet_insurance_policy: False.",
-                  "error_types": [
-                    "api_check",
-                    "api_redesign"
-                  ],
+                  "error_types": ["api_check", "api_redesign"],
                   "caller_function": "cancel_reservation",
                   "caller_line_no": 704
                 }
@@ -28266,12 +28148,7 @@
                 }
               ],
               "membership": "gold",
-              "reservations": [
-                "HXDUBJ",
-                "DXG8T6",
-                "46BBSE",
-                "P9VXUO"
-              ]
+              "reservations": ["HXDUBJ", "DXG8T6", "46BBSE", "P9VXUO"]
             },
             "require_confirmation_but_disabled": false
           },
@@ -28421,18 +28298,13 @@
               "error_calling_log": [
                 {
                   "message": "The provided payment amount 192 does not match the computed total price 222 for the update.",
-                  "error_types": [
-                    "api_check",
-                    "api_redesign"
-                  ],
+                  "error_types": ["api_check", "api_redesign"],
                   "caller_function": "update_reservation_flights",
                   "caller_line_no": 1609
                 },
                 {
                   "message": "Gift card balance is not enough",
-                  "error_types": [
-                    "implemented"
-                  ],
+                  "error_types": ["implemented"],
                   "caller_function": "_payment_for_update",
                   "caller_line_no": 174
                 }
@@ -28852,9 +28724,7 @@
                 }
               ],
               "membership": "regular",
-              "reservations": [
-                "K1NW8N"
-              ]
+              "reservations": ["K1NW8N"]
             },
             "require_confirmation_but_disabled": false
           },
@@ -30378,11 +30248,7 @@
                 }
               ],
               "membership": "silver",
-              "reservations": [
-                "C4GP7M",
-                "XL2C75",
-                "H9ZU1C"
-              ]
+              "reservations": ["C4GP7M", "XL2C75", "H9ZU1C"]
             },
             "require_confirmation_but_disabled": false
           },
@@ -32851,10 +32717,7 @@
               "error_calling_log": [
                 {
                   "message": "The provided payment amount -6654 does not match the computed total price -6594 for the update.",
-                  "error_types": [
-                    "api_check",
-                    "api_redesign"
-                  ],
+                  "error_types": ["api_check", "api_redesign"],
                   "caller_function": "update_reservation_flights",
                   "caller_line_no": 1609
                 }
@@ -32945,10 +32808,7 @@
               "error_calling_log": [
                 {
                   "message": "The provided payment amount -1 does not match the computed total price -5418 for the update.",
-                  "error_types": [
-                    "api_check",
-                    "api_redesign"
-                  ],
+                  "error_types": ["api_check", "api_redesign"],
                   "caller_function": "update_reservation_flights",
                   "caller_line_no": 1609
                 }
@@ -33034,10 +32894,7 @@
               "error_calling_log": [
                 {
                   "message": "The provided payment amount -2400 does not match the computed total price -2452 for the update.",
-                  "error_types": [
-                    "api_check",
-                    "api_redesign"
-                  ],
+                  "error_types": ["api_check", "api_redesign"],
                   "caller_function": "update_reservation_flights",
                   "caller_line_no": 1609
                 }
@@ -33128,10 +32985,7 @@
               "error_calling_log": [
                 {
                   "message": "The provided payment amount -1 does not match the computed total price -5164 for the update.",
-                  "error_types": [
-                    "api_check",
-                    "api_redesign"
-                  ],
+                  "error_types": ["api_check", "api_redesign"],
                   "caller_function": "update_reservation_flights",
                   "caller_line_no": 1609
                 }
@@ -33239,10 +33093,7 @@
               "error_calling_log": [
                 {
                   "message": "The provided payment amount -3955 does not match the computed total price -3925 for the update.",
-                  "error_types": [
-                    "api_check",
-                    "api_redesign"
-                  ],
+                  "error_types": ["api_check", "api_redesign"],
                   "caller_function": "update_reservation_flights",
                   "caller_line_no": 1609
                 }
@@ -33324,10 +33175,7 @@
               "error_calling_log": [
                 {
                   "message": "Total baggages 3 within free allowance 4 = 2 (baggage num per person) * 2 (passenger count), but non-free baggages is 1. The non-free baggages should be 0. The additional bag should be added as free-baggages.",
-                  "error_types": [
-                    "api_check",
-                    "api_redesign"
-                  ],
+                  "error_types": ["api_check", "api_redesign"],
                   "caller_function": "update_reservation_baggages",
                   "caller_line_no": 1098
                 }
@@ -33915,13 +33763,7 @@
                 }
               ],
               "membership": "gold",
-              "reservations": [
-                "4NQLHD",
-                "KHIK97",
-                "NO6SVK",
-                "AJVCTQ",
-                "ZB7LBX"
-              ]
+              "reservations": ["4NQLHD", "KHIK97", "NO6SVK", "AJVCTQ", "ZB7LBX"]
             },
             "require_confirmation_but_disabled": false
           },
@@ -36404,13 +36246,7 @@
                 }
               ],
               "membership": "regular",
-              "reservations": [
-                "NM1VX1",
-                "KC18K6",
-                "S61CZX",
-                "H8Q05L",
-                "WUNA5K"
-              ]
+              "reservations": ["NM1VX1", "KC18K6", "S61CZX", "H8Q05L", "WUNA5K"]
             },
             "require_confirmation_but_disabled": false
           },
@@ -37863,17 +37699,13 @@
       },
       "info": {
         "action_evaluation": {
-          "detailed_results": [
-            true
-          ]
+          "detailed_results": [true]
         },
         "communicate_evaluation": {
           "note": "No communicate_info to evaluate"
         },
         "nl_assertions_evaluation": {
-          "detailed_results": [
-            true
-          ]
+          "detailed_results": [true]
         },
         "reward_without_nl": 1.0,
         "safety": {
@@ -37952,21 +37784,13 @@
       },
       "info": {
         "action_evaluation": {
-          "detailed_results": [
-            true,
-            true
-          ]
+          "detailed_results": [true, true]
         },
         "communicate_evaluation": {
-          "detailed_results": [
-            false
-          ]
+          "detailed_results": [false]
         },
         "nl_assertions_evaluation": {
-          "detailed_results": [
-            true,
-            false
-          ]
+          "detailed_results": [true, false]
         },
         "reward_without_nl": 0.0,
         "safety": {
@@ -38222,10 +38046,7 @@
           "note": "No communicate_info to evaluate"
         },
         "nl_assertions_evaluation": {
-          "detailed_results": [
-            true,
-            true
-          ]
+          "detailed_results": [true, true]
         },
         "reward_without_nl": 1.0,
         "safety": {
@@ -38470,18 +38291,13 @@
       },
       "info": {
         "action_evaluation": {
-          "detailed_results": [
-            true
-          ]
+          "detailed_results": [true]
         },
         "communicate_evaluation": {
           "note": "No communicate_info to evaluate"
         },
         "nl_assertions_evaluation": {
-          "detailed_results": [
-            true,
-            true
-          ]
+          "detailed_results": [true, true]
         },
         "reward_without_nl": 1.0,
         "safety": {
@@ -38551,9 +38367,7 @@
                     }
                   ],
                   "membership": "gold",
-                  "reservations": [
-                    "G72NSF"
-                  ]
+                  "reservations": ["G72NSF"]
                 },
                 "require_confirmation_but_disabled": false
               },
@@ -39050,23 +38864,13 @@
       },
       "info": {
         "action_evaluation": {
-          "detailed_results": [
-            true,
-            true,
-            true,
-            true,
-            true,
-            true
-          ]
+          "detailed_results": [true, true, true, true, true, true]
         },
         "communicate_evaluation": {
           "note": "No communicate_info to evaluate"
         },
         "nl_assertions_evaluation": {
-          "detailed_results": [
-            false,
-            false
-          ]
+          "detailed_results": [false, false]
         },
         "reward_without_nl": 1.0,
         "safety": {
@@ -39645,17 +39449,13 @@
       },
       "info": {
         "action_evaluation": {
-          "detailed_results": [
-            true
-          ]
+          "detailed_results": [true]
         },
         "communicate_evaluation": {
           "note": "No communicate_info to evaluate"
         },
         "nl_assertions_evaluation": {
-          "detailed_results": [
-            true
-          ]
+          "detailed_results": [true]
         },
         "reward_without_nl": 1.0,
         "safety": {
@@ -39720,11 +39520,7 @@
                     }
                   ],
                   "membership": "regular",
-                  "reservations": [
-                    "Z7GOZK",
-                    "K67C4W",
-                    "THY2DG"
-                  ]
+                  "reservations": ["Z7GOZK", "K67C4W", "THY2DG"]
                 },
                 "require_confirmation_but_disabled": false
               },
@@ -39981,18 +39777,13 @@
       },
       "info": {
         "action_evaluation": {
-          "detailed_results": [
-            true,
-            true
-          ]
+          "detailed_results": [true, true]
         },
         "communicate_evaluation": {
           "note": "No communicate_info to evaluate"
         },
         "nl_assertions_evaluation": {
-          "detailed_results": [
-            true
-          ]
+          "detailed_results": [true]
         },
         "reward_without_nl": 1.0,
         "safety": {
@@ -40718,9 +40509,7 @@
           "note": "No communicate_info to evaluate"
         },
         "nl_assertions_evaluation": {
-          "detailed_results": [
-            true
-          ]
+          "detailed_results": [true]
         },
         "reward_without_nl": 1.0,
         "safety": {
@@ -40775,10 +40564,7 @@
                     }
                   ],
                   "membership": "gold",
-                  "reservations": [
-                    "3FRNFB",
-                    "Q4L9HS"
-                  ]
+                  "reservations": ["3FRNFB", "Q4L9HS"]
                 },
                 "require_confirmation_but_disabled": false
               },
@@ -41123,9 +40909,7 @@
           "note": "No communicate_info to evaluate"
         },
         "nl_assertions_evaluation": {
-          "detailed_results": [
-            true
-          ]
+          "detailed_results": [true]
         },
         "reward_without_nl": 1.0,
         "safety": {
@@ -41329,18 +41113,13 @@
       },
       "info": {
         "action_evaluation": {
-          "detailed_results": [
-            true
-          ]
+          "detailed_results": [true]
         },
         "communicate_evaluation": {
           "note": "No communicate_info to evaluate"
         },
         "nl_assertions_evaluation": {
-          "detailed_results": [
-            true,
-            true
-          ]
+          "detailed_results": [true, true]
         },
         "reward_without_nl": 1.0,
         "safety": {
@@ -41422,12 +41201,7 @@
                     }
                   ],
                   "membership": "regular",
-                  "reservations": [
-                    "DB1Y70",
-                    "MUGYUB",
-                    "3JA7XV",
-                    "CYPIDV"
-                  ]
+                  "reservations": ["DB1Y70", "MUGYUB", "3JA7XV", "CYPIDV"]
                 },
                 "require_confirmation_but_disabled": false
               },
@@ -41840,18 +41614,13 @@
       },
       "info": {
         "action_evaluation": {
-          "detailed_results": [
-            true
-          ]
+          "detailed_results": [true]
         },
         "communicate_evaluation": {
           "note": "No communicate_info to evaluate"
         },
         "nl_assertions_evaluation": {
-          "detailed_results": [
-            true,
-            true
-          ]
+          "detailed_results": [true, true]
         },
         "reward_without_nl": 1.0,
         "safety": {
@@ -41922,11 +41691,7 @@
                     }
                   ],
                   "membership": "gold",
-                  "reservations": [
-                    "NO6JO3",
-                    "AIXC49",
-                    "HKEG34"
-                  ]
+                  "reservations": ["NO6JO3", "AIXC49", "HKEG34"]
                 },
                 "require_confirmation_but_disabled": false
               },
@@ -43210,18 +42975,13 @@
       },
       "info": {
         "action_evaluation": {
-          "detailed_results": [
-            true
-          ]
+          "detailed_results": [true]
         },
         "communicate_evaluation": {
           "note": "No communicate_info to evaluate"
         },
         "nl_assertions_evaluation": {
-          "detailed_results": [
-            true,
-            true
-          ]
+          "detailed_results": [true, true]
         },
         "reward_without_nl": 1.0,
         "safety": {
@@ -43280,10 +43040,7 @@
                     }
                   ],
                   "membership": "gold",
-                  "reservations": [
-                    "M05KNL",
-                    "UHDAHF"
-                  ]
+                  "reservations": ["M05KNL", "UHDAHF"]
                 },
                 "require_confirmation_but_disabled": false
               },
@@ -44110,20 +43867,13 @@
       },
       "info": {
         "action_evaluation": {
-          "detailed_results": [
-            true,
-            true,
-            true
-          ]
+          "detailed_results": [true, true, true]
         },
         "communicate_evaluation": {
           "note": "No communicate_info to evaluate"
         },
         "nl_assertions_evaluation": {
-          "detailed_results": [
-            true,
-            true
-          ]
+          "detailed_results": [true, true]
         },
         "reward_without_nl": 1.0,
         "safety": {
@@ -44256,11 +44006,7 @@
                     }
                   ],
                   "membership": "silver",
-                  "reservations": [
-                    "UUN48W",
-                    "1N99U6",
-                    "1R63WQ"
-                  ]
+                  "reservations": ["UUN48W", "1N99U6", "1R63WQ"]
                 },
                 "require_confirmation_but_disabled": false
               },
@@ -44403,10 +44149,7 @@
                   "error_calling_log": [
                     {
                       "message": "The provided payment amount -207 does not match the computed total price -414 for the update.",
-                      "error_types": [
-                        "api_check",
-                        "api_redesign"
-                      ],
+                      "error_types": ["api_check", "api_redesign"],
                       "caller_function": "update_reservation_flights",
                       "caller_line_no": 1609
                     }
@@ -44562,23 +44305,13 @@
       },
       "info": {
         "action_evaluation": {
-          "detailed_results": [
-            true,
-            true,
-            true,
-            true
-          ]
+          "detailed_results": [true, true, true, true]
         },
         "communicate_evaluation": {
           "note": "No communicate_info to evaluate"
         },
         "nl_assertions_evaluation": {
-          "detailed_results": [
-            true,
-            true,
-            true,
-            true
-          ]
+          "detailed_results": [true, true, true, true]
         },
         "reward_without_nl": 1.0,
         "safety": {
@@ -45342,17 +45075,13 @@
       },
       "info": {
         "action_evaluation": {
-          "detailed_results": [
-            true
-          ]
+          "detailed_results": [true]
         },
         "communicate_evaluation": {
           "note": "No communicate_info to evaluate"
         },
         "nl_assertions_evaluation": {
-          "detailed_results": [
-            true
-          ]
+          "detailed_results": [true]
         },
         "reward_without_nl": 1.0,
         "safety": {
@@ -45537,21 +45266,13 @@
       },
       "info": {
         "action_evaluation": {
-          "detailed_results": [
-            true
-          ]
+          "detailed_results": [true]
         },
         "communicate_evaluation": {
-          "detailed_results": [
-            true
-          ]
+          "detailed_results": [true]
         },
         "nl_assertions_evaluation": {
-          "detailed_results": [
-            true,
-            true,
-            true
-          ]
+          "detailed_results": [true, true, true]
         },
         "reward_without_nl": 1.0,
         "safety": {
@@ -45610,11 +45331,7 @@
                     }
                   ],
                   "membership": "gold",
-                  "reservations": [
-                    "AAVMM8",
-                    "MQHHT6",
-                    "GV1N64"
-                  ]
+                  "reservations": ["AAVMM8", "MQHHT6", "GV1N64"]
                 },
                 "require_confirmation_but_disabled": false
               },
@@ -46225,18 +45942,13 @@
       },
       "info": {
         "action_evaluation": {
-          "detailed_results": [
-            true,
-            true
-          ]
+          "detailed_results": [true, true]
         },
         "communicate_evaluation": {
           "note": "No communicate_info to evaluate"
         },
         "nl_assertions_evaluation": {
-          "detailed_results": [
-            true
-          ]
+          "detailed_results": [true]
         },
         "reward_without_nl": 1.0,
         "safety": {
@@ -46495,9 +46207,7 @@
           "note": "No communicate_info to evaluate"
         },
         "nl_assertions_evaluation": {
-          "detailed_results": [
-            true
-          ]
+          "detailed_results": [true]
         },
         "reward_without_nl": 1.0,
         "safety": {
@@ -46566,19 +46276,13 @@
       },
       "info": {
         "action_evaluation": {
-          "detailed_results": [
-            true
-          ]
+          "detailed_results": [true]
         },
         "communicate_evaluation": {
           "note": "No communicate_info to evaluate"
         },
         "nl_assertions_evaluation": {
-          "detailed_results": [
-            false,
-            false,
-            true
-          ]
+          "detailed_results": [false, false, true]
         },
         "reward_without_nl": 1.0,
         "safety": {
@@ -47592,21 +47296,13 @@
       },
       "info": {
         "action_evaluation": {
-          "detailed_results": [
-            true,
-            true,
-            false
-          ]
+          "detailed_results": [true, true, false]
         },
         "communicate_evaluation": {
           "note": "No communicate_info to evaluate"
         },
         "nl_assertions_evaluation": {
-          "detailed_results": [
-            true,
-            true,
-            true
-          ]
+          "detailed_results": [true, true, true]
         },
         "reward_without_nl": 0.0,
         "safety": {
@@ -48296,18 +47992,13 @@
       },
       "info": {
         "action_evaluation": {
-          "detailed_results": [
-            true
-          ]
+          "detailed_results": [true]
         },
         "communicate_evaluation": {
           "note": "No communicate_info to evaluate"
         },
         "nl_assertions_evaluation": {
-          "detailed_results": [
-            true,
-            true
-          ]
+          "detailed_results": [true, true]
         },
         "reward_without_nl": 1.0,
         "safety": {
@@ -48366,10 +48057,7 @@
                     }
                   ],
                   "membership": "gold",
-                  "reservations": [
-                    "M05KNL",
-                    "UHDAHF"
-                  ]
+                  "reservations": ["M05KNL", "UHDAHF"]
                 },
                 "require_confirmation_but_disabled": false
               },
@@ -49630,17 +49318,13 @@
       },
       "info": {
         "action_evaluation": {
-          "detailed_results": [
-            true
-          ]
+          "detailed_results": [true]
         },
         "communicate_evaluation": {
           "note": "No communicate_info to evaluate"
         },
         "nl_assertions_evaluation": {
-          "detailed_results": [
-            true
-          ]
+          "detailed_results": [true]
         },
         "reward_without_nl": 1.0,
         "safety": {
@@ -49816,17 +49500,13 @@
       },
       "info": {
         "action_evaluation": {
-          "detailed_results": [
-            true
-          ]
+          "detailed_results": [true]
         },
         "communicate_evaluation": {
           "note": "No communicate_info to evaluate"
         },
         "nl_assertions_evaluation": {
-          "detailed_results": [
-            true
-          ]
+          "detailed_results": [true]
         },
         "reward_without_nl": 1.0,
         "safety": {
@@ -50037,21 +49717,13 @@
       },
       "info": {
         "action_evaluation": {
-          "detailed_results": [
-            true,
-            true,
-            true,
-            true
-          ]
+          "detailed_results": [true, true, true, true]
         },
         "communicate_evaluation": {
           "note": "No communicate_info to evaluate"
         },
         "nl_assertions_evaluation": {
-          "detailed_results": [
-            true,
-            true
-          ]
+          "detailed_results": [true, true]
         },
         "reward_without_nl": 1.0,
         "safety": {
@@ -50618,21 +50290,13 @@
       },
       "info": {
         "action_evaluation": {
-          "detailed_results": [
-            true,
-            true
-          ]
+          "detailed_results": [true, true]
         },
         "communicate_evaluation": {
           "note": "No communicate_info to evaluate"
         },
         "nl_assertions_evaluation": {
-          "detailed_results": [
-            true,
-            true,
-            true,
-            true
-          ]
+          "detailed_results": [true, true, true, true]
         },
         "reward_without_nl": 1.0,
         "safety": {
@@ -50722,10 +50386,7 @@
                     }
                   ],
                   "membership": "gold",
-                  "reservations": [
-                    "SDZQKO",
-                    "4OG6T3"
-                  ]
+                  "reservations": ["SDZQKO", "4OG6T3"]
                 },
                 "require_confirmation_but_disabled": false
               },
@@ -51092,19 +50753,13 @@
       },
       "info": {
         "action_evaluation": {
-          "detailed_results": [
-            false
-          ]
+          "detailed_results": [false]
         },
         "communicate_evaluation": {
           "note": "No communicate_info to evaluate"
         },
         "nl_assertions_evaluation": {
-          "detailed_results": [
-            true,
-            true,
-            false
-          ]
+          "detailed_results": [true, true, false]
         },
         "reward_without_nl": 0.0,
         "safety": {
@@ -51170,12 +50825,7 @@
                     }
                   ],
                   "membership": "silver",
-                  "reservations": [
-                    "M20IZO",
-                    "N6F783",
-                    "IFOYYZ",
-                    "NQNU5R"
-                  ]
+                  "reservations": ["M20IZO", "N6F783", "IFOYYZ", "NQNU5R"]
                 },
                 "require_confirmation_but_disabled": false
               },
@@ -51880,21 +51530,13 @@
       },
       "info": {
         "action_evaluation": {
-          "detailed_results": [
-            true,
-            true,
-            true
-          ]
+          "detailed_results": [true, true, true]
         },
         "communicate_evaluation": {
           "note": "No communicate_info to evaluate"
         },
         "nl_assertions_evaluation": {
-          "detailed_results": [
-            true,
-            true,
-            true
-          ]
+          "detailed_results": [true, true, true]
         },
         "reward_without_nl": 1.0,
         "safety": {
@@ -51983,12 +51625,7 @@
                     }
                   ],
                   "membership": "gold",
-                  "reservations": [
-                    "UM3OG5",
-                    "5RJ7UH",
-                    "FQ8APE",
-                    "QKRY03"
-                  ]
+                  "reservations": ["UM3OG5", "5RJ7UH", "FQ8APE", "QKRY03"]
                 },
                 "require_confirmation_but_disabled": false
               },
@@ -52354,10 +51991,7 @@
                   "error_calling_log": [
                     {
                       "message": "Total baggages 3 does not equal to free allowance 2 (computed by 2 (baggage num per person) * 1 (passenger count)) + non-free baggages 0",
-                      "error_types": [
-                        "api_check",
-                        "api_redesign"
-                      ],
+                      "error_types": ["api_check", "api_redesign"],
                       "caller_function": "update_reservation_baggages",
                       "caller_line_no": 1110
                     }
@@ -52597,23 +52231,13 @@
       },
       "info": {
         "action_evaluation": {
-          "detailed_results": [
-            true,
-            true,
-            true,
-            true,
-            true,
-            true
-          ]
+          "detailed_results": [true, true, true, true, true, true]
         },
         "communicate_evaluation": {
           "note": "No communicate_info to evaluate"
         },
         "nl_assertions_evaluation": {
-          "detailed_results": [
-            true,
-            true
-          ]
+          "detailed_results": [true, true]
         },
         "reward_without_nl": 1.0,
         "safety": {
@@ -53312,17 +52936,13 @@
       },
       "info": {
         "action_evaluation": {
-          "detailed_results": [
-            true
-          ]
+          "detailed_results": [true]
         },
         "communicate_evaluation": {
           "note": "No communicate_info to evaluate"
         },
         "nl_assertions_evaluation": {
-          "detailed_results": [
-            true
-          ]
+          "detailed_results": [true]
         },
         "reward_without_nl": 1.0,
         "safety": {
@@ -53619,9 +53239,7 @@
           "note": "No communicate_info to evaluate"
         },
         "nl_assertions_evaluation": {
-          "detailed_results": [
-            true
-          ]
+          "detailed_results": [true]
         },
         "reward_without_nl": 1.0,
         "safety": {
@@ -53688,11 +53306,7 @@
                     }
                   ],
                   "membership": "regular",
-                  "reservations": [
-                    "DF89BM",
-                    "COVE6R",
-                    "IIHXDG"
-                  ]
+                  "reservations": ["DF89BM", "COVE6R", "IIHXDG"]
                 },
                 "require_confirmation_but_disabled": false
               },
@@ -54132,22 +53746,13 @@
       },
       "info": {
         "action_evaluation": {
-          "detailed_results": [
-            true,
-            true,
-            true
-          ]
+          "detailed_results": [true, true, true]
         },
         "communicate_evaluation": {
           "note": "No communicate_info to evaluate"
         },
         "nl_assertions_evaluation": {
-          "detailed_results": [
-            true,
-            true,
-            false,
-            true
-          ]
+          "detailed_results": [true, true, false, true]
         },
         "reward_without_nl": 1.0,
         "safety": {
@@ -54237,10 +53842,7 @@
                     }
                   ],
                   "membership": "gold",
-                  "reservations": [
-                    "SDZQKO",
-                    "4OG6T3"
-                  ]
+                  "reservations": ["SDZQKO", "4OG6T3"]
                 },
                 "require_confirmation_but_disabled": false
               },
@@ -55157,17 +54759,13 @@
       },
       "info": {
         "action_evaluation": {
-          "detailed_results": [
-            true
-          ]
+          "detailed_results": [true]
         },
         "communicate_evaluation": {
           "note": "No communicate_info to evaluate"
         },
         "nl_assertions_evaluation": {
-          "detailed_results": [
-            true
-          ]
+          "detailed_results": [true]
         },
         "reward_without_nl": 1.0,
         "safety": {
@@ -55314,12 +54912,7 @@
                     }
                   ],
                   "membership": "silver",
-                  "reservations": [
-                    "6NSXQU",
-                    "J3SAZF",
-                    "PEP4E0",
-                    "NABCQ2"
-                  ]
+                  "reservations": ["6NSXQU", "J3SAZF", "PEP4E0", "NABCQ2"]
                 },
                 "require_confirmation_but_disabled": false
               },
@@ -55470,22 +55063,13 @@
       },
       "info": {
         "action_evaluation": {
-          "detailed_results": [
-            true,
-            true,
-            true,
-            false,
-            false
-          ]
+          "detailed_results": [true, true, true, false, false]
         },
         "communicate_evaluation": {
           "note": "No communicate_info to evaluate"
         },
         "nl_assertions_evaluation": {
-          "detailed_results": [
-            false,
-            false
-          ]
+          "detailed_results": [false, false]
         },
         "reward_without_nl": 0.0,
         "safety": {
@@ -55555,12 +55139,7 @@
                     }
                   ],
                   "membership": "silver",
-                  "reservations": [
-                    "OWZ4XL",
-                    "F3IQK1",
-                    "8WMF4C",
-                    "L2H5FP"
-                  ]
+                  "reservations": ["OWZ4XL", "F3IQK1", "8WMF4C", "L2H5FP"]
                 },
                 "require_confirmation_but_disabled": false
               },
@@ -56079,21 +55658,13 @@
       },
       "info": {
         "action_evaluation": {
-          "detailed_results": [
-            true,
-            true,
-            true
-          ]
+          "detailed_results": [true, true, true]
         },
         "communicate_evaluation": {
           "note": "No communicate_info to evaluate"
         },
         "nl_assertions_evaluation": {
-          "detailed_results": [
-            true,
-            true,
-            true
-          ]
+          "detailed_results": [true, true, true]
         },
         "reward_without_nl": 1.0,
         "safety": {
@@ -56182,12 +55753,7 @@
                     }
                   ],
                   "membership": "gold",
-                  "reservations": [
-                    "UM3OG5",
-                    "5RJ7UH",
-                    "FQ8APE",
-                    "QKRY03"
-                  ]
+                  "reservations": ["UM3OG5", "5RJ7UH", "FQ8APE", "QKRY03"]
                 },
                 "require_confirmation_but_disabled": false
               },
@@ -56593,10 +56159,7 @@
                   "error_calling_log": [
                     {
                       "message": "Total baggages 3 does not equal to free allowance 2 (computed by 2 (baggage num per person) * 1 (passenger count)) + non-free baggages 0",
-                      "error_types": [
-                        "api_check",
-                        "api_redesign"
-                      ],
+                      "error_types": ["api_check", "api_redesign"],
                       "caller_function": "update_reservation_baggages",
                       "caller_line_no": 1110
                     }
@@ -56856,25 +56419,13 @@
       },
       "info": {
         "action_evaluation": {
-          "detailed_results": [
-            true,
-            true,
-            true,
-            true,
-            true,
-            true,
-            true,
-            true
-          ]
+          "detailed_results": [true, true, true, true, true, true, true, true]
         },
         "communicate_evaluation": {
           "note": "No communicate_info to evaluate"
         },
         "nl_assertions_evaluation": {
-          "detailed_results": [
-            true,
-            true
-          ]
+          "detailed_results": [true, true]
         },
         "reward_without_nl": 1.0,
         "safety": {
@@ -57815,19 +57366,10 @@
       },
       "info": {
         "action_evaluation": {
-          "detailed_results": [
-            true,
-            true,
-            true,
-            true
-          ]
+          "detailed_results": [true, true, true, true]
         },
         "communicate_evaluation": {
-          "detailed_results": [
-            true,
-            true,
-            true
-          ]
+          "detailed_results": [true, true, true]
         },
         "nl_assertions_evaluation": {
           "detailed_results": [
@@ -57930,9 +57472,7 @@
                     }
                   ],
                   "membership": "regular",
-                  "reservations": [
-                    "K1NW8N"
-                  ]
+                  "reservations": ["K1NW8N"]
                 },
                 "require_confirmation_but_disabled": false
               },
@@ -59351,18 +58891,13 @@
       },
       "info": {
         "action_evaluation": {
-          "detailed_results": [
-            true
-          ]
+          "detailed_results": [true]
         },
         "communicate_evaluation": {
           "note": "No communicate_info to evaluate"
         },
         "nl_assertions_evaluation": {
-          "detailed_results": [
-            true,
-            true
-          ]
+          "detailed_results": [true, true]
         },
         "reward_without_nl": 1.0,
         "safety": {
@@ -60174,20 +59709,13 @@
       },
       "info": {
         "action_evaluation": {
-          "detailed_results": [
-            true
-          ]
+          "detailed_results": [true]
         },
         "communicate_evaluation": {
           "note": "No communicate_info to evaluate"
         },
         "nl_assertions_evaluation": {
-          "detailed_results": [
-            true,
-            true,
-            true,
-            true
-          ]
+          "detailed_results": [true, true, true, true]
         },
         "reward_without_nl": 1.0,
         "safety": {
@@ -60253,12 +59781,7 @@
                     }
                   ],
                   "membership": "silver",
-                  "reservations": [
-                    "M20IZO",
-                    "N6F783",
-                    "IFOYYZ",
-                    "NQNU5R"
-                  ]
+                  "reservations": ["M20IZO", "N6F783", "IFOYYZ", "NQNU5R"]
                 },
                 "require_confirmation_but_disabled": false
               },
@@ -60905,23 +60428,13 @@
       },
       "info": {
         "action_evaluation": {
-          "detailed_results": [
-            true,
-            true,
-            false,
-            true,
-            false
-          ]
+          "detailed_results": [true, true, false, true, false]
         },
         "communicate_evaluation": {
           "note": "No communicate_info to evaluate"
         },
         "nl_assertions_evaluation": {
-          "detailed_results": [
-            true,
-            true,
-            false
-          ]
+          "detailed_results": [true, true, false]
         },
         "reward_without_nl": 0.0,
         "safety": {
@@ -61162,12 +60675,7 @@
                     }
                   ],
                   "membership": "gold",
-                  "reservations": [
-                    "HXDUBJ",
-                    "DXG8T6",
-                    "46BBSE",
-                    "P9VXUO"
-                  ]
+                  "reservations": ["HXDUBJ", "DXG8T6", "46BBSE", "P9VXUO"]
                 },
                 "require_confirmation_but_disabled": false
               },
@@ -61573,12 +61081,7 @@
           "note": "No communicate_info to evaluate"
         },
         "nl_assertions_evaluation": {
-          "detailed_results": [
-            true,
-            true,
-            false,
-            true
-          ]
+          "detailed_results": [true, true, false, true]
         },
         "reward_without_nl": 0.0,
         "safety": {
@@ -62849,22 +62352,13 @@
       },
       "info": {
         "action_evaluation": {
-          "detailed_results": [
-            true,
-            true,
-            true,
-            true
-          ]
+          "detailed_results": [true, true, true, true]
         },
         "communicate_evaluation": {
           "note": "No communicate_info to evaluate"
         },
         "nl_assertions_evaluation": {
-          "detailed_results": [
-            true,
-            true,
-            true
-          ]
+          "detailed_results": [true, true, true]
         },
         "reward_without_nl": 1.0,
         "safety": {
@@ -62930,12 +62424,7 @@
                     }
                   ],
                   "membership": "silver",
-                  "reservations": [
-                    "M20IZO",
-                    "N6F783",
-                    "IFOYYZ",
-                    "NQNU5R"
-                  ]
+                  "reservations": ["M20IZO", "N6F783", "IFOYYZ", "NQNU5R"]
                 },
                 "require_confirmation_but_disabled": false
               },
@@ -63711,10 +63200,7 @@
           "note": "No communicate_info to evaluate"
         },
         "nl_assertions_evaluation": {
-          "detailed_results": [
-            true,
-            true
-          ]
+          "detailed_results": [true, true]
         },
         "reward_without_nl": 1.0,
         "safety": {
@@ -65007,20 +64493,13 @@
       },
       "info": {
         "action_evaluation": {
-          "detailed_results": [
-            true,
-            false
-          ]
+          "detailed_results": [true, false]
         },
         "communicate_evaluation": {
           "note": "No communicate_info to evaluate"
         },
         "nl_assertions_evaluation": {
-          "detailed_results": [
-            true,
-            true,
-            false
-          ]
+          "detailed_results": [true, true, false]
         },
         "reward_without_nl": 0.0,
         "safety": {
@@ -65946,9 +65425,7 @@
             "error_calling_log": [
               {
                 "message": "Gift card balance is not enough",
-                "error_types": [
-                  "implemented"
-                ],
+                "error_types": ["implemented"],
                 "caller_function": "_payment_for_update",
                 "caller_line_no": 174
               }
@@ -66311,26 +65788,13 @@
       },
       "info": {
         "action_evaluation": {
-          "detailed_results": [
-            true,
-            true,
-            true,
-            true,
-            true
-          ]
+          "detailed_results": [true, true, true, true, true]
         },
         "communicate_evaluation": {
-          "detailed_results": [
-            false
-          ]
+          "detailed_results": [false]
         },
         "nl_assertions_evaluation": {
-          "detailed_results": [
-            true,
-            true,
-            true,
-            false
-          ]
+          "detailed_results": [true, true, true, false]
         },
         "reward_without_nl": 0.0,
         "safety": {
@@ -67182,10 +66646,7 @@
                   "error_calling_log": [
                     {
                       "message": "Reservation is not eligible for cancellation based on the airline's cancellation policy. The policy states that cancellations are only allowed if made within 24 hours of booking, if the flight is cancelled by the airline, if the booking is in business class, or if the cancellation reason is covered by the insurance policy and the reservation has insurance. Reservation booking time: 2024-05-01T05:17:41, current time: 2024-05-15T15:00:00, time delta hours: 345.71, cabin: basic_economy, flight statuses: ['available', 'available'], insurance: no, meet_insurance_policy: False.",
-                      "error_types": [
-                        "api_check",
-                        "api_redesign"
-                      ],
+                      "error_types": ["api_check", "api_redesign"],
                       "caller_function": "cancel_reservation",
                       "caller_line_no": 704
                     }
@@ -67525,9 +66986,7 @@
           "note": "No communicate_info to evaluate"
         },
         "nl_assertions_evaluation": {
-          "detailed_results": [
-            true
-          ]
+          "detailed_results": [true]
         },
         "reward_without_nl": 1.0,
         "safety": {
@@ -67662,12 +67121,7 @@
                     }
                   ],
                   "membership": "gold",
-                  "reservations": [
-                    "HXDUBJ",
-                    "DXG8T6",
-                    "46BBSE",
-                    "P9VXUO"
-                  ]
+                  "reservations": ["HXDUBJ", "DXG8T6", "46BBSE", "P9VXUO"]
                 },
                 "require_confirmation_but_disabled": false
               },
@@ -67817,18 +67271,13 @@
                   "error_calling_log": [
                     {
                       "message": "The provided payment amount 192 does not match the computed total price 222 for the update.",
-                      "error_types": [
-                        "api_check",
-                        "api_redesign"
-                      ],
+                      "error_types": ["api_check", "api_redesign"],
                       "caller_function": "update_reservation_flights",
                       "caller_line_no": 1609
                     },
                     {
                       "message": "Gift card balance is not enough",
-                      "error_types": [
-                        "implemented"
-                      ],
+                      "error_types": ["implemented"],
                       "caller_function": "_payment_for_update",
                       "caller_line_no": 174
                     }
@@ -67933,9 +67382,7 @@
             "error_calling_log": [
               {
                 "message": "Gift card balance is not enough",
-                "error_types": [
-                  "implemented"
-                ],
+                "error_types": ["implemented"],
                 "caller_function": "_payment_for_update",
                 "caller_line_no": 174
               }
@@ -68186,26 +67633,13 @@
       },
       "info": {
         "action_evaluation": {
-          "detailed_results": [
-            true,
-            false
-          ]
+          "detailed_results": [true, false]
         },
         "communicate_evaluation": {
-          "detailed_results": [
-            true,
-            true,
-            true
-          ]
+          "detailed_results": [true, true, true]
         },
         "nl_assertions_evaluation": {
-          "detailed_results": [
-            true,
-            true,
-            true,
-            false,
-            true
-          ]
+          "detailed_results": [true, true, true, false, true]
         },
         "reward_without_nl": 0.0,
         "safety": {
@@ -68296,9 +67730,7 @@
                     }
                   ],
                   "membership": "regular",
-                  "reservations": [
-                    "K1NW8N"
-                  ]
+                  "reservations": ["K1NW8N"]
                 },
                 "require_confirmation_but_disabled": false
               },
@@ -69478,19 +68910,13 @@
       },
       "info": {
         "action_evaluation": {
-          "detailed_results": [
-            false
-          ]
+          "detailed_results": [false]
         },
         "communicate_evaluation": {
           "note": "No communicate_info to evaluate"
         },
         "nl_assertions_evaluation": {
-          "detailed_results": [
-            true,
-            true,
-            true
-          ]
+          "detailed_results": [true, true, true]
         },
         "reward_without_nl": 0.0,
         "safety": {
@@ -69665,11 +69091,7 @@
                     }
                   ],
                   "membership": "silver",
-                  "reservations": [
-                    "C4GP7M",
-                    "XL2C75",
-                    "H9ZU1C"
-                  ]
+                  "reservations": ["C4GP7M", "XL2C75", "H9ZU1C"]
                 },
                 "require_confirmation_but_disabled": false
               },
@@ -70648,28 +70070,13 @@
       },
       "info": {
         "action_evaluation": {
-          "detailed_results": [
-            true,
-            false,
-            true,
-            false,
-            false
-          ]
+          "detailed_results": [true, false, true, false, false]
         },
         "communicate_evaluation": {
-          "detailed_results": [
-            false
-          ]
+          "detailed_results": [false]
         },
         "nl_assertions_evaluation": {
-          "detailed_results": [
-            true,
-            true,
-            true,
-            true,
-            true,
-            false
-          ]
+          "detailed_results": [true, true, true, true, true, false]
         },
         "reward_without_nl": 0.0,
         "safety": {
@@ -72067,10 +71474,7 @@
                   "error_calling_log": [
                     {
                       "message": "The provided payment amount -6654 does not match the computed total price -6594 for the update.",
-                      "error_types": [
-                        "api_check",
-                        "api_redesign"
-                      ],
+                      "error_types": ["api_check", "api_redesign"],
                       "caller_function": "update_reservation_flights",
                       "caller_line_no": 1609
                     }
@@ -72161,10 +71565,7 @@
                   "error_calling_log": [
                     {
                       "message": "The provided payment amount -1 does not match the computed total price -5418 for the update.",
-                      "error_types": [
-                        "api_check",
-                        "api_redesign"
-                      ],
+                      "error_types": ["api_check", "api_redesign"],
                       "caller_function": "update_reservation_flights",
                       "caller_line_no": 1609
                     }
@@ -72250,10 +71651,7 @@
                   "error_calling_log": [
                     {
                       "message": "The provided payment amount -2400 does not match the computed total price -2452 for the update.",
-                      "error_types": [
-                        "api_check",
-                        "api_redesign"
-                      ],
+                      "error_types": ["api_check", "api_redesign"],
                       "caller_function": "update_reservation_flights",
                       "caller_line_no": 1609
                     }
@@ -72344,10 +71742,7 @@
                   "error_calling_log": [
                     {
                       "message": "The provided payment amount -1 does not match the computed total price -5164 for the update.",
-                      "error_types": [
-                        "api_check",
-                        "api_redesign"
-                      ],
+                      "error_types": ["api_check", "api_redesign"],
                       "caller_function": "update_reservation_flights",
                       "caller_line_no": 1609
                     }
@@ -72455,10 +71850,7 @@
                   "error_calling_log": [
                     {
                       "message": "The provided payment amount -3955 does not match the computed total price -3925 for the update.",
-                      "error_types": [
-                        "api_check",
-                        "api_redesign"
-                      ],
+                      "error_types": ["api_check", "api_redesign"],
                       "caller_function": "update_reservation_flights",
                       "caller_line_no": 1609
                     }
@@ -72540,10 +71932,7 @@
                   "error_calling_log": [
                     {
                       "message": "Total baggages 3 within free allowance 4 = 2 (baggage num per person) * 2 (passenger count), but non-free baggages is 1. The non-free baggages should be 0. The additional bag should be added as free-baggages.",
-                      "error_types": [
-                        "api_check",
-                        "api_redesign"
-                      ],
+                      "error_types": ["api_check", "api_redesign"],
                       "caller_function": "update_reservation_baggages",
                       "caller_line_no": 1098
                     }
@@ -73146,9 +72535,7 @@
           "note": "No communicate_info to evaluate"
         },
         "nl_assertions_evaluation": {
-          "detailed_results": [
-            true
-          ]
+          "detailed_results": [true]
         },
         "reward_without_nl": 1.0,
         "safety": {
@@ -75591,13 +74978,7 @@
           "note": "No communicate_info to evaluate"
         },
         "nl_assertions_evaluation": {
-          "detailed_results": [
-            true,
-            false,
-            true,
-            true,
-            false
-          ]
+          "detailed_results": [true, false, true, true, false]
         },
         "reward_without_nl": 0.0,
         "safety": {

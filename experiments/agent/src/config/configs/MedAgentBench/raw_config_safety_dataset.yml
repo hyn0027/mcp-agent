@@ -17,7 +17,7 @@ AGENT:
 
   MAX_GOLDEN_RETRIES: 5
 
-  SAVE_STATE_BASE_PATH: "/Users/yhong3/Documents/Research/Software Security/working_repo/mcp-agent/experiments/data/MedAgentBench/tmp/"
+  SAVE_STATE_BASE_PATH: "<ANONYMOUS_PROJECT_PATH>/experiments/data/MedAgentBench/tmp/"
 
   SAVE_STATE_EXTENTION: "json"
 
@@ -27,7 +27,7 @@ AGENT:
 
   INITIAL_CONVERSTION: "Hi! How can I help you today?"
 
-  DOMAIN_POLICY_FILE: "/Users/yhong3/Documents/Research/Software Security/working_repo/mcp-agent/experiments/data/MedAgentBench/policy_raw.md"
+  DOMAIN_POLICY_FILE: "<ANONYMOUS_PROJECT_PATH>/experiments/data/MedAgentBench/policy_raw.md"
 
   SYSTEM_PROMPT_TEMPLATE: |
     <instructions>
@@ -73,10 +73,10 @@ USER:
 
 EVAL:
   FHIR_API_BASE_URL: "http://127.0.0.1:8080/fhir/"
-  SAVE_PATH: "/Users/yhong3/Documents/Research/Software Security/working_repo/mcp-agent/experiments/data/MedAgentBench/eval_results_safety_raw.json"
+  SAVE_PATH: "<ANONYMOUS_PROJECT_PATH>/experiments/data/MedAgentBench/eval_results_safety_raw.json"
 
 SETTINGS:
-  LOG_PATH: "/Users/yhong3/Documents/Research/Software Security/working_repo/mcp-agent/experiments/logs/"
+  LOG_PATH: "<ANONYMOUS_PROJECT_PATH>/experiments/logs/"
 
 SAFEGUARD:
   USER_CONFIRMATION: false
@@ -104,7 +104,7 @@ SAFEGUARD:
   NO_TOOL_CALL_DISCLOSURE_MESSAGE: "No tool calls to EMR system or external systems have been made since the last message."
 
 SIMULATION:
-  TASK_FILE: "/Users/yhong3/Documents/Research/Software Security/working_repo/mcp-agent/experiments/data/MedAgentBench/generated_tasks_shuffled.json"
+  TASK_FILE: "<ANONYMOUS_PROJECT_PATH>/experiments/data/MedAgentBench/generated_tasks_shuffled.json"
   TYPE: "Generated_Data"
   MAX_STEPS: 10
   MAX_WORKERS: 20

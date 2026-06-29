@@ -15,7 +15,7 @@ DATASET:
     BLOCK_WRITE_API: true
 
 SETTINGS:
-  LOG_PATH: "/Users/yhong3/Documents/Research/Software Security/working_repo/mcp-agent/experiments/logs/mcp-server/"
+  LOG_PATH: "<ANONYMOUS_PROJECT_PATH>/experiments/logs/mcp-server/"
 
 SAFEGUARD:
   API_CHECK: true

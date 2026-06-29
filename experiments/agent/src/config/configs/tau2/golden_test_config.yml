@@ -10,7 +10,7 @@ AGENT:
 
   MCP_SERVER_COMMAND_TEST_ARGS: "--config configs/tau2/test_config.yml"
 
-  SAVE_STATE_BASE_PATH: "/Users/yhong3/Documents/Research/Software Security/working_repo/mcp-agent/experiments/data/tau2/domains/airline/tmp/"
+  SAVE_STATE_BASE_PATH: "<ANONYMOUS_PROJECT_PATH>/experiments/data/tau2/domains/airline/tmp/"
 
   SAVE_STATE_EXTENTION: "json"
 
@@ -28,7 +28,7 @@ AGENT:
 
   INITIAL_CONVERSTION: "Hi! How can I help you today?"
 
-  DOMAIN_POLICY_FILE: "/Users/yhong3/Documents/Research/Software Security/working_repo/mcp-agent/experiments/data/tau2/domains/airline/policy.md"
+  DOMAIN_POLICY_FILE: "<ANONYMOUS_PROJECT_PATH>/experiments/data/tau2/domains/airline/policy.md"
 
   SYSTEM_PROMPT_TEMPLATE: |
     <instructions>
@@ -58,20 +58,20 @@ USER:
     {instructions}
     </scenario>
 
-  SIMULATION_GUIDELINE_PATH: "/Users/yhong3/Documents/Research/Software Security/working_repo/mcp-agent/experiments/data/tau2/user_simulator/simulation_guidelines.md"
+  SIMULATION_GUIDELINE_PATH: "<ANONYMOUS_PROJECT_PATH>/experiments/data/tau2/user_simulator/simulation_guidelines.md"
 
 EVAL:
   MODEL: "gpt-5"
   TEMPERATURE: 1.0
-  SAVE_PATH: "/Users/yhong3/Documents/Research/Software Security/working_repo/mcp-agent/experiments/data/tau2/domains/airline/eval_results_golden.json"
+  SAVE_PATH: "<ANONYMOUS_PROJECT_PATH>/experiments/data/tau2/domains/airline/eval_results_golden.json"
 
 SIMULATION:
-  TASK_FILE: "/Users/yhong3/Documents/Research/Software Security/working_repo/mcp-agent/experiments/data/tau2/domains/airline/tasks.json"
+  TASK_FILE: "<ANONYMOUS_PROJECT_PATH>/experiments/data/tau2/domains/airline/tasks.json"
   MAX_STEPS: 100
   MAX_WORKERS: 30
 
 SETTINGS:
-  LOG_PATH: "/Users/yhong3/Documents/Research/Software Security/working_repo/mcp-agent/experiments/logs/"
+  LOG_PATH: "<ANONYMOUS_PROJECT_PATH>/experiments/logs/"
 
 SAFEGUARD:
   USER_CONFIRMATION: false

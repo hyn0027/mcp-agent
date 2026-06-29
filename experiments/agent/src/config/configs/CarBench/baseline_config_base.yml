@@ -17,7 +17,7 @@ AGENT:
 
   GOLDEN_SKIP_MODEL: true
 
-  SAVE_STATE_BASE_PATH: "/Users/yhong3/Documents/Research/Software Security/working_repo/mcp-agent/experiments/data/Car-Bench/tmp/"
+  SAVE_STATE_BASE_PATH: "<ANONYMOUS_PROJECT_PATH>/experiments/data/Car-Bench/tmp/"
 
   SAVE_STATE_EXTENTION: "json"
 
@@ -29,7 +29,7 @@ AGENT:
 
   INITIAL_CONVERSTION: "Hi! How can I help you today?"
 
-  DOMAIN_POLICY_FILE: "/Users/yhong3/Documents/Research/Software Security/working_repo/mcp-agent/experiments/data/Car-Bench/wiki.md"
+  DOMAIN_POLICY_FILE: "<ANONYMOUS_PROJECT_PATH>/experiments/data/Car-Bench/wiki.md"
 
   SYSTEM_PROMPT_TEMPLATE: "{agent_instruction}{domain_policy}"
 
@@ -42,7 +42,7 @@ USER:
   TEMPERATURE: 1.0
 
 EVAL:
-  SAVE_PATH: "/Users/yhong3/Documents/Research/Software Security/working_repo/mcp-agent/experiments/data/Car-Bench/baseline_results_base.json"
+  SAVE_PATH: "<ANONYMOUS_PROJECT_PATH>/experiments/data/Car-Bench/baseline_results_base.json"
 
   MCP_SERVER_COMMAND: "start-mcp-server"
   MCP_SERVER_COMMAND_EVAL_ARGS: "--config configs/CarBench/baseline_config_base.yml"
@@ -55,7 +55,7 @@ EVAL:
   POLICY_EVALUATOR_PROVIDER: "openai"
 
 SETTINGS:
-  LOG_PATH: "/Users/yhong3/Documents/Research/Software Security/working_repo/mcp-agent/experiments/logs/"
+  LOG_PATH: "<ANONYMOUS_PROJECT_PATH>/experiments/logs/"
 
 SAFEGUARD:
   USER_CONFIRMATION: false
@@ -83,6 +83,6 @@ SAFEGUARD:
   NO_TOOL_CALL_DISCLOSURE_MESSAGE: ""
 
 SIMULATION:
-  TASK_FILE: "/Users/yhong3/Documents/Research/Software Security/working_repo/mcp-agent/experiments/data/Car-Bench/dataset/tasks/base.jsonl"
+  TASK_FILE: "<ANONYMOUS_PROJECT_PATH>/experiments/data/Car-Bench/dataset/tasks/base.jsonl"
   MAX_STEPS: 40
   MAX_WORKERS: 10

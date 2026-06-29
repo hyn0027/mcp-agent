@@ -46,12 +46,12 @@
       "MCP_SERVER_COMMAND_GOLDEN_ARGS": "--config configs/MedAgentBench/ori_golden_config.yml",
       "TEST_WITH_GOLDEN": true,
       "MAX_GOLDEN_RETRIES": 5,
-      "SAVE_STATE_BASE_PATH": "/Users/yhong3/Documents/Research/Software Security/working_repo/mcp-agent/experiments/data/MedAgentBench/tmp/",
+      "SAVE_STATE_BASE_PATH": "<ANONYMOUS_PROJECT_PATH>/experiments/data/MedAgentBench/tmp/",
       "SAVE_STATE_EXTENTION": "json",
       "MAX_TOOL_CALL_FAILS": 10,
       "AGENT_INITIAL_MESSAGE": true,
       "INITIAL_CONVERSTION": "Hi! How can I help you today?",
-      "DOMAIN_POLICY_FILE": "/Users/yhong3/Documents/Research/Software Security/working_repo/mcp-agent/experiments/data/MedAgentBench/policy.md",
+      "DOMAIN_POLICY_FILE": "<ANONYMOUS_PROJECT_PATH>/experiments/data/MedAgentBench/policy.md",
       "SYSTEM_PROMPT_TEMPLATE": "<instructions>\n{agent_instruction}\n</instructions>\n<policy>\n{domain_policy}\n</policy>\n",
       "AGENT_INSTRUCTION": "You are an expert in using FHIR functions to assist medical professionals. \nYou are given a set of possible functions and will interact with a medical professional.\nYou will need to make one or more function/tool calls to help the medical professional to achieve their purpose.\n\nYou must strictly follow the <policy> provided below.\n"
     },
@@ -62,10 +62,10 @@
     },
     "EVAL": {
       "FHIR_API_BASE_URL": "http://127.0.0.1:8080/fhir/",
-      "SAVE_PATH": "/Users/yhong3/Documents/Research/Software Security/working_repo/mcp-agent/experiments/data/MedAgentBench/eval_results_ori_golden.json"
+      "SAVE_PATH": "<ANONYMOUS_PROJECT_PATH>/experiments/data/MedAgentBench/eval_results_ori_golden.json"
     },
     "SETTINGS": {
-      "LOG_PATH": "/Users/yhong3/Documents/Research/Software Security/working_repo/mcp-agent/experiments/logs/"
+      "LOG_PATH": "<ANONYMOUS_PROJECT_PATH>/experiments/logs/"
     },
     "SAFEGUARD": {
       "USER_CONFIRMATION": false,
@@ -78,7 +78,7 @@
       "NO_TOOL_CALL_DISCLOSURE_MESSAGE": "No tool calls to EMR system or external systems have been made since the last message."
     },
     "SIMULATION": {
-      "TASK_FILE": "/Users/yhong3/Documents/Research/Software Security/working_repo/mcp-agent/experiments/data/MedAgentBench/test_data_v2_augmented.json",
+      "TASK_FILE": "<ANONYMOUS_PROJECT_PATH>/experiments/data/MedAgentBench/test_data_v2_augmented.json",
       "TYPE": "Original_Benchmark",
       "MAX_STEPS": 40,
       "MAX_WORKERS": 20
@@ -288,9 +288,7 @@
                   "name": [
                     {
                       "family": "Dunn",
-                      "given": [
-                        "Debra"
-                      ],
+                      "given": ["Debra"],
                       "use": "official"
                     }
                   ],
@@ -434,9 +432,7 @@
                   "name": [
                     {
                       "family": "Gould",
-                      "given": [
-                        "Justin"
-                      ],
+                      "given": ["Justin"],
                       "use": "official"
                     }
                   ],
@@ -580,9 +576,7 @@
                   "name": [
                     {
                       "family": "Hall",
-                      "given": [
-                        "Glenda"
-                      ],
+                      "given": ["Glenda"],
                       "use": "official"
                     }
                   ],
@@ -726,9 +720,7 @@
                   "name": [
                     {
                       "family": "Bishop",
-                      "given": [
-                        "Andrew"
-                      ],
+                      "given": ["Andrew"],
                       "use": "official"
                     }
                   ],
@@ -872,9 +864,7 @@
                   "name": [
                     {
                       "family": "Hicks",
-                      "given": [
-                        "Emily"
-                      ],
+                      "given": ["Emily"],
                       "use": "official"
                     }
                   ],
@@ -1018,9 +1008,7 @@
                   "name": [
                     {
                       "family": "Nguyen",
-                      "given": [
-                        "Melissa"
-                      ],
+                      "given": ["Melissa"],
                       "use": "official"
                     }
                   ],
@@ -1164,9 +1152,7 @@
                   "name": [
                     {
                       "family": "Ramos",
-                      "given": [
-                        "Tim"
-                      ],
+                      "given": ["Tim"],
                       "use": "official"
                     }
                   ],
@@ -1310,9 +1296,7 @@
                   "name": [
                     {
                       "family": "Merritt",
-                      "given": [
-                        "Pamela"
-                      ],
+                      "given": ["Pamela"],
                       "use": "official"
                     }
                   ],
@@ -1456,9 +1440,7 @@
                   "name": [
                     {
                       "family": "Buchanan",
-                      "given": [
-                        "Brian"
-                      ],
+                      "given": ["Brian"],
                       "use": "official"
                     }
                   ],
@@ -1602,9 +1584,7 @@
                   "name": [
                     {
                       "family": "Cruz",
-                      "given": [
-                        "Christopher"
-                      ],
+                      "given": ["Christopher"],
                       "use": "official"
                     }
                   ],
@@ -1748,9 +1728,7 @@
                   "name": [
                     {
                       "family": "Vasquez",
-                      "given": [
-                        "Kevin"
-                      ],
+                      "given": ["Kevin"],
                       "use": "official"
                     }
                   ],
@@ -1894,9 +1872,7 @@
                   "name": [
                     {
                       "family": "Martinez",
-                      "given": [
-                        "Joshua"
-                      ],
+                      "given": ["Joshua"],
                       "use": "official"
                     }
                   ],
@@ -2040,9 +2016,7 @@
                   "name": [
                     {
                       "family": "Stafford",
-                      "given": [
-                        "Peter"
-                      ],
+                      "given": ["Peter"],
                       "use": "official"
                     }
                   ],
@@ -2186,9 +2160,7 @@
                   "name": [
                     {
                       "family": "Golden",
-                      "given": [
-                        "Katrina"
-                      ],
+                      "given": ["Katrina"],
                       "use": "official"
                     }
                   ],
@@ -2409,9 +2381,7 @@
                   "name": [
                     {
                       "family": "Kidd",
-                      "given": [
-                        "Margaret"
-                      ],
+                      "given": ["Margaret"],
                       "use": "official"
                     }
                   ],
@@ -2555,9 +2525,7 @@
                   "name": [
                     {
                       "family": "Alvarez",
-                      "given": [
-                        "Maria"
-                      ],
+                      "given": ["Maria"],
                       "use": "official"
                     }
                   ],
@@ -2701,9 +2669,7 @@
                   "name": [
                     {
                       "family": "Snyder",
-                      "given": [
-                        "James"
-                      ],
+                      "given": ["James"],
                       "use": "official"
                     }
                   ],
@@ -2903,9 +2869,7 @@
                   "name": [
                     {
                       "family": "Sandoval",
-                      "given": [
-                        "Dana"
-                      ],
+                      "given": ["Dana"],
                       "use": "official"
                     }
                   ],
@@ -3049,9 +3013,7 @@
                   "name": [
                     {
                       "family": "Anderson",
-                      "given": [
-                        "Tina"
-                      ],
+                      "given": ["Tina"],
                       "use": "official"
                     }
                   ],
@@ -3195,9 +3157,7 @@
                   "name": [
                     {
                       "family": "Owens",
-                      "given": [
-                        "Victoria"
-                      ],
+                      "given": ["Victoria"],
                       "use": "official"
                     }
                   ],
@@ -3418,9 +3378,7 @@
                   "name": [
                     {
                       "family": "Shields",
-                      "given": [
-                        "Russell"
-                      ],
+                      "given": ["Russell"],
                       "use": "official"
                     }
                   ],
@@ -3592,9 +3550,7 @@
                   "name": [
                     {
                       "family": "Sutton",
-                      "given": [
-                        "Katherine"
-                      ],
+                      "given": ["Katherine"],
                       "use": "official"
                     }
                   ],
@@ -3815,9 +3771,7 @@
                   "name": [
                     {
                       "family": "Sutton",
-                      "given": [
-                        "Katherine"
-                      ],
+                      "given": ["Katherine"],
                       "use": "official"
                     }
                   ],
@@ -3989,9 +3943,7 @@
                   "name": [
                     {
                       "family": "Stanley",
-                      "given": [
-                        "Tracey"
-                      ],
+                      "given": ["Tracey"],
                       "use": "official"
                     }
                   ],
@@ -4135,9 +4087,7 @@
                   "name": [
                     {
                       "family": "Rodriguez",
-                      "given": [
-                        "Julie"
-                      ],
+                      "given": ["Julie"],
                       "use": "official"
                     }
                   ],
@@ -4281,9 +4231,7 @@
                   "name": [
                     {
                       "family": "Reid",
-                      "given": [
-                        "Tina"
-                      ],
+                      "given": ["Tina"],
                       "use": "official"
                     }
                   ],
@@ -4427,9 +4375,7 @@
                   "name": [
                     {
                       "family": "Bishop",
-                      "given": [
-                        "Andrew"
-                      ],
+                      "given": ["Andrew"],
                       "use": "official"
                     }
                   ],
@@ -4573,9 +4519,7 @@
                   "name": [
                     {
                       "family": "Gardner",
-                      "given": [
-                        "Robert"
-                      ],
+                      "given": ["Robert"],
                       "use": "official"
                     }
                   ],
@@ -4803,9 +4747,7 @@
                   "name": [
                     {
                       "family": "Gardner",
-                      "given": [
-                        "Robert"
-                      ],
+                      "given": ["Robert"],
                       "use": "official"
                     }
                   ],
@@ -4949,9 +4891,7 @@
                   "name": [
                     {
                       "family": "Williams",
-                      "given": [
-                        "Brandon"
-                      ],
+                      "given": ["Brandon"],
                       "use": "official"
                     }
                   ],
@@ -5207,9 +5147,7 @@
                   "name": [
                     {
                       "family": "Hicks",
-                      "given": [
-                        "Emily"
-                      ],
+                      "given": ["Emily"],
                       "use": "official"
                     }
                   ],
@@ -5353,9 +5291,7 @@
                   "name": [
                     {
                       "family": "Jackson",
-                      "given": [
-                        "Jonathan"
-                      ],
+                      "given": ["Jonathan"],
                       "use": "official"
                     }
                   ],
@@ -5611,9 +5547,7 @@
                   "name": [
                     {
                       "family": "MD",
-                      "given": [
-                        "Brittney"
-                      ],
+                      "given": ["Brittney"],
                       "use": "official"
                     }
                   ],
@@ -5813,9 +5747,7 @@
                   "name": [
                     {
                       "family": "Nguyen",
-                      "given": [
-                        "Melissa"
-                      ],
+                      "given": ["Melissa"],
                       "use": "official"
                     }
                   ],
@@ -5959,9 +5891,7 @@
                   "name": [
                     {
                       "family": "Carlson",
-                      "given": [
-                        "Charles"
-                      ],
+                      "given": ["Charles"],
                       "use": "official"
                     }
                   ],
@@ -6105,9 +6035,7 @@
                   "name": [
                     {
                       "family": "Castro",
-                      "given": [
-                        "Erica"
-                      ],
+                      "given": ["Erica"],
                       "use": "official"
                     }
                   ],
@@ -6251,9 +6179,7 @@
                   "name": [
                     {
                       "family": "Young",
-                      "given": [
-                        "Valerie"
-                      ],
+                      "given": ["Valerie"],
                       "use": "official"
                     }
                   ],
@@ -7476,9 +7402,7 @@
                   "name": [
                     {
                       "family": "Young",
-                      "given": [
-                        "Valerie"
-                      ],
+                      "given": ["Valerie"],
                       "use": "official"
                     }
                   ],
@@ -8402,9 +8326,7 @@
                   "name": [
                     {
                       "family": "Sandoval",
-                      "given": [
-                        "Dana"
-                      ],
+                      "given": ["Dana"],
                       "use": "official"
                     }
                   ],
@@ -8697,9 +8619,7 @@
                   "name": [
                     {
                       "family": "Long",
-                      "given": [
-                        "Katherine"
-                      ],
+                      "given": ["Katherine"],
                       "use": "official"
                     }
                   ],
@@ -9559,9 +9479,7 @@
                   "name": [
                     {
                       "family": "Kim",
-                      "given": [
-                        "Emily"
-                      ],
+                      "given": ["Emily"],
                       "use": "official"
                     }
                   ],
@@ -9961,9 +9879,7 @@
                   "name": [
                     {
                       "family": "Palmer",
-                      "given": [
-                        "Shannon"
-                      ],
+                      "given": ["Shannon"],
                       "use": "official"
                     }
                   ],
@@ -11622,9 +11538,7 @@
                   "name": [
                     {
                       "family": "Ramos",
-                      "given": [
-                        "Tim"
-                      ],
+                      "given": ["Tim"],
                       "use": "official"
                     }
                   ],
@@ -12318,9 +12232,7 @@
                   "name": [
                     {
                       "family": "Norman",
-                      "given": [
-                        "Catherine"
-                      ],
+                      "given": ["Catherine"],
                       "use": "official"
                     }
                   ],
@@ -12599,9 +12511,7 @@
                   "name": [
                     {
                       "family": "Buchanan",
-                      "given": [
-                        "Brian"
-                      ],
+                      "given": ["Brian"],
                       "use": "official"
                     }
                   ],
@@ -12873,9 +12783,7 @@
                   "name": [
                     {
                       "family": "Hicks",
-                      "given": [
-                        "Emily"
-                      ],
+                      "given": ["Emily"],
                       "use": "official"
                     }
                   ],
@@ -13199,9 +13107,7 @@
                   "name": [
                     {
                       "family": "Meyers",
-                      "given": [
-                        "Jeffrey"
-                      ],
+                      "given": ["Jeffrey"],
                       "use": "official"
                     }
                   ],
@@ -14129,9 +14035,7 @@
                   "name": [
                     {
                       "family": "Orozco",
-                      "given": [
-                        "Jennifer"
-                      ],
+                      "given": ["Jennifer"],
                       "use": "official"
                     }
                   ],
@@ -16328,9 +16232,7 @@
                   "name": [
                     {
                       "family": "Powell",
-                      "given": [
-                        "Julie"
-                      ],
+                      "given": ["Julie"],
                       "use": "official"
                     }
                   ],
@@ -16723,9 +16625,7 @@
                   "name": [
                     {
                       "family": "Greer",
-                      "given": [
-                        "Mia"
-                      ],
+                      "given": ["Mia"],
                       "use": "official"
                     }
                   ],
@@ -18522,9 +18422,7 @@
                   "name": [
                     {
                       "family": "Merritt",
-                      "given": [
-                        "Pamela"
-                      ],
+                      "given": ["Pamela"],
                       "use": "official"
                     }
                   ],
@@ -19210,9 +19108,7 @@
                   "name": [
                     {
                       "family": "Wiggins",
-                      "given": [
-                        "Shawn"
-                      ],
+                      "given": ["Shawn"],
                       "use": "official"
                     }
                   ],
@@ -19551,11 +19447,7 @@
             "status": null,
             "category": "laboratory",
             "code": {
-              "values": [
-                "MG",
-                "19123-9",
-                "2069-3"
-              ],
+              "values": ["MG", "19123-9", "2069-3"],
               "operator": "OR"
             },
             "effective_date": {
@@ -19586,11 +19478,7 @@
             "status": null,
             "category": null,
             "code": {
-              "values": [
-                "MG",
-                "19123-9",
-                "2069-3"
-              ],
+              "values": ["MG", "19123-9", "2069-3"],
               "operator": "OR"
             },
             "effective_date": {
@@ -20149,9 +20037,7 @@
                   "name": [
                     {
                       "family": "Bishop",
-                      "given": [
-                        "Andrew"
-                      ],
+                      "given": ["Andrew"],
                       "use": "official"
                     }
                   ],
@@ -20714,9 +20600,7 @@
                   "name": [
                     {
                       "family": "Mitchell",
-                      "given": [
-                        "Dalton"
-                      ],
+                      "given": ["Dalton"],
                       "use": "official"
                     }
                   ],
@@ -21480,9 +21364,7 @@
                   "name": [
                     {
                       "family": "Summers",
-                      "given": [
-                        "Andrea"
-                      ],
+                      "given": ["Andrea"],
                       "use": "official"
                     }
                   ],
@@ -21696,9 +21578,7 @@
                   "name": [
                     {
                       "family": "Rodriguez",
-                      "given": [
-                        "Julie"
-                      ],
+                      "given": ["Julie"],
                       "use": "official"
                     }
                   ],
@@ -22441,9 +22321,7 @@
                   "name": [
                     {
                       "family": "Williams",
-                      "given": [
-                        "Brandon"
-                      ],
+                      "given": ["Brandon"],
                       "use": "official"
                     }
                   ],
@@ -22691,9 +22569,7 @@
                   "name": [
                     {
                       "family": "Johnson",
-                      "given": [
-                        "Jose"
-                      ],
+                      "given": ["Jose"],
                       "use": "official"
                     }
                   ],
@@ -23773,9 +23649,7 @@
                   "name": [
                     {
                       "family": "Golden",
-                      "given": [
-                        "Katrina"
-                      ],
+                      "given": ["Katrina"],
                       "use": "official"
                     }
                   ],
@@ -24351,11 +24225,7 @@
             "observation_id": null,
             "patient_id": "S6268253",
             "status": {
-              "values": [
-                "final",
-                "amended",
-                "corrected"
-              ],
+              "values": ["final", "amended", "corrected"],
               "operator": "OR"
             },
             "category": "laboratory",
@@ -24817,9 +24687,7 @@
                   "name": [
                     {
                       "family": "Everett",
-                      "given": [
-                        "Andrew"
-                      ],
+                      "given": ["Andrew"],
                       "use": "official"
                     }
                   ],
@@ -25041,9 +24909,7 @@
                   "name": [
                     {
                       "family": "Stafford",
-                      "given": [
-                        "Peter"
-                      ],
+                      "given": ["Peter"],
                       "use": "official"
                     }
                   ],
@@ -25237,9 +25103,7 @@
                   "name": [
                     {
                       "family": "Ramirez",
-                      "given": [
-                        "Benjamin"
-                      ],
+                      "given": ["Benjamin"],
                       "use": "official"
                     }
                   ],
@@ -25584,9 +25448,7 @@
                   "name": [
                     {
                       "family": "Kim",
-                      "given": [
-                        "Emily"
-                      ],
+                      "given": ["Emily"],
                       "use": "official"
                     }
                   ],
@@ -26170,9 +26032,7 @@
                   "name": [
                     {
                       "family": "Sullivan",
-                      "given": [
-                        "Phillip"
-                      ],
+                      "given": ["Phillip"],
                       "use": "official"
                     }
                   ],
@@ -26541,9 +26401,7 @@
                   "name": [
                     {
                       "family": "Greer",
-                      "given": [
-                        "Mia"
-                      ],
+                      "given": ["Mia"],
                       "use": "official"
                     }
                   ],
@@ -27033,17 +26891,11 @@
             "observation_id": null,
             "patient_id": "S6488980",
             "status": {
-              "values": [
-                "final",
-                "amended"
-              ],
+              "values": ["final", "amended"],
               "operator": "OR"
             },
             "category": {
-              "values": [
-                "laboratory",
-                "vital-signs"
-              ],
+              "values": ["laboratory", "vital-signs"],
               "operator": "OR"
             },
             "code": "GLU",
@@ -27319,9 +27171,7 @@
                   "name": [
                     {
                       "family": "Hernandez",
-                      "given": [
-                        "Katie"
-                      ],
+                      "given": ["Katie"],
                       "use": "official"
                     }
                   ],
@@ -27617,9 +27467,7 @@
                   "name": [
                     {
                       "family": "Clark",
-                      "given": [
-                        "Yesenia"
-                      ],
+                      "given": ["Yesenia"],
                       "use": "official"
                     }
                   ],
@@ -27977,9 +27825,7 @@
                   "name": [
                     {
                       "family": "Mitchell",
-                      "given": [
-                        "Dalton"
-                      ],
+                      "given": ["Dalton"],
                       "use": "official"
                     }
                   ],
@@ -29449,9 +29295,7 @@
                   "name": [
                     {
                       "family": "Klein",
-                      "given": [
-                        "Bobby"
-                      ],
+                      "given": ["Bobby"],
                       "use": "official"
                     }
                   ],
@@ -29638,10 +29482,7 @@
             "patient_id": "S6538722",
             "status": "final",
             "category": {
-              "values": [
-                "vital-signs",
-                "laboratory"
-              ],
+              "values": ["vital-signs", "laboratory"],
               "operator": "OR"
             },
             "code": "GLU",
@@ -30611,9 +30452,7 @@
                   "name": [
                     {
                       "family": "Jones",
-                      "given": [
-                        "Anna"
-                      ],
+                      "given": ["Anna"],
                       "use": "official"
                     }
                   ],
@@ -30827,9 +30666,7 @@
                   "name": [
                     {
                       "family": "Smith",
-                      "given": [
-                        "Nathaniel"
-                      ],
+                      "given": ["Nathaniel"],
                       "use": "official"
                     }
                   ],
@@ -31108,9 +30945,7 @@
                   "name": [
                     {
                       "family": "Ruiz",
-                      "given": [
-                        "Allen"
-                      ],
+                      "given": ["Allen"],
                       "use": "official"
                     }
                   ],
@@ -31325,10 +31160,7 @@
             "patient_id": "S6426560",
             "status": "final",
             "category": {
-              "values": [
-                "laboratory",
-                "vital-signs"
-              ],
+              "values": ["laboratory", "vital-signs"],
               "operator": "OR"
             },
             "code": "GLU",
@@ -32008,9 +31840,7 @@
                   "name": [
                     {
                       "family": "Carlson",
-                      "given": [
-                        "Charles"
-                      ],
+                      "given": ["Charles"],
                       "use": "official"
                     }
                   ],
@@ -32758,9 +32588,7 @@
                   "name": [
                     {
                       "family": "Johnson",
-                      "given": [
-                        "Samantha"
-                      ],
+                      "given": ["Samantha"],
                       "use": "official"
                     }
                   ],
@@ -33169,9 +32997,7 @@
                   "name": [
                     {
                       "family": "Schultz",
-                      "given": [
-                        "Victor"
-                      ],
+                      "given": ["Victor"],
                       "use": "official"
                     }
                   ],
@@ -33362,9 +33188,7 @@
                   "name": [
                     {
                       "family": "Frye",
-                      "given": [
-                        "Tyler"
-                      ],
+                      "given": ["Tyler"],
                       "use": "official"
                     }
                   ],
@@ -33785,9 +33609,7 @@
                   "name": [
                     {
                       "family": "Merritt",
-                      "given": [
-                        "Pamela"
-                      ],
+                      "given": ["Pamela"],
                       "use": "official"
                     }
                   ],
@@ -33978,9 +33800,7 @@
                   "name": [
                     {
                       "family": "Reid",
-                      "given": [
-                        "Tina"
-                      ],
+                      "given": ["Tina"],
                       "use": "official"
                     }
                   ],
@@ -34254,9 +34074,7 @@
                   "name": [
                     {
                       "family": "Klein",
-                      "given": [
-                        "Nathan"
-                      ],
+                      "given": ["Nathan"],
                       "use": "official"
                     }
                   ],
@@ -35688,10 +35506,7 @@
             "observation_id": null,
             "patient_id": "S6550627",
             "status": {
-              "values": [
-                "final",
-                "amended"
-              ],
+              "values": ["final", "amended"],
               "operator": "OR"
             },
             "category": "laboratory",
@@ -35725,10 +35540,7 @@
             "observation_id": null,
             "patient_id": "S6550627",
             "status": {
-              "values": [
-                "final",
-                "amended"
-              ],
+              "values": ["final", "amended"],
               "operator": "OR"
             },
             "category": "laboratory",
@@ -38774,9 +38586,7 @@
                   "name": [
                     {
                       "family": "MD",
-                      "given": [
-                        "Brittney"
-                      ],
+                      "given": ["Brittney"],
                       "use": "official"
                     }
                   ],
@@ -39095,9 +38905,7 @@
                   "name": [
                     {
                       "family": "Golden",
-                      "given": [
-                        "Katrina"
-                      ],
+                      "given": ["Katrina"],
                       "use": "official"
                     }
                   ],
@@ -39525,9 +39333,7 @@
                   "name": [
                     {
                       "family": "Alvarez",
-                      "given": [
-                        "Maria"
-                      ],
+                      "given": ["Maria"],
                       "use": "official"
                     }
                   ],
@@ -40721,9 +40527,7 @@
                   "name": [
                     {
                       "family": "Robinson",
-                      "given": [
-                        "Alyssa"
-                      ],
+                      "given": ["Alyssa"],
                       "use": "official"
                     }
                   ],
@@ -40986,9 +40790,7 @@
                   "name": [
                     {
                       "family": "Hall",
-                      "given": [
-                        "Glenda"
-                      ],
+                      "given": ["Glenda"],
                       "use": "official"
                     }
                   ],
@@ -43220,9 +43022,7 @@
                   "name": [
                     {
                       "family": "Stafford",
-                      "given": [
-                        "Peter"
-                      ],
+                      "given": ["Peter"],
                       "use": "official"
                     }
                   ],
@@ -43630,9 +43430,7 @@
                   "name": [
                     {
                       "family": "Bishop",
-                      "given": [
-                        "Andrew"
-                      ],
+                      "given": ["Andrew"],
                       "use": "official"
                     }
                   ],
@@ -43945,9 +43743,7 @@
                   "name": [
                     {
                       "family": "Contreras",
-                      "given": [
-                        "Andrew"
-                      ],
+                      "given": ["Andrew"],
                       "use": "official"
                     }
                   ],
@@ -44519,9 +44315,7 @@
                   "name": [
                     {
                       "family": "Carroll",
-                      "given": [
-                        "Erik"
-                      ],
+                      "given": ["Erik"],
                       "use": "official"
                     }
                   ],
@@ -45040,9 +44834,7 @@
                   "name": [
                     {
                       "family": "Castro",
-                      "given": [
-                        "Erica"
-                      ],
+                      "given": ["Erica"],
                       "use": "official"
                     }
                   ],
@@ -45415,9 +45207,7 @@
                   "name": [
                     {
                       "family": "Keller",
-                      "given": [
-                        "Kristin"
-                      ],
+                      "given": ["Kristin"],
                       "use": "official"
                     }
                   ],
@@ -45728,9 +45518,7 @@
                   "name": [
                     {
                       "family": "Powell",
-                      "given": [
-                        "Julie"
-                      ],
+                      "given": ["Julie"],
                       "use": "official"
                     }
                   ],
@@ -45958,9 +45746,7 @@
                   "name": [
                     {
                       "family": "Singleton",
-                      "given": [
-                        "Beth"
-                      ],
+                      "given": ["Beth"],
                       "use": "official"
                     }
                   ],
@@ -46424,9 +46210,7 @@
                   "name": [
                     {
                       "family": "Welch",
-                      "given": [
-                        "Gregory"
-                      ],
+                      "given": ["Gregory"],
                       "use": "official"
                     }
                   ],
@@ -47229,9 +47013,7 @@
                   "name": [
                     {
                       "family": "Alvarez",
-                      "given": [
-                        "Maria"
-                      ],
+                      "given": ["Maria"],
                       "use": "official"
                     }
                   ],
@@ -47459,9 +47241,7 @@
                   "name": [
                     {
                       "family": "Long",
-                      "given": [
-                        "Katherine"
-                      ],
+                      "given": ["Katherine"],
                       "use": "official"
                     }
                   ],
@@ -47958,10 +47738,7 @@
             "status": "final",
             "category": "laboratory",
             "code": {
-              "values": [
-                "K",
-                "2823-3"
-              ],
+              "values": ["K", "2823-3"],
               "operator": "OR"
             },
             "effective_date": null,
@@ -47995,10 +47772,7 @@
             "status": "final",
             "category": "laboratory",
             "code": {
-              "values": [
-                "K",
-                "2823-3"
-              ],
+              "values": ["K", "2823-3"],
               "operator": "OR"
             },
             "effective_date": null,
@@ -48239,9 +48013,7 @@
                   "name": [
                     {
                       "family": "Johnson",
-                      "given": [
-                        "Jose"
-                      ],
+                      "given": ["Jose"],
                       "use": "official"
                     }
                   ],
@@ -48614,10 +48386,7 @@
             "status": "final",
             "category": "laboratory",
             "code": {
-              "values": [
-                "K",
-                "2823-3"
-              ],
+              "values": ["K", "2823-3"],
               "operator": "OR"
             },
             "effective_date": null,
@@ -48651,10 +48420,7 @@
             "status": "final",
             "category": "laboratory",
             "code": {
-              "values": [
-                "K",
-                "2823-3"
-              ],
+              "values": ["K", "2823-3"],
               "operator": "OR"
             },
             "effective_date": null,
@@ -48805,10 +48571,7 @@
             "status": "final",
             "category": "laboratory",
             "code": {
-              "values": [
-                "2823-3",
-                "K"
-              ],
+              "values": ["2823-3", "K"],
               "operator": "OR"
             },
             "effective_date": null,
@@ -48842,10 +48605,7 @@
             "status": "final",
             "category": "laboratory",
             "code": {
-              "values": [
-                "2823-3",
-                "K"
-              ],
+              "values": ["2823-3", "K"],
               "operator": "OR"
             },
             "effective_date": null,
@@ -49255,10 +49015,7 @@
             "status": "final",
             "category": "laboratory",
             "code": {
-              "values": [
-                "K",
-                "2823-3"
-              ],
+              "values": ["K", "2823-3"],
               "operator": "OR"
             },
             "effective_date": null,
@@ -49292,10 +49049,7 @@
             "status": "final",
             "category": "laboratory",
             "code": {
-              "values": [
-                "K",
-                "2823-3"
-              ],
+              "values": ["K", "2823-3"],
               "operator": "OR"
             },
             "effective_date": null,
@@ -49537,9 +49291,7 @@
                   "name": [
                     {
                       "family": "Jackson",
-                      "given": [
-                        "Sherri"
-                      ],
+                      "given": ["Sherri"],
                       "use": "official"
                     }
                   ],
@@ -50776,10 +50528,7 @@
             "status": "final",
             "category": "laboratory",
             "code": {
-              "values": [
-                "2823-3",
-                "K"
-              ],
+              "values": ["2823-3", "K"],
               "operator": "OR"
             },
             "effective_date": null,
@@ -51056,11 +50805,7 @@
             "status": "final",
             "category": "laboratory",
             "code": {
-              "values": [
-                "2823-3",
-                "6298-4",
-                "K"
-              ],
+              "values": ["2823-3", "6298-4", "K"],
               "operator": "OR"
             },
             "effective_date": null,
@@ -51302,9 +51047,7 @@
                   "name": [
                     {
                       "family": "Carroll",
-                      "given": [
-                        "Erik"
-                      ],
+                      "given": ["Erik"],
                       "use": "official"
                     }
                   ],
@@ -51533,10 +51276,7 @@
             "status": "final",
             "category": "laboratory",
             "code": {
-              "values": [
-                "2823-3",
-                "K"
-              ],
+              "values": ["2823-3", "K"],
               "operator": "OR"
             },
             "effective_date": null,
@@ -51570,10 +51310,7 @@
             "status": "final",
             "category": "laboratory",
             "code": {
-              "values": [
-                "2823-3",
-                "K"
-              ],
+              "values": ["2823-3", "K"],
               "operator": "OR"
             },
             "effective_date": null,
@@ -52283,9 +52020,7 @@
                   "name": [
                     {
                       "family": "Carlson",
-                      "given": [
-                        "Charles"
-                      ],
+                      "given": ["Charles"],
                       "use": "official"
                     }
                   ],
@@ -52568,10 +52303,7 @@
             "status": null,
             "category": "laboratory",
             "code": {
-              "values": [
-                "2823-3",
-                "K"
-              ],
+              "values": ["2823-3", "K"],
               "operator": "OR"
             },
             "effective_date": null,
@@ -52897,9 +52629,7 @@
                   "name": [
                     {
                       "family": "Klein",
-                      "given": [
-                        "Nathan"
-                      ],
+                      "given": ["Nathan"],
                       "use": "official"
                     }
                   ],
@@ -53206,9 +52936,7 @@
                   "name": [
                     {
                       "family": "Johnson",
-                      "given": [
-                        "Gary"
-                      ],
+                      "given": ["Gary"],
                       "use": "official"
                     }
                   ],
@@ -53527,9 +53255,7 @@
                   "name": [
                     {
                       "family": "Miller",
-                      "given": [
-                        "Keith"
-                      ],
+                      "given": ["Keith"],
                       "use": "official"
                     }
                   ],
@@ -53875,9 +53601,7 @@
                   "name": [
                     {
                       "family": "Thompson",
-                      "given": [
-                        "Kelli"
-                      ],
+                      "given": ["Kelli"],
                       "use": "official"
                     }
                   ],
@@ -54225,9 +53949,7 @@
                   "name": [
                     {
                       "family": "Morris",
-                      "given": [
-                        "Allison"
-                      ],
+                      "given": ["Allison"],
                       "use": "official"
                     }
                   ],
@@ -54622,9 +54344,7 @@
                   "name": [
                     {
                       "family": "Alvarez",
-                      "given": [
-                        "Maria"
-                      ],
+                      "given": ["Maria"],
                       "use": "official"
                     }
                   ],
@@ -54975,9 +54695,7 @@
                   "name": [
                     {
                       "family": "Orozco",
-                      "given": [
-                        "Jennifer"
-                      ],
+                      "given": ["Jennifer"],
                       "use": "official"
                     }
                   ],
@@ -55282,9 +55000,7 @@
                   "name": [
                     {
                       "family": "Trujillo",
-                      "given": [
-                        "Keith"
-                      ],
+                      "given": ["Keith"],
                       "use": "official"
                     }
                   ],
@@ -56274,9 +55990,7 @@
                   "name": [
                     {
                       "family": "Thomas",
-                      "given": [
-                        "Linda"
-                      ],
+                      "given": ["Linda"],
                       "use": "official"
                     }
                   ],
@@ -56679,9 +56393,7 @@
                   "name": [
                     {
                       "family": "Parker",
-                      "given": [
-                        "Anthony"
-                      ],
+                      "given": ["Anthony"],
                       "use": "official"
                     }
                   ],
@@ -56705,10 +56417,7 @@
             "status": "final",
             "category": "laboratory",
             "code": {
-              "values": [
-                "K",
-                "2823-3"
-              ],
+              "values": ["K", "2823-3"],
               "operator": "OR"
             },
             "effective_date": null,
@@ -56742,10 +56451,7 @@
             "status": "final",
             "category": "laboratory",
             "code": {
-              "values": [
-                "K",
-                "2823-3"
-              ],
+              "values": ["K", "2823-3"],
               "operator": "OR"
             },
             "effective_date": null,
@@ -57036,9 +56742,7 @@
                   "name": [
                     {
                       "family": "Dunlap",
-                      "given": [
-                        "Denise"
-                      ],
+                      "given": ["Denise"],
                       "use": "official"
                     }
                   ],
@@ -57062,10 +56766,7 @@
             "status": "final",
             "category": "laboratory",
             "code": {
-              "values": [
-                "2823-3",
-                "K"
-              ],
+              "values": ["2823-3", "K"],
               "operator": "OR"
             },
             "effective_date": null,
@@ -57099,10 +56800,7 @@
             "status": "final",
             "category": "laboratory",
             "code": {
-              "values": [
-                "2823-3",
-                "K"
-              ],
+              "values": ["2823-3", "K"],
               "operator": "OR"
             },
             "effective_date": null,
@@ -57201,10 +56899,7 @@
             "patient_id": "S1698248",
             "status": "final",
             "category": {
-              "values": [
-                "vital-signs",
-                "laboratory"
-              ],
+              "values": ["vital-signs", "laboratory"],
               "operator": "OR"
             },
             "code": "GLU",
@@ -57241,10 +56936,7 @@
             "patient_id": "S1698248",
             "status": "final",
             "category": {
-              "values": [
-                "vital-signs",
-                "laboratory"
-              ],
+              "values": ["vital-signs", "laboratory"],
               "operator": "OR"
             },
             "code": "GLU",
@@ -57824,9 +57516,7 @@
                   "name": [
                     {
                       "family": "Hernandez",
-                      "given": [
-                        "Katie"
-                      ],
+                      "given": ["Katie"],
                       "use": "official"
                     }
                   ],
@@ -58198,9 +57888,7 @@
                   "name": [
                     {
                       "family": "Anderson",
-                      "given": [
-                        "Tina"
-                      ],
+                      "given": ["Tina"],
                       "use": "official"
                     }
                   ],
@@ -58224,10 +57912,7 @@
             "status": null,
             "category": "laboratory",
             "code": {
-              "values": [
-                "A1C",
-                "4548-4"
-              ],
+              "values": ["A1C", "4548-4"],
               "operator": "OR"
             },
             "effective_date": null,
@@ -58261,10 +57946,7 @@
             "status": null,
             "category": "laboratory",
             "code": {
-              "values": [
-                "A1C",
-                "4548-4"
-              ],
+              "values": ["A1C", "4548-4"],
               "operator": "OR"
             },
             "effective_date": null,
@@ -58728,9 +58410,7 @@
                   "name": [
                     {
                       "family": "Shields",
-                      "given": [
-                        "Russell"
-                      ],
+                      "given": ["Russell"],
                       "use": "official"
                     }
                   ],
@@ -58754,10 +58434,7 @@
             "status": null,
             "category": "laboratory",
             "code": {
-              "values": [
-                "2823-3",
-                "K"
-              ],
+              "values": ["2823-3", "K"],
               "operator": "OR"
             },
             "effective_date": null,
@@ -58791,10 +58468,7 @@
             "status": "final",
             "category": "laboratory",
             "code": {
-              "values": [
-                "2823-3",
-                "K"
-              ],
+              "values": ["2823-3", "K"],
               "operator": "OR"
             },
             "effective_date": null,
@@ -59141,9 +58815,7 @@
                   "name": [
                     {
                       "family": "Owens",
-                      "given": [
-                        "Victoria"
-                      ],
+                      "given": ["Victoria"],
                       "use": "official"
                     }
                   ],
@@ -59167,10 +58839,7 @@
             "status": "final",
             "category": "laboratory",
             "code": {
-              "values": [
-                "2823-3",
-                "K"
-              ],
+              "values": ["2823-3", "K"],
               "operator": "OR"
             },
             "effective_date": null,
@@ -59684,9 +59353,7 @@
                   "name": [
                     {
                       "family": "Winters",
-                      "given": [
-                        "Keith"
-                      ],
+                      "given": ["Keith"],
                       "use": "official"
                     }
                   ],
@@ -59710,10 +59377,7 @@
             "status": null,
             "category": "laboratory",
             "code": {
-              "values": [
-                "K",
-                "2823-3"
-              ],
+              "values": ["K", "2823-3"],
               "operator": "OR"
             },
             "effective_date": null,
@@ -60525,9 +60189,7 @@
                   "name": [
                     {
                       "family": "Thomas",
-                      "given": [
-                        "Linda"
-                      ],
+                      "given": ["Linda"],
                       "use": "official"
                     }
                   ],
@@ -60819,9 +60481,7 @@
                   "name": [
                     {
                       "family": "Welch",
-                      "given": [
-                        "Gregory"
-                      ],
+                      "given": ["Gregory"],
                       "use": "official"
                     }
                   ],
@@ -61391,9 +61051,7 @@
                   "name": [
                     {
                       "family": "Woods",
-                      "given": [
-                        "Nathan"
-                      ],
+                      "given": ["Nathan"],
                       "use": "official"
                     }
                   ],
@@ -63885,9 +63543,7 @@
                   "name": [
                     {
                       "family": "Miller",
-                      "given": [
-                        "Keith"
-                      ],
+                      "given": ["Keith"],
                       "use": "official"
                     }
                   ],
@@ -64178,9 +63834,7 @@
                   "name": [
                     {
                       "family": "Scott",
-                      "given": [
-                        "Zachary"
-                      ],
+                      "given": ["Zachary"],
                       "use": "official"
                     }
                   ],
@@ -64494,9 +64148,7 @@
                   "name": [
                     {
                       "family": "Hall",
-                      "given": [
-                        "Glenda"
-                      ],
+                      "given": ["Glenda"],
                       "use": "official"
                     }
                   ],
@@ -66104,9 +65756,7 @@
                   "name": [
                     {
                       "family": "Gould",
-                      "given": [
-                        "Justin"
-                      ],
+                      "given": ["Justin"],
                       "use": "official"
                     }
                   ],
@@ -66567,9 +66217,7 @@
                   "name": [
                     {
                       "family": "Ramirez",
-                      "given": [
-                        "Benjamin"
-                      ],
+                      "given": ["Benjamin"],
                       "use": "official"
                     }
                   ],
@@ -66593,10 +66241,7 @@
             "status": "final",
             "category": "laboratory",
             "code": {
-              "values": [
-                "A1C",
-                "4548-4"
-              ],
+              "values": ["A1C", "4548-4"],
               "operator": "OR"
             },
             "effective_date": null,
@@ -66630,10 +66275,7 @@
             "status": "final",
             "category": "laboratory",
             "code": {
-              "values": [
-                "A1C",
-                "4548-4"
-              ],
+              "values": ["A1C", "4548-4"],
               "operator": "OR"
             },
             "effective_date": null,
@@ -66872,9 +66514,7 @@
                   "name": [
                     {
                       "family": "Price",
-                      "given": [
-                        "Linda"
-                      ],
+                      "given": ["Linda"],
                       "use": "official"
                     }
                   ],
@@ -67133,9 +66773,7 @@
                   "name": [
                     {
                       "family": "Buchanan",
-                      "given": [
-                        "Brian"
-                      ],
+                      "given": ["Brian"],
                       "use": "official"
                     }
                   ],
@@ -67554,9 +67192,7 @@
                     "name": [
                       {
                         "family": "Dunn",
-                        "given": [
-                          "Debra"
-                        ],
+                        "given": ["Debra"],
                         "use": "official"
                       }
                     ],
@@ -67719,9 +67355,7 @@
                     "name": [
                       {
                         "family": "Gould",
-                        "given": [
-                          "Justin"
-                        ],
+                        "given": ["Justin"],
                         "use": "official"
                       }
                     ],
@@ -67884,9 +67518,7 @@
                     "name": [
                       {
                         "family": "Hall",
-                        "given": [
-                          "Glenda"
-                        ],
+                        "given": ["Glenda"],
                         "use": "official"
                       }
                     ],
@@ -68049,9 +67681,7 @@
                     "name": [
                       {
                         "family": "Bishop",
-                        "given": [
-                          "Andrew"
-                        ],
+                        "given": ["Andrew"],
                         "use": "official"
                       }
                     ],
@@ -68214,9 +67844,7 @@
                     "name": [
                       {
                         "family": "Hicks",
-                        "given": [
-                          "Emily"
-                        ],
+                        "given": ["Emily"],
                         "use": "official"
                       }
                     ],
@@ -68379,9 +68007,7 @@
                     "name": [
                       {
                         "family": "Nguyen",
-                        "given": [
-                          "Melissa"
-                        ],
+                        "given": ["Melissa"],
                         "use": "official"
                       }
                     ],
@@ -68544,9 +68170,7 @@
                     "name": [
                       {
                         "family": "Ramos",
-                        "given": [
-                          "Tim"
-                        ],
+                        "given": ["Tim"],
                         "use": "official"
                       }
                     ],
@@ -68709,9 +68333,7 @@
                     "name": [
                       {
                         "family": "Merritt",
-                        "given": [
-                          "Pamela"
-                        ],
+                        "given": ["Pamela"],
                         "use": "official"
                       }
                     ],
@@ -68874,9 +68496,7 @@
                     "name": [
                       {
                         "family": "Buchanan",
-                        "given": [
-                          "Brian"
-                        ],
+                        "given": ["Brian"],
                         "use": "official"
                       }
                     ],
@@ -69039,9 +68659,7 @@
                     "name": [
                       {
                         "family": "Cruz",
-                        "given": [
-                          "Christopher"
-                        ],
+                        "given": ["Christopher"],
                         "use": "official"
                       }
                     ],
@@ -69204,9 +68822,7 @@
                     "name": [
                       {
                         "family": "Vasquez",
-                        "given": [
-                          "Kevin"
-                        ],
+                        "given": ["Kevin"],
                         "use": "official"
                       }
                     ],
@@ -69369,9 +68985,7 @@
                     "name": [
                       {
                         "family": "Martinez",
-                        "given": [
-                          "Joshua"
-                        ],
+                        "given": ["Joshua"],
                         "use": "official"
                       }
                     ],
@@ -69534,9 +69148,7 @@
                     "name": [
                       {
                         "family": "Stafford",
-                        "given": [
-                          "Peter"
-                        ],
+                        "given": ["Peter"],
                         "use": "official"
                       }
                     ],
@@ -69699,9 +69311,7 @@
                     "name": [
                       {
                         "family": "Golden",
-                        "given": [
-                          "Katrina"
-                        ],
+                        "given": ["Katrina"],
                         "use": "official"
                       }
                     ],
@@ -69961,9 +69571,7 @@
                     "name": [
                       {
                         "family": "Kidd",
-                        "given": [
-                          "Margaret"
-                        ],
+                        "given": ["Margaret"],
                         "use": "official"
                       }
                     ],
@@ -70126,9 +69734,7 @@
                     "name": [
                       {
                         "family": "Alvarez",
-                        "given": [
-                          "Maria"
-                        ],
+                        "given": ["Maria"],
                         "use": "official"
                       }
                     ],
@@ -70291,9 +69897,7 @@
                     "name": [
                       {
                         "family": "Snyder",
-                        "given": [
-                          "James"
-                        ],
+                        "given": ["James"],
                         "use": "official"
                       }
                     ],
@@ -70542,9 +70146,7 @@
                     "name": [
                       {
                         "family": "Sandoval",
-                        "given": [
-                          "Dana"
-                        ],
+                        "given": ["Dana"],
                         "use": "official"
                       }
                     ],
@@ -70707,9 +70309,7 @@
                     "name": [
                       {
                         "family": "Anderson",
-                        "given": [
-                          "Tina"
-                        ],
+                        "given": ["Tina"],
                         "use": "official"
                       }
                     ],
@@ -70872,9 +70472,7 @@
                     "name": [
                       {
                         "family": "Owens",
-                        "given": [
-                          "Victoria"
-                        ],
+                        "given": ["Victoria"],
                         "use": "official"
                       }
                     ],
@@ -71133,9 +70731,7 @@
                     "name": [
                       {
                         "family": "Shields",
-                        "given": [
-                          "Russell"
-                        ],
+                        "given": ["Russell"],
                         "use": "official"
                       }
                     ],
@@ -71341,9 +70937,7 @@
                     "name": [
                       {
                         "family": "Sutton",
-                        "given": [
-                          "Katherine"
-                        ],
+                        "given": ["Katherine"],
                         "use": "official"
                       }
                     ],
@@ -71602,9 +71196,7 @@
                     "name": [
                       {
                         "family": "Sutton",
-                        "given": [
-                          "Katherine"
-                        ],
+                        "given": ["Katherine"],
                         "use": "official"
                       }
                     ],
@@ -71810,9 +71402,7 @@
                     "name": [
                       {
                         "family": "Stanley",
-                        "given": [
-                          "Tracey"
-                        ],
+                        "given": ["Tracey"],
                         "use": "official"
                       }
                     ],
@@ -71975,9 +71565,7 @@
                     "name": [
                       {
                         "family": "Rodriguez",
-                        "given": [
-                          "Julie"
-                        ],
+                        "given": ["Julie"],
                         "use": "official"
                       }
                     ],
@@ -72140,9 +71728,7 @@
                     "name": [
                       {
                         "family": "Reid",
-                        "given": [
-                          "Tina"
-                        ],
+                        "given": ["Tina"],
                         "use": "official"
                       }
                     ],
@@ -72305,9 +71891,7 @@
                     "name": [
                       {
                         "family": "Bishop",
-                        "given": [
-                          "Andrew"
-                        ],
+                        "given": ["Andrew"],
                         "use": "official"
                       }
                     ],
@@ -72470,9 +72054,7 @@
                     "name": [
                       {
                         "family": "Gardner",
-                        "given": [
-                          "Robert"
-                        ],
+                        "given": ["Robert"],
                         "use": "official"
                       }
                     ],
@@ -72764,9 +72346,7 @@
                     "name": [
                       {
                         "family": "Gardner",
-                        "given": [
-                          "Robert"
-                        ],
+                        "given": ["Robert"],
                         "use": "official"
                       }
                     ],
@@ -72929,9 +72509,7 @@
                     "name": [
                       {
                         "family": "Williams",
-                        "given": [
-                          "Brandon"
-                        ],
+                        "given": ["Brandon"],
                         "use": "official"
                       }
                     ],
@@ -73266,9 +72844,7 @@
                     "name": [
                       {
                         "family": "Hicks",
-                        "given": [
-                          "Emily"
-                        ],
+                        "given": ["Emily"],
                         "use": "official"
                       }
                     ],
@@ -73431,9 +73007,7 @@
                     "name": [
                       {
                         "family": "Jackson",
-                        "given": [
-                          "Jonathan"
-                        ],
+                        "given": ["Jonathan"],
                         "use": "official"
                       }
                     ],
@@ -73768,9 +73342,7 @@
                     "name": [
                       {
                         "family": "MD",
-                        "given": [
-                          "Brittney"
-                        ],
+                        "given": ["Brittney"],
                         "use": "official"
                       }
                     ],
@@ -74019,9 +73591,7 @@
                     "name": [
                       {
                         "family": "Nguyen",
-                        "given": [
-                          "Melissa"
-                        ],
+                        "given": ["Melissa"],
                         "use": "official"
                       }
                     ],
@@ -74184,9 +73754,7 @@
                     "name": [
                       {
                         "family": "Carlson",
-                        "given": [
-                          "Charles"
-                        ],
+                        "given": ["Charles"],
                         "use": "official"
                       }
                     ],
@@ -74349,9 +73917,7 @@
                     "name": [
                       {
                         "family": "Castro",
-                        "given": [
-                          "Erica"
-                        ],
+                        "given": ["Erica"],
                         "use": "official"
                       }
                     ],
@@ -74514,9 +74080,7 @@
                     "name": [
                       {
                         "family": "Young",
-                        "given": [
-                          "Valerie"
-                        ],
+                        "given": ["Valerie"],
                         "use": "official"
                       }
                     ],
@@ -75883,9 +75447,7 @@
                     "name": [
                       {
                         "family": "Young",
-                        "given": [
-                          "Valerie"
-                        ],
+                        "given": ["Valerie"],
                         "use": "official"
                       }
                     ],
@@ -76886,9 +76448,7 @@
                     "name": [
                       {
                         "family": "Sandoval",
-                        "given": [
-                          "Dana"
-                        ],
+                        "given": ["Dana"],
                         "use": "official"
                       }
                     ],
@@ -77222,9 +76782,7 @@
                     "name": [
                       {
                         "family": "Long",
-                        "given": [
-                          "Katherine"
-                        ],
+                        "given": ["Katherine"],
                         "use": "official"
                       }
                     ],
@@ -78188,9 +77746,7 @@
                     "name": [
                       {
                         "family": "Kim",
-                        "given": [
-                          "Emily"
-                        ],
+                        "given": ["Emily"],
                         "use": "official"
                       }
                     ],
@@ -78628,9 +78184,7 @@
                     "name": [
                       {
                         "family": "Palmer",
-                        "given": [
-                          "Shannon"
-                        ],
+                        "given": ["Shannon"],
                         "use": "official"
                       }
                     ],
@@ -80511,9 +80065,7 @@
                     "name": [
                       {
                         "family": "Ramos",
-                        "given": [
-                          "Tim"
-                        ],
+                        "given": ["Tim"],
                         "use": "official"
                       }
                     ],
@@ -81316,9 +80868,7 @@
                     "name": [
                       {
                         "family": "Norman",
-                        "given": [
-                          "Catherine"
-                        ],
+                        "given": ["Catherine"],
                         "use": "official"
                       }
                     ],
@@ -81639,9 +81189,7 @@
                     "name": [
                       {
                         "family": "Buchanan",
-                        "given": [
-                          "Brian"
-                        ],
+                        "given": ["Brian"],
                         "use": "official"
                       }
                     ],
@@ -81951,9 +81499,7 @@
                     "name": [
                       {
                         "family": "Hicks",
-                        "given": [
-                          "Emily"
-                        ],
+                        "given": ["Emily"],
                         "use": "official"
                       }
                     ],
@@ -82317,9 +81863,7 @@
                     "name": [
                       {
                         "family": "Meyers",
-                        "given": [
-                          "Jeffrey"
-                        ],
+                        "given": ["Jeffrey"],
                         "use": "official"
                       }
                     ],
@@ -83374,9 +82918,7 @@
                     "name": [
                       {
                         "family": "Orozco",
-                        "given": [
-                          "Jennifer"
-                        ],
+                        "given": ["Jennifer"],
                         "use": "official"
                       }
                     ],
@@ -85776,9 +85318,7 @@
                     "name": [
                       {
                         "family": "Powell",
-                        "given": [
-                          "Julie"
-                        ],
+                        "given": ["Julie"],
                         "use": "official"
                       }
                     ],
@@ -86155,9 +85695,7 @@
                     "name": [
                       {
                         "family": "Greer",
-                        "given": [
-                          "Mia"
-                        ],
+                        "given": ["Mia"],
                         "use": "official"
                       }
                     ],
@@ -88060,9 +87598,7 @@
                     "name": [
                       {
                         "family": "Merritt",
-                        "given": [
-                          "Pamela"
-                        ],
+                        "given": ["Pamela"],
                         "use": "official"
                       }
                     ],
@@ -88830,9 +88366,7 @@
                     "name": [
                       {
                         "family": "Wiggins",
-                        "given": [
-                          "Shawn"
-                        ],
+                        "given": ["Shawn"],
                         "use": "official"
                       }
                     ],
@@ -89195,11 +88729,7 @@
               "status": null,
               "category": "laboratory",
               "code": {
-                "values": [
-                  "MG",
-                  "19123-9",
-                  "2069-3"
-                ],
+                "values": ["MG", "19123-9", "2069-3"],
                 "operator": "OR"
               },
               "effective_date": {
@@ -89230,11 +88760,7 @@
               "status": null,
               "category": null,
               "code": {
-                "values": [
-                  "MG",
-                  "19123-9",
-                  "2069-3"
-                ],
+                "values": ["MG", "19123-9", "2069-3"],
                 "operator": "OR"
               },
               "effective_date": {
@@ -89922,9 +89448,7 @@
                     "name": [
                       {
                         "family": "Bishop",
-                        "given": [
-                          "Andrew"
-                        ],
+                        "given": ["Andrew"],
                         "use": "official"
                       }
                     ],
@@ -90558,9 +90082,7 @@
                     "name": [
                       {
                         "family": "Mitchell",
-                        "given": [
-                          "Dalton"
-                        ],
+                        "given": ["Dalton"],
                         "use": "official"
                       }
                     ],
@@ -91433,9 +90955,7 @@
                     "name": [
                       {
                         "family": "Summers",
-                        "given": [
-                          "Andrea"
-                        ],
+                        "given": ["Andrea"],
                         "use": "official"
                       }
                     ],
@@ -91651,9 +91171,7 @@
                     "name": [
                       {
                         "family": "Rodriguez",
-                        "given": [
-                          "Julie"
-                        ],
+                        "given": ["Julie"],
                         "use": "official"
                       }
                     ],
@@ -92486,9 +92004,7 @@
                     "name": [
                       {
                         "family": "Williams",
-                        "given": [
-                          "Brandon"
-                        ],
+                        "given": ["Brandon"],
                         "use": "official"
                       }
                     ],
@@ -92760,9 +92276,7 @@
                     "name": [
                       {
                         "family": "Johnson",
-                        "given": [
-                          "Jose"
-                        ],
+                        "given": ["Jose"],
                         "use": "official"
                       }
                     ],
@@ -93923,9 +93437,7 @@
                     "name": [
                       {
                         "family": "Golden",
-                        "given": [
-                          "Katrina"
-                        ],
+                        "given": ["Katrina"],
                         "use": "official"
                       }
                     ],
@@ -94590,11 +94102,7 @@
               "observation_id": null,
               "patient_id": "S6268253",
               "status": {
-                "values": [
-                  "final",
-                  "amended",
-                  "corrected"
-                ],
+                "values": ["final", "amended", "corrected"],
                 "operator": "OR"
               },
               "category": "laboratory",
@@ -95035,9 +94543,7 @@
                     "name": [
                       {
                         "family": "Everett",
-                        "given": [
-                          "Andrew"
-                        ],
+                        "given": ["Andrew"],
                         "use": "official"
                       }
                     ],
@@ -95302,9 +94808,7 @@
                     "name": [
                       {
                         "family": "Stafford",
-                        "given": [
-                          "Peter"
-                        ],
+                        "given": ["Peter"],
                         "use": "official"
                       }
                     ],
@@ -95517,9 +95021,7 @@
                     "name": [
                       {
                         "family": "Ramirez",
-                        "given": [
-                          "Benjamin"
-                        ],
+                        "given": ["Benjamin"],
                         "use": "official"
                       }
                     ],
@@ -95885,9 +95387,7 @@
                     "name": [
                       {
                         "family": "Kim",
-                        "given": [
-                          "Emily"
-                        ],
+                        "given": ["Emily"],
                         "use": "official"
                       }
                     ],
@@ -96532,9 +96032,7 @@
                     "name": [
                       {
                         "family": "Sullivan",
-                        "given": [
-                          "Phillip"
-                        ],
+                        "given": ["Phillip"],
                         "use": "official"
                       }
                     ],
@@ -96922,9 +96420,7 @@
                     "name": [
                       {
                         "family": "Greer",
-                        "given": [
-                          "Mia"
-                        ],
+                        "given": ["Mia"],
                         "use": "official"
                       }
                     ],
@@ -97511,17 +97007,11 @@
               "observation_id": null,
               "patient_id": "S6488980",
               "status": {
-                "values": [
-                  "final",
-                  "amended"
-                ],
+                "values": ["final", "amended"],
                 "operator": "OR"
               },
               "category": {
-                "values": [
-                  "laboratory",
-                  "vital-signs"
-                ],
+                "values": ["laboratory", "vital-signs"],
                 "operator": "OR"
               },
               "code": "GLU",
@@ -97795,9 +97285,7 @@
                     "name": [
                       {
                         "family": "Hernandez",
-                        "given": [
-                          "Katie"
-                        ],
+                        "given": ["Katie"],
                         "use": "official"
                       }
                     ],
@@ -98112,9 +97600,7 @@
                     "name": [
                       {
                         "family": "Clark",
-                        "given": [
-                          "Yesenia"
-                        ],
+                        "given": ["Yesenia"],
                         "use": "official"
                       }
                     ],
@@ -98491,9 +97977,7 @@
                     "name": [
                       {
                         "family": "Mitchell",
-                        "given": [
-                          "Dalton"
-                        ],
+                        "given": ["Dalton"],
                         "use": "official"
                       }
                     ],
@@ -100007,9 +99491,7 @@
                     "name": [
                       {
                         "family": "Klein",
-                        "given": [
-                          "Bobby"
-                        ],
+                        "given": ["Bobby"],
                         "use": "official"
                       }
                     ],
@@ -100259,10 +99741,7 @@
               "patient_id": "S6538722",
               "status": "final",
               "category": {
-                "values": [
-                  "vital-signs",
-                  "laboratory"
-                ],
+                "values": ["vital-signs", "laboratory"],
                 "operator": "OR"
               },
               "code": "GLU",
@@ -101268,9 +100747,7 @@
                     "name": [
                       {
                         "family": "Jones",
-                        "given": [
-                          "Anna"
-                        ],
+                        "given": ["Anna"],
                         "use": "official"
                       }
                     ],
@@ -101485,9 +100962,7 @@
                     "name": [
                       {
                         "family": "Smith",
-                        "given": [
-                          "Nathaniel"
-                        ],
+                        "given": ["Nathaniel"],
                         "use": "official"
                       }
                     ],
@@ -101808,9 +101283,7 @@
                     "name": [
                       {
                         "family": "Ruiz",
-                        "given": [
-                          "Allen"
-                        ],
+                        "given": ["Allen"],
                         "use": "official"
                       }
                     ],
@@ -102065,10 +101538,7 @@
               "patient_id": "S6426560",
               "status": "final",
               "category": {
-                "values": [
-                  "laboratory",
-                  "vital-signs"
-                ],
+                "values": ["laboratory", "vital-signs"],
                 "operator": "OR"
               },
               "code": "GLU",
@@ -102766,9 +102236,7 @@
                     "name": [
                       {
                         "family": "Carlson",
-                        "given": [
-                          "Charles"
-                        ],
+                        "given": ["Charles"],
                         "use": "official"
                       }
                     ],
@@ -103584,9 +103052,7 @@
                     "name": [
                       {
                         "family": "Johnson",
-                        "given": [
-                          "Samantha"
-                        ],
+                        "given": ["Samantha"],
                         "use": "official"
                       }
                     ],
@@ -104058,9 +103524,7 @@
                     "name": [
                       {
                         "family": "Schultz",
-                        "given": [
-                          "Victor"
-                        ],
+                        "given": ["Victor"],
                         "use": "official"
                       }
                     ],
@@ -104270,9 +103734,7 @@
                     "name": [
                       {
                         "family": "Frye",
-                        "given": [
-                          "Tyler"
-                        ],
+                        "given": ["Tyler"],
                         "use": "official"
                       }
                     ],
@@ -104738,9 +104200,7 @@
                     "name": [
                       {
                         "family": "Merritt",
-                        "given": [
-                          "Pamela"
-                        ],
+                        "given": ["Pamela"],
                         "use": "official"
                       }
                     ],
@@ -104950,9 +104410,7 @@
                     "name": [
                       {
                         "family": "Reid",
-                        "given": [
-                          "Tina"
-                        ],
+                        "given": ["Tina"],
                         "use": "official"
                       }
                     ],
@@ -105227,9 +104685,7 @@
                     "name": [
                       {
                         "family": "Klein",
-                        "given": [
-                          "Nathan"
-                        ],
+                        "given": ["Nathan"],
                         "use": "official"
                       }
                     ],
@@ -106791,10 +106247,7 @@
               "observation_id": null,
               "patient_id": "S6550627",
               "status": {
-                "values": [
-                  "final",
-                  "amended"
-                ],
+                "values": ["final", "amended"],
                 "operator": "OR"
               },
               "category": "laboratory",
@@ -106828,10 +106281,7 @@
               "observation_id": null,
               "patient_id": "S6550627",
               "status": {
-                "values": [
-                  "final",
-                  "amended"
-                ],
+                "values": ["final", "amended"],
                 "operator": "OR"
               },
               "category": "laboratory",
@@ -109864,9 +109314,7 @@
                     "name": [
                       {
                         "family": "MD",
-                        "given": [
-                          "Brittney"
-                        ],
+                        "given": ["Brittney"],
                         "use": "official"
                       }
                     ],
@@ -110246,9 +109694,7 @@
                     "name": [
                       {
                         "family": "Golden",
-                        "given": [
-                          "Katrina"
-                        ],
+                        "given": ["Katrina"],
                         "use": "official"
                       }
                     ],
@@ -110712,9 +110158,7 @@
                     "name": [
                       {
                         "family": "Alvarez",
-                        "given": [
-                          "Maria"
-                        ],
+                        "given": ["Maria"],
                         "use": "official"
                       }
                     ],
@@ -112027,9 +111471,7 @@
                     "name": [
                       {
                         "family": "Robinson",
-                        "given": [
-                          "Alyssa"
-                        ],
+                        "given": ["Alyssa"],
                         "use": "official"
                       }
                     ],
@@ -112293,9 +111735,7 @@
                     "name": [
                       {
                         "family": "Hall",
-                        "given": [
-                          "Glenda"
-                        ],
+                        "given": ["Glenda"],
                         "use": "official"
                       }
                     ],
@@ -114741,9 +114181,7 @@
                     "name": [
                       {
                         "family": "Stafford",
-                        "given": [
-                          "Peter"
-                        ],
+                        "given": ["Peter"],
                         "use": "official"
                       }
                     ],
@@ -115197,9 +114635,7 @@
                     "name": [
                       {
                         "family": "Bishop",
-                        "given": [
-                          "Andrew"
-                        ],
+                        "given": ["Andrew"],
                         "use": "official"
                       }
                     ],
@@ -115515,9 +114951,7 @@
                     "name": [
                       {
                         "family": "Contreras",
-                        "given": [
-                          "Andrew"
-                        ],
+                        "given": ["Andrew"],
                         "use": "official"
                       }
                     ],
@@ -116113,9 +115547,7 @@
                     "name": [
                       {
                         "family": "Carroll",
-                        "given": [
-                          "Erik"
-                        ],
+                        "given": ["Erik"],
                         "use": "official"
                       }
                     ],
@@ -116732,9 +116164,7 @@
                     "name": [
                       {
                         "family": "Castro",
-                        "given": [
-                          "Erica"
-                        ],
+                        "given": ["Erica"],
                         "use": "official"
                       }
                     ],
@@ -117131,9 +116561,7 @@
                     "name": [
                       {
                         "family": "Keller",
-                        "given": [
-                          "Kristin"
-                        ],
+                        "given": ["Kristin"],
                         "use": "official"
                       }
                     ],
@@ -117494,9 +116922,7 @@
                     "name": [
                       {
                         "family": "Powell",
-                        "given": [
-                          "Julie"
-                        ],
+                        "given": ["Julie"],
                         "use": "official"
                       }
                     ],
@@ -117760,9 +117186,7 @@
                     "name": [
                       {
                         "family": "Singleton",
-                        "given": [
-                          "Beth"
-                        ],
+                        "given": ["Beth"],
                         "use": "official"
                       }
                     ],
@@ -118290,9 +117714,7 @@
                     "name": [
                       {
                         "family": "Welch",
-                        "given": [
-                          "Gregory"
-                        ],
+                        "given": ["Gregory"],
                         "use": "official"
                       }
                     ],
@@ -119251,9 +118673,7 @@
                     "name": [
                       {
                         "family": "Alvarez",
-                        "given": [
-                          "Maria"
-                        ],
+                        "given": ["Maria"],
                         "use": "official"
                       }
                     ],
@@ -119507,9 +118927,7 @@
                     "name": [
                       {
                         "family": "Long",
-                        "given": [
-                          "Katherine"
-                        ],
+                        "given": ["Katherine"],
                         "use": "official"
                       }
                     ],
@@ -120110,10 +119528,7 @@
               "status": "final",
               "category": "laboratory",
               "code": {
-                "values": [
-                  "K",
-                  "2823-3"
-                ],
+                "values": ["K", "2823-3"],
                 "operator": "OR"
               },
               "effective_date": null,
@@ -120147,10 +119562,7 @@
               "status": "final",
               "category": "laboratory",
               "code": {
-                "values": [
-                  "K",
-                  "2823-3"
-                ],
+                "values": ["K", "2823-3"],
                 "operator": "OR"
               },
               "effective_date": null,
@@ -120399,9 +119811,7 @@
                     "name": [
                       {
                         "family": "Johnson",
-                        "given": [
-                          "Jose"
-                        ],
+                        "given": ["Jose"],
                         "use": "official"
                       }
                     ],
@@ -120841,10 +120251,7 @@
               "status": "final",
               "category": "laboratory",
               "code": {
-                "values": [
-                  "K",
-                  "2823-3"
-                ],
+                "values": ["K", "2823-3"],
                 "operator": "OR"
               },
               "effective_date": null,
@@ -120878,10 +120285,7 @@
               "status": "final",
               "category": "laboratory",
               "code": {
-                "values": [
-                  "K",
-                  "2823-3"
-                ],
+                "values": ["K", "2823-3"],
                 "operator": "OR"
               },
               "effective_date": null,
@@ -121056,10 +120460,7 @@
               "status": "final",
               "category": "laboratory",
               "code": {
-                "values": [
-                  "2823-3",
-                  "K"
-                ],
+                "values": ["2823-3", "K"],
                 "operator": "OR"
               },
               "effective_date": null,
@@ -121093,10 +120494,7 @@
               "status": "final",
               "category": "laboratory",
               "code": {
-                "values": [
-                  "2823-3",
-                  "K"
-                ],
+                "values": ["2823-3", "K"],
                 "operator": "OR"
               },
               "effective_date": null,
@@ -121560,10 +120958,7 @@
               "status": "final",
               "category": "laboratory",
               "code": {
-                "values": [
-                  "K",
-                  "2823-3"
-                ],
+                "values": ["K", "2823-3"],
                 "operator": "OR"
               },
               "effective_date": null,
@@ -121597,10 +120992,7 @@
               "status": "final",
               "category": "laboratory",
               "code": {
-                "values": [
-                  "K",
-                  "2823-3"
-                ],
+                "values": ["K", "2823-3"],
                 "operator": "OR"
               },
               "effective_date": null,
@@ -121846,9 +121238,7 @@
                     "name": [
                       {
                         "family": "Jackson",
-                        "given": [
-                          "Sherri"
-                        ],
+                        "given": ["Sherri"],
                         "use": "official"
                       }
                     ],
@@ -123124,10 +122514,7 @@
               "status": "final",
               "category": "laboratory",
               "code": {
-                "values": [
-                  "2823-3",
-                  "K"
-                ],
+                "values": ["2823-3", "K"],
                 "operator": "OR"
               },
               "effective_date": null,
@@ -123416,11 +122803,7 @@
               "status": "final",
               "category": "laboratory",
               "code": {
-                "values": [
-                  "2823-3",
-                  "6298-4",
-                  "K"
-                ],
+                "values": ["2823-3", "6298-4", "K"],
                 "operator": "OR"
               },
               "effective_date": null,
@@ -123685,9 +123068,7 @@
                     "name": [
                       {
                         "family": "Carroll",
-                        "given": [
-                          "Erik"
-                        ],
+                        "given": ["Erik"],
                         "use": "official"
                       }
                     ],
@@ -123935,10 +123316,7 @@
               "status": "final",
               "category": "laboratory",
               "code": {
-                "values": [
-                  "2823-3",
-                  "K"
-                ],
+                "values": ["2823-3", "K"],
                 "operator": "OR"
               },
               "effective_date": null,
@@ -123972,10 +123350,7 @@
               "status": "final",
               "category": "laboratory",
               "code": {
-                "values": [
-                  "2823-3",
-                  "K"
-                ],
+                "values": ["2823-3", "K"],
                 "operator": "OR"
               },
               "effective_date": null,
@@ -124785,9 +124160,7 @@
                     "name": [
                       {
                         "family": "Carlson",
-                        "given": [
-                          "Charles"
-                        ],
+                        "given": ["Charles"],
                         "use": "official"
                       }
                     ],
@@ -125045,10 +124418,7 @@
               "status": null,
               "category": "laboratory",
               "code": {
-                "values": [
-                  "2823-3",
-                  "K"
-                ],
+                "values": ["2823-3", "K"],
                 "operator": "OR"
               },
               "effective_date": null,
@@ -125404,9 +124774,7 @@
                     "name": [
                       {
                         "family": "Klein",
-                        "given": [
-                          "Nathan"
-                        ],
+                        "given": ["Nathan"],
                         "use": "official"
                       }
                     ],
@@ -125746,9 +125114,7 @@
                     "name": [
                       {
                         "family": "Johnson",
-                        "given": [
-                          "Gary"
-                        ],
+                        "given": ["Gary"],
                         "use": "official"
                       }
                     ],
@@ -126113,9 +125479,7 @@
                     "name": [
                       {
                         "family": "Miller",
-                        "given": [
-                          "Keith"
-                        ],
+                        "given": ["Keith"],
                         "use": "official"
                       }
                     ],
@@ -126440,9 +125804,7 @@
                     "name": [
                       {
                         "family": "Thompson",
-                        "given": [
-                          "Kelli"
-                        ],
+                        "given": ["Kelli"],
                         "use": "official"
                       }
                     ],
@@ -126840,9 +126202,7 @@
                     "name": [
                       {
                         "family": "Morris",
-                        "given": [
-                          "Allison"
-                        ],
+                        "given": ["Allison"],
                         "use": "official"
                       }
                     ],
@@ -127245,9 +126605,7 @@
                     "name": [
                       {
                         "family": "Alvarez",
-                        "given": [
-                          "Maria"
-                        ],
+                        "given": ["Maria"],
                         "use": "official"
                       }
                     ],
@@ -127693,9 +127051,7 @@
                     "name": [
                       {
                         "family": "Orozco",
-                        "given": [
-                          "Jennifer"
-                        ],
+                        "given": ["Jennifer"],
                         "use": "official"
                       }
                     ],
@@ -127974,9 +127330,7 @@
                     "name": [
                       {
                         "family": "Trujillo",
-                        "given": [
-                          "Keith"
-                        ],
+                        "given": ["Keith"],
                         "use": "official"
                       }
                     ],
@@ -128992,9 +128346,7 @@
                     "name": [
                       {
                         "family": "Thomas",
-                        "given": [
-                          "Linda"
-                        ],
+                        "given": ["Linda"],
                         "use": "official"
                       }
                     ],
@@ -129447,9 +128799,7 @@
                     "name": [
                       {
                         "family": "Parker",
-                        "given": [
-                          "Anthony"
-                        ],
+                        "given": ["Anthony"],
                         "use": "official"
                       }
                     ],
@@ -129473,10 +128823,7 @@
               "status": "final",
               "category": "laboratory",
               "code": {
-                "values": [
-                  "K",
-                  "2823-3"
-                ],
+                "values": ["K", "2823-3"],
                 "operator": "OR"
               },
               "effective_date": null,
@@ -129510,10 +128857,7 @@
               "status": "final",
               "category": "laboratory",
               "code": {
-                "values": [
-                  "K",
-                  "2823-3"
-                ],
+                "values": ["K", "2823-3"],
                 "operator": "OR"
               },
               "effective_date": null,
@@ -129862,9 +129206,7 @@
                     "name": [
                       {
                         "family": "Dunlap",
-                        "given": [
-                          "Denise"
-                        ],
+                        "given": ["Denise"],
                         "use": "official"
                       }
                     ],
@@ -129888,10 +129230,7 @@
               "status": "final",
               "category": "laboratory",
               "code": {
-                "values": [
-                  "2823-3",
-                  "K"
-                ],
+                "values": ["2823-3", "K"],
                 "operator": "OR"
               },
               "effective_date": null,
@@ -129925,10 +129264,7 @@
               "status": "final",
               "category": "laboratory",
               "code": {
-                "values": [
-                  "2823-3",
-                  "K"
-                ],
+                "values": ["2823-3", "K"],
                 "operator": "OR"
               },
               "effective_date": null,
@@ -130072,10 +129408,7 @@
               "patient_id": "S1698248",
               "status": "final",
               "category": {
-                "values": [
-                  "vital-signs",
-                  "laboratory"
-                ],
+                "values": ["vital-signs", "laboratory"],
                 "operator": "OR"
               },
               "code": "GLU",
@@ -130112,10 +129445,7 @@
               "patient_id": "S1698248",
               "status": "final",
               "category": {
-                "values": [
-                  "vital-signs",
-                  "laboratory"
-                ],
+                "values": ["vital-signs", "laboratory"],
                 "operator": "OR"
               },
               "code": "GLU",
@@ -130699,9 +130029,7 @@
                     "name": [
                       {
                         "family": "Hernandez",
-                        "given": [
-                          "Katie"
-                        ],
+                        "given": ["Katie"],
                         "use": "official"
                       }
                     ],
@@ -131150,9 +130478,7 @@
                     "name": [
                       {
                         "family": "Anderson",
-                        "given": [
-                          "Tina"
-                        ],
+                        "given": ["Tina"],
                         "use": "official"
                       }
                     ],
@@ -131176,10 +130502,7 @@
               "status": null,
               "category": "laboratory",
               "code": {
-                "values": [
-                  "A1C",
-                  "4548-4"
-                ],
+                "values": ["A1C", "4548-4"],
                 "operator": "OR"
               },
               "effective_date": null,
@@ -131213,10 +130536,7 @@
               "status": null,
               "category": "laboratory",
               "code": {
-                "values": [
-                  "A1C",
-                  "4548-4"
-                ],
+                "values": ["A1C", "4548-4"],
                 "operator": "OR"
               },
               "effective_date": null,
@@ -131694,9 +131014,7 @@
                     "name": [
                       {
                         "family": "Shields",
-                        "given": [
-                          "Russell"
-                        ],
+                        "given": ["Russell"],
                         "use": "official"
                       }
                     ],
@@ -131720,10 +131038,7 @@
               "status": null,
               "category": "laboratory",
               "code": {
-                "values": [
-                  "2823-3",
-                  "K"
-                ],
+                "values": ["2823-3", "K"],
                 "operator": "OR"
               },
               "effective_date": null,
@@ -131757,10 +131072,7 @@
               "status": "final",
               "category": "laboratory",
               "code": {
-                "values": [
-                  "2823-3",
-                  "K"
-                ],
+                "values": ["2823-3", "K"],
                 "operator": "OR"
               },
               "effective_date": null,
@@ -132127,9 +131439,7 @@
                     "name": [
                       {
                         "family": "Owens",
-                        "given": [
-                          "Victoria"
-                        ],
+                        "given": ["Victoria"],
                         "use": "official"
                       }
                     ],
@@ -132153,10 +131463,7 @@
               "status": "final",
               "category": "laboratory",
               "code": {
-                "values": [
-                  "2823-3",
-                  "K"
-                ],
+                "values": ["2823-3", "K"],
                 "operator": "OR"
               },
               "effective_date": null,
@@ -132780,9 +132087,7 @@
                     "name": [
                       {
                         "family": "Winters",
-                        "given": [
-                          "Keith"
-                        ],
+                        "given": ["Keith"],
                         "use": "official"
                       }
                     ],
@@ -132806,10 +132111,7 @@
               "status": null,
               "category": "laboratory",
               "code": {
-                "values": [
-                  "K",
-                  "2823-3"
-                ],
+                "values": ["K", "2823-3"],
                 "operator": "OR"
               },
               "effective_date": null,
@@ -133626,9 +132928,7 @@
                     "name": [
                       {
                         "family": "Thomas",
-                        "given": [
-                          "Linda"
-                        ],
+                        "given": ["Linda"],
                         "use": "official"
                       }
                     ],
@@ -133972,9 +133272,7 @@
                     "name": [
                       {
                         "family": "Welch",
-                        "given": [
-                          "Gregory"
-                        ],
+                        "given": ["Gregory"],
                         "use": "official"
                       }
                     ],
@@ -134549,9 +133847,7 @@
                     "name": [
                       {
                         "family": "Woods",
-                        "given": [
-                          "Nathan"
-                        ],
+                        "given": ["Nathan"],
                         "use": "official"
                       }
                     ],
@@ -137260,9 +136556,7 @@
                     "name": [
                       {
                         "family": "Miller",
-                        "given": [
-                          "Keith"
-                        ],
+                        "given": ["Keith"],
                         "use": "official"
                       }
                     ],
@@ -137560,9 +136854,7 @@
                     "name": [
                       {
                         "family": "Scott",
-                        "given": [
-                          "Zachary"
-                        ],
+                        "given": ["Zachary"],
                         "use": "official"
                       }
                     ],
@@ -137903,9 +137195,7 @@
                     "name": [
                       {
                         "family": "Hall",
-                        "given": [
-                          "Glenda"
-                        ],
+                        "given": ["Glenda"],
                         "use": "official"
                       }
                     ],
@@ -139726,9 +139016,7 @@
                     "name": [
                       {
                         "family": "Gould",
-                        "given": [
-                          "Justin"
-                        ],
+                        "given": ["Justin"],
                         "use": "official"
                       }
                     ],
@@ -140190,9 +139478,7 @@
                     "name": [
                       {
                         "family": "Ramirez",
-                        "given": [
-                          "Benjamin"
-                        ],
+                        "given": ["Benjamin"],
                         "use": "official"
                       }
                     ],
@@ -140216,10 +139502,7 @@
               "status": "final",
               "category": "laboratory",
               "code": {
-                "values": [
-                  "A1C",
-                  "4548-4"
-                ],
+                "values": ["A1C", "4548-4"],
                 "operator": "OR"
               },
               "effective_date": null,
@@ -140253,10 +139536,7 @@
               "status": "final",
               "category": "laboratory",
               "code": {
-                "values": [
-                  "A1C",
-                  "4548-4"
-                ],
+                "values": ["A1C", "4548-4"],
                 "operator": "OR"
               },
               "effective_date": null,
@@ -140550,9 +139830,7 @@
                     "name": [
                       {
                         "family": "Price",
-                        "given": [
-                          "Linda"
-                        ],
+                        "given": ["Linda"],
                         "use": "official"
                       }
                     ],
@@ -140815,9 +140093,7 @@
                     "name": [
                       {
                         "family": "Buchanan",
-                        "given": [
-                          "Brian"
-                        ],
+                        "given": ["Brian"],
                         "use": "official"
                       }
                     ],

@@ -34,7 +34,7 @@
       "MAX_TOOL_CALL_FAILS": 10,
       "AGENT_INITIAL_MESSAGE": true,
       "INITIAL_CONVERSTION": "Hi! How can I help you today?",
-      "DOMAIN_POLICY_FILE": "/Users/yhong3/Documents/Research/Software Security/working_repo/mcp-agent/experiments/data/MedAgentBench/policy.md",
+      "DOMAIN_POLICY_FILE": "<ANONYMOUS_PROJECT_PATH>/experiments/data/MedAgentBench/policy.md",
       "SYSTEM_PROMPT_TEMPLATE": "<instructions>\n{agent_instruction}\n</instructions>\n<policy>\n{domain_policy}\n</policy>\n",
       "AGENT_INSTRUCTION": "You are an expert in using FHIR functions to assist medical professionals. \nYou are given a set of possible functions and will interact with a medical professional.\nYou will need to make one or more function/tool calls to help the medical professional to achieve their purpose.\n\nYou must strictly follow the <policy> provided below.\n"
     },
@@ -45,10 +45,10 @@
     },
     "EVAL": {
       "FHIR_API_BASE_URL": "http://127.0.0.1:8080/fhir/",
-      "SAVE_PATH": "/Users/yhong3/Documents/Research/Software Security/working_repo/mcp-agent/experiments/data/MedAgentBench/eval_results_ori_full.json"
+      "SAVE_PATH": "<ANONYMOUS_PROJECT_PATH>/experiments/data/MedAgentBench/eval_results_ori_full.json"
     },
     "SETTINGS": {
-      "LOG_PATH": "/Users/yhong3/Documents/Research/Software Security/working_repo/mcp-agent/experiments/logs/"
+      "LOG_PATH": "<ANONYMOUS_PROJECT_PATH>/experiments/logs/"
     },
     "SAFEGUARD": {
       "USER_CONFIRMATION": true,
@@ -61,7 +61,7 @@
       "NO_TOOL_CALL_DISCLOSURE_MESSAGE": "No tool calls to EMR system or external systems have been made since the last message."
     },
     "SIMULATION": {
-      "TASK_FILE": "/Users/yhong3/Documents/Research/Software Security/working_repo/mcp-agent/experiments/data/MedAgentBench/test_data_v2_augmented.json",
+      "TASK_FILE": "<ANONYMOUS_PROJECT_PATH>/experiments/data/MedAgentBench/test_data_v2_augmented.json",
       "TYPE": "Original_Benchmark",
       "MAX_STEPS": 40,
       "MAX_WORKERS": 20
