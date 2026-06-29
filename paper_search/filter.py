@@ -54,7 +54,7 @@ async def llm_annotate_paper_is_benchmark(papers) -> list:
         user_prompt=user_prompt,
         papers=papers,
         label_key="llm_annotate_is_benchmark",
-        prompt_cache_key="prompt_cache_key_filter_paper_hyn",
+        prompt_cache_key="prompt_cache_key_filter_paper",
     )
 
 
