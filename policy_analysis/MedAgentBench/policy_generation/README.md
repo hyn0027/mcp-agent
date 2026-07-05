@@ -2,4 +2,4 @@ Folder `hazard_analysis` contains all code we use to generate additional safety 
 
 `base_policy.md` contain the base policy we generated.
 
-The geneartion process, as well as the criteria and record of decomposing the generated additional safety requirement, please see `record.md`
+The generation process, as well as the criteria and record of decomposing the generated additional safety requirement, please see `record.md`.
